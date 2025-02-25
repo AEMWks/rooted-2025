@@ -28,12 +28,9 @@ jobs:
       - name: Build
         run: npm run build:prod
 
-      - name: CopyFile
-        run: npm run copy-not-found
-
       - name: List files
         run: ls -R ./dist/angular_deploy/browser
-        
+
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
