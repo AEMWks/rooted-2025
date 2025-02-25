@@ -4,9 +4,12 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --output-path docs ---base-href ./",
+    "build": "ng build",
+    "build:prod": "ng build --base-href=./ &amp;&amp; npm run copy-not-found",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "test:headless": "ng test --browsers ChromeHeadless",
+    "copy-not-found": "copyfiles -f ./src/404.html ./dist/angular_deploy/browser"
   },
   "private": true,
   "dependencies": {

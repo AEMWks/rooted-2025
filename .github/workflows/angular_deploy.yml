@@ -22,11 +22,11 @@ jobs:
       - name: Install dependencies
         run: npm i
 
-      # - name: Run tests
-      #  run: npm run test
+      - name: Run tests
+        run: npm run test:headless
 
       - name: Build
-        run: npm run build
+        run: npm run build:prod
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
