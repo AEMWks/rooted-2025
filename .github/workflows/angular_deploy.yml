@@ -26,7 +26,7 @@ jobs:
       #   run: npm run test:headless
 
       - name: Build
-        run: npm run build -- --configuration production
+        run: npm run build:prod
 
       - name: List files
         run: ls -R ./dist
