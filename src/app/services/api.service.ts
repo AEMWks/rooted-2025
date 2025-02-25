@@ -8,7 +8,7 @@ import { lastValueFrom } from 'rxjs';
 })
 export class ApiService {
 
-  apiUrlPrefix = 'https://reg.rootedcon.com/api/v1/events/timeline/190?d='
+  apiUrlPrefix = '/api/v1/events/timeline/190?d='
   dateSufix = 'T00%3A00%3A00%2B01%3A00'
 
   constructor(private http: HttpClient, @Inject(LOCALE_ID) private locale: string) { }

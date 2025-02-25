@@ -1,8 +1,11 @@
 {
-    "/api": {
-      "target": "https://reg.rootedcon.com",
-      "secure": false,
-      "changeOrigin": true,
-      "logLevel": "debug"
-    }
+  "/api": {
+    "target": "https://reg.rootedcon.com",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api": ""
+    },
+    "logLevel": "debug"
   }
+}
