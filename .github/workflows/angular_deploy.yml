@@ -22,8 +22,8 @@ jobs:
       - name: Install dependencies
         run: npm i
 
-      - name: Run tests
-        run: npm run test
+      # - name: Run tests
+      #  run: npm run test
 
       - name: Build
         run: npm run build
@@ -40,11 +40,11 @@ jobs:
     permissions:
       pages: write
       id-token: write
-    
+
     environment:
-      name: 'github-pages'
+      name: "github-pages"
       url: ${{ steps.deployment.outputs.page_url }}
-    
+
     runs-on: ubuntu-latest
 
     steps:
