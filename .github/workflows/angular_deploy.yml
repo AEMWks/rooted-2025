@@ -28,6 +28,9 @@ jobs:
       - name: Build
         run: npm run build:prod
 
+      - name: CopyFile
+        run: npm run copy-not-found
+
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
