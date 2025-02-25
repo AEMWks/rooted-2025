@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main # name of the branch you are pushing to
+      - main # name of the branch que estás empujando
 
 jobs:
   build:
@@ -27,7 +27,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'dist/${{ github.event.repository.name }}/browser/.'
+          name: build-artifact
+          path: ./dist/rootedcon-2025
 
   deploy:
     needs: build
