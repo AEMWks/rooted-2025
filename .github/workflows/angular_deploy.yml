@@ -1,10 +1,9 @@
-name: Build and Deploy
+name: Deploy Angular to GitHub Pages
 
 on:
-  workflow_dispatch:
   push:
     branches:
-      - master
+      - main # name of the branch you are pushing to
 
 jobs:
   build:
@@ -12,52 +11,29 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
-
-      - name: Install dependencies
-        run: npm install
-
-      # Uncomment the following lines if you want to run tests
-      # - name: Run tests
-      #   run: npm run test:headless
-
+          node-version: '20'
+      - name: Install Dependencies
+        run: npm ci
       - name: Build
-        run: npm run build:prod
-
-      - name: List files
-        run: ls -R ./dist
-
+        run: npm run build -- --configuration production --base-href /${{ github.event.repository.name }}/
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: build-artifact
-          path: ./dist
-
+          path: 'dist/${{ github.event.repository.name }}/browser/.'
   deploy:
     needs: build
     runs-on: ubuntu-latest
-
     permissions:
       pages: write
       id-token: write
-
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
+      url: 'https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: build-artifact
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2.0.4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Deploy
+        uses: actions/deploy-pages@v4
