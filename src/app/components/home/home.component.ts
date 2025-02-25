@@ -1,23 +1,48 @@
 import { Component } from '@angular/core';
 import { TimelineModule } from 'primeng/timeline';
 import { CardModule } from 'primeng/card';
+import { ButtonModule } from 'primeng/button';
 import { AccordionModule } from 'primeng/accordion';
 import { ApiService } from '../../services/api.service';
 import { CommonModule } from '@angular/common';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { faHeart, faPlus } from '@fortawesome/free-solid-svg-icons';
+import { IndexedDBService } from '../../services/indexedDB.service';
+import { ToastModule } from 'primeng/toast';
+import { MessageService } from 'primeng/api';
+import { Route, Router } from '@angular/router';
+
+
 
 @Component({
   selector: 'app-home',
-  imports: [TimelineModule, CommonModule, CardModule, AccordionModule],
+  imports: [TimelineModule, 
+    CommonModule, 
+    CardModule, 
+    AccordionModule, 
+    FontAwesomeModule,
+     ButtonModule, 
+     ToastModule],
   templateUrl: './home.component.html',
-  styleUrl: './home.component.scss'
+  styleUrl: './home.component.scss',
+  providers: [MessageService]
 })
 export class HomeComponent {
+
+  // Icons
+  faPlus = faPlus;
+  faHeart = faHeart
+
   day1: any[] = [];
   day2: any[] = [];
   day3: any[] = [];
   resourceIds: { [key: number]: any[] } = {}; // Objeto para almacenar eventos por room
 
-  constructor(private apiService: ApiService) { }
+  constructor(
+    private apiService: ApiService,
+    private indexedDBService: IndexedDBService,
+    private messageService: MessageService,
+    private router: Router) { }
 
   async ngOnInit() {
     try {
@@ -26,9 +51,9 @@ export class HomeComponent {
         //this.apiService.getEvents(new Date("2025-03-07"), new Date("2025-03-08")),
         //this.apiService.getEvents(new Date("2025-03-08"), new Date("2025-03-09")),
 
-        this.getEvents('2025-03-06'),
-        this.getEvents('2025-03-07'),
-        this.getEvents('2025-03-08'),
+        this.apiService.getEventsFromFile('2025-03-06'),
+        this.apiService.getEventsFromFile('2025-03-07'),
+        this.apiService.getEventsFromFile('2025-03-08'),
 
       ]);
 
@@ -40,20 +65,24 @@ export class HomeComponent {
         }
         this.resourceIds[resourceId].push(event);
       });
-
-      console.log(this.resourceIds);
     } catch (error) {
       console.error(error);
     }
   }
 
-  async getEvents(date: string): Promise<any[]> {
-    const url = `${date}.json`; // Ajusta la URL para apuntar a la carpeta 'assets'
-    console.log('Fetching URL:', url); // Añade este log para verificar la URL
-    const response = await fetch(url);
-    if (!response.ok) {
-      throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
+  async onEventClick(event: any) {
+    console.log('Add event:', event);
+
+    const exists = await this.indexedDBService.eventExists(event.title);
+    if (!exists) {
+      this.indexedDBService.addEvent(event);
+      this.messageService.add({ severity: 'success', summary: 'Success', detail: 'Event added to favorites' });
+    } else {
+      this.messageService.add({ severity: 'info', summary: 'Evento existente', detail: `El evento "${event.title}" ya existe en la base de datos.` });
     }
-    return response.json();
+  }
+
+  goToFavorites() {
+    this.router.navigate(['/favorites']);
   }
 }

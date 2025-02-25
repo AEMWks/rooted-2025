@@ -2,11 +2,27 @@
     <h1 class="text-4xl">RootedCON 2025</h1>
 </div>
 
+<p-button (click)="goToFavorites()" class="absolute right-0 top-0 m-6">
+    <button  class=" flex gap-2 justify-center items-center">
+        <span>Favorites</span>
+        <fa-icon [icon]="faHeart"></fa-icon>
+    </button>
+</p-button>
+
 <p-accordion class="grid grid-cols-1">
     <p-accordion-panel *ngFor="let rid of resourceIds | keyvalue" value="{{rid.key}}">
         <p-accordion-header class="text-2xl text-center m-6">Room {{ rid.key}}</p-accordion-header>
         <p-accordion-content>
             <p-timeline [value]="rid.value" align="alternate">
+                <ng-template #marker let-event>
+                    <button type="button" pRipple label="Success" severity="success" (click)="onEventClick(event)"
+                        class="p-link">
+                        <div
+                            class="flex w-8 h-8 items-center justify-center text-white rounded-full z-10 shadow-sm border-2 border-white">
+                            <fa-icon [icon]="faPlus"></fa-icon>
+                        </div>
+                    </button>
+                </ng-template>
                 <ng-template #opposite let-event>
                     <div> <small class="text-surface-500 dark:text-yellow-400">{{ event.start | date: 'HH:mm:ss'
                             }}</small>
@@ -29,3 +45,5 @@
         </p-accordion-content>
     </p-accordion-panel>
 </p-accordion>
+
+<p-toast></p-toast>

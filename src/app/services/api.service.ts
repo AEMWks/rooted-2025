@@ -20,4 +20,14 @@ export class ApiService {
     console.log('Fetching URL:', url); // Añade este log para verificar la URL
     return lastValueFrom(this.http.get<any[]>(url));
   }
+
+  async getEventsFromFile(date: string): Promise<any[]> {
+    const url = `${date}.json`; // Ajusta la URL para apuntar a la carpeta 'assets'
+    console.log('Fetching URL:', url); // Añade este log para verificar la URL
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
+    }
+    return response.json();
+  }
 }
