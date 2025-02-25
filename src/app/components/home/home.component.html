@@ -1,0 +1,31 @@
+<div class="flex justify-center items-center p-6">
+    <h1 class="text-4xl">Rooted CON 2025</h1>
+</div>
+
+<p-accordion class="grid grid-cols-1">
+    <p-accordion-panel *ngFor="let rid of resourceIds | keyvalue" value="{{rid.key}}">
+        <p-accordion-header class="text-2xl text-center m-6">Room {{ rid.key}}</p-accordion-header>
+        <p-accordion-content>
+            <p-timeline [value]="rid.value" align="alternate">
+                <ng-template #opposite let-event>
+                    <div> <small class="text-surface-500 dark:text-yellow-400">{{ event.start | date: 'HH:mm:ss'
+                            }}</small>
+                    </div>
+                    <div>
+                        <small class="text-surface-500 dark:text-gray-400">Room {{ event.extendedProps.room }} -
+                            <div *ngFor="let speaker of event.extendedProps.speakers ">
+                                {{speaker.name }}
+                            </div>
+                        </small>
+                    </div>
+                </ng-template>
+                <ng-template #content let-event>
+                    <p-card [header]="event.status" [subheader]="event.date">
+                        <h3 class="text-blue-300">{{ event.title }}</h3>
+                        <p class="text-xs">{{event.extendedProps.description}}</p>
+                    </p-card>
+                </ng-template>
+            </p-timeline>
+        </p-accordion-content>
+    </p-accordion-panel>
+</p-accordion>

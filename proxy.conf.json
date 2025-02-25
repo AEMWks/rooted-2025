@@ -1,0 +1,8 @@
+{
+    "/api": {
+      "target": "https://reg.rootedcon.com",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    }
+  }
