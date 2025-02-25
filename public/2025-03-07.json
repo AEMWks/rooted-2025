@@ -1,0 +1,2631 @@
+[
+    {
+        "title": "En proceso",
+        "start": "2025-03-07T10:00:00",
+        "end": "2025-03-07T11:00:00",
+        "url": "/cfp/schedule/talk/82",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T100000",
+            "end_google": "20250307T110000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1000",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Ohana Means Family, Bienvenidos al Track",
+        "start": "2025-03-07T10:00:00",
+        "end": "2025-03-07T10:30:00",
+        "url": "/cfp/schedule/talk/162",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T100000",
+            "end_google": "20250307T103000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1000",
+            "duration_yahoo": "0.530.0",
+            "description": "El mundo cambia, y tambi\u00e9n la comunicaci\u00f3n. Vicisitudes de comunicar y organizar cosas en un mundo 'VUCA', es decir, como hacer cosas desde el caos.\r\n\r\n<b>Afernandesvigo",
+            "description_web": "El+mundo+cambia%2C+y+tambi%C3%A9n+la+comunicaci%C3%B3n.+Vicisitudes+de+comunicar+y+organizar+cosas+en+un+mundo+%27VUCA%27%2C+es+decir%2C+como+hacer+cosas+desde+el+caos.%0D%0A%0D%0A%3Cb%3EAfernandesvigo",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 861,
+                    "url": "/cfp/speaker/861",
+                    "name": "Antonio  Fernandes"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "Sudaka Style - Track Opening",
+        "start": "2025-03-07T10:00:00",
+        "end": "2025-03-07T10:30:00",
+        "url": "/cfp/schedule/talk/124",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T100000",
+            "end_google": "20250307T103000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1000",
+            "duration_yahoo": "0.530.0",
+            "description": "En OSINT al igual que en la vida existen formas de hacer las cosas bien\r\ny formas de hacer las cosas mal\u2026 y despu\u00e9s existen las formas sudakas!! No te vas a\r\nquerer perder esta peque\u00f1a charla/intro.",
+            "description_web": "En+OSINT+al+igual+que+en+la+vida+existen+formas+de+hacer+las+cosas+bien%0D%0Ay+formas+de+hacer+las+cosas+mal%E2%80%A6+y+despu%C3%A9s+existen+las+formas+sudakas%21%21+No+te+vas+a%0D%0Aquerer+perder+esta+peque%C3%B1a+charla%2Fintro.",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 802,
+                    "url": "/cfp/speaker/802",
+                    "name": "Jezer Ferreira"
+                },
+                {
+                    "id": 803,
+                    "url": "/cfp/speaker/803",
+                    "name": "Roberto Eduardo Gonzalez"
+                }
+            ]
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "Cumplimiento o parip\u00e9: hackeando al compliance",
+        "start": "2025-03-07T10:00:00",
+        "end": "2025-03-07T11:00:00",
+        "url": "/cfp/schedule/talk/95",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T100000",
+            "end_google": "20250307T110000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1000",
+            "duration_yahoo": "1.00.0",
+            "description": "Todos aquellos que se han visto involucrados en el proceso de certificaci\u00f3n de una norma, se han visto tentados a montar escenarios de cart\u00f3n piedra. Se establecen conflictos entre las necesidades de procedimentar y guardar evidencia, frente a la agilidad necesaria del d\u00eda a d\u00eda. Y todo ello \u00bfpara que? \u00bfpara tener un papelito? \u00bfO realmente hay algo que ayuda a protegernos de un ataque? Desde la experiencia de tener un entorno certificado en ISO 27001 y en el Esquema Nacional de Seguridad con categor\u00eda ALTA, hablaremos que cosas merecen la pena y que cosas son desperdicios de recursos. Como hackear el compliance para que no sea una p\u00e9rdida de tiempo alejada de la seguridad.",
+            "description_web": "Todos+aquellos+que+se+han+visto+involucrados+en+el+proceso+de+certificaci%C3%B3n+de+una+norma%2C+se+han+visto+tentados+a+montar+escenarios+de+cart%C3%B3n+piedra.+Se+establecen+conflictos+entre+las+necesidades+de+procedimentar+y+guardar+evidencia%2C+frente+a+la+agilidad+necesaria+del+d%C3%ADa+a+d%C3%ADa.+Y+todo+ello+%C2%BFpara+que%3F+%C2%BFpara+tener+un+papelito%3F+%C2%BFO+realmente+hay+algo+que+ayuda+a+protegernos+de+un+ataque%3F+Desde+la+experiencia+de+tener+un+entorno+certificado+en+ISO+27001+y+en+el+Esquema+Nacional+de+Seguridad+con+categor%C3%ADa+ALTA%2C+hablaremos+que+cosas+merecen+la+pena+y+que+cosas+son+desperdicios+de+recursos.+Como+hackear+el+compliance+para+que+no+sea+una+p%C3%A9rdida+de+tiempo+alejada+de+la+seguridad.",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 737,
+                    "url": "/cfp/speaker/737",
+                    "name": "Ignacio P\u00e9rez"
+                },
+                {
+                    "id": 738,
+                    "url": "/cfp/speaker/738",
+                    "name": "Est\u00edbaliz Mart\u00edn L\u00e1zaro"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "Autenticaciones forzadas & Sniffing: An\u00e1lisis de Vectores de Ataque",
+        "start": "2025-03-07T10:00:00",
+        "end": "2025-03-07T10:30:00",
+        "url": "/cfp/schedule/talk/110",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T100000",
+            "end_google": "20250307T103000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1000",
+            "duration_yahoo": "0.530.0",
+            "description": "Sabemos qu\u00e9 son las t\u00e9cnicas de autenticaci\u00f3n forzada, \u00bfpero sabemos c\u00f3mo funcionan y qu\u00e9 podemos llegar a hacer con ellas? Analizamos la historia de estas t\u00e9cnicas, su funcionamiento y ponemos los pies en la tierra para explorar acciones avanzadas con herramientas sencillas.",
+            "description_web": "Sabemos+qu%C3%A9+son+las+t%C3%A9cnicas+de+autenticaci%C3%B3n+forzada%2C+%C2%BFpero+sabemos+c%C3%B3mo+funcionan+y+qu%C3%A9+podemos+llegar+a+hacer+con+ellas%3F+Analizamos+la+historia+de+estas+t%C3%A9cnicas%2C+su+funcionamiento+y+ponemos+los+pies+en+la+tierra+para+explorar+acciones+avanzadas+con+herramientas+sencillas.",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 901,
+                    "url": "/cfp/speaker/901",
+                    "name": "Egoitz San Martin"
+                },
+                {
+                    "id": 900,
+                    "url": "/cfp/speaker/900",
+                    "name": "Dimas Pastor"
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "Mesa redonda: EMPRENDIMIENTO",
+        "start": "2025-03-07T10:00:00",
+        "end": "2025-03-07T11:30:00",
+        "url": "/cfp/schedule/talk/136",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T100000",
+            "end_google": "20250307T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1000",
+            "duration_yahoo": "1.530.0",
+            "description": "RootedPANEL: EMPRENDIMIENTO",
+            "description_web": "RootedPANEL%3A+EMPRENDIMIENTO",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 849,
+                    "url": "/cfp/speaker/849",
+                    "name": "Daniel Sol\u00eds"
+                },
+                {
+                    "id": 850,
+                    "url": "/cfp/speaker/850",
+                    "name": "Eduardo Di Monte"
+                },
+                {
+                    "id": 902,
+                    "url": "/cfp/speaker/902",
+                    "name": "LUIS FERNANDEZ DELGADO"
+                },
+                {
+                    "id": 903,
+                    "url": "/cfp/speaker/903",
+                    "name": "Jos\u00e9 de la Pe\u00f1a"
+                },
+                {
+                    "id": 904,
+                    "url": "/cfp/speaker/904",
+                    "name": "Juan Manuel Lopez Santamaria"
+                },
+                {
+                    "id": 905,
+                    "url": "/cfp/speaker/905",
+                    "name": "\u00d3scar Alegre"
+                },
+                {
+                    "id": 906,
+                    "url": "/cfp/speaker/906",
+                    "name": "\u00c1ngel L\u00f3pez Dom\u00e9nech"
+                },
+                {
+                    "id": 907,
+                    "url": "/cfp/speaker/907",
+                    "name": "Pedro Castillo"
+                }
+            ]
+        },
+        "resourceId": "rooted17",
+        "className": "erooted"
+    },
+    {
+        "title": "Pentesting Just Got Fun: Meet the AI Agent Squad",
+        "start": "2025-03-07T10:00:00",
+        "end": "2025-03-07T11:00:00",
+        "url": "/cfp/schedule/talk/149",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T100000",
+            "end_google": "20250307T110000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1000",
+            "duration_yahoo": "1.00.0",
+            "description": "En el mundo de la ciberseguridad, y en concreto el del pentesting, la eficiencia y ser preciso es clave para identificar los caminos que proporcionen el \u00e9xito en los objetivos del test. En esta ponencia se explora la utilidad de los sistemas multi agente con Inteligencia Artificial con el objetivo de mostrar c\u00f3mo este campo aporta al pentesting. Con el enfoque innovador de la disrupci\u00f3n de los sistemas multi agentes, se presentar\u00e1 un sistema desarrollado (from scratch) que integra peque\u00f1os agentes especializados y aut\u00f3nomos, dise\u00f1ados para realizar tareas de pentesting complejas mientras colaboran de manera orquestada. Disponer de este tipo de agentes especializados romper\u00e1 la complejidad de ciertas tareas, simplificando el proceso. El pentester podr\u00e1 utilizar el sistema como un ayudante al que solicitar las tareas que quiere realizar. El sistema multiagente presentado es un sistema inteligente en la que cada agente desempe\u00f1a un rol espec\u00edfico, desde el escaneo y reconocimiento inicial, pasando por la enumeraci\u00f3n de servicios y usuarios, hasta la post-explotaci\u00f3n y explotaci\u00f3n de vulnerabilidades. Estos agentes trabajan juntos para conformar un gran \"copilot\", que no solo automatiza tareas, sino que tambi\u00e9n permite la colaboraci\u00f3n activa con el pentester. Se tiene la capacidad de poder aunar esfuerzos entre ellos, ya que pueden colaborar entre ellos para optimizar los resultados, gracias a la orquestaci\u00f3n del sistema. A trav\u00e9s de comandos de voz y sugerencias, el usuario puede guiar al sistema, solicitar acciones espec\u00edficas, recibir recomendaciones estrat\u00e9gicas y analizar resultados en tiempo real. Esta interacci\u00f3n fluida e intuitiva redefine c\u00f3mo los profesionales abordan pruebas de seguridad en redes y aplicaciones. El sistema se ha creado con el framework CrewAI a trav\u00e9s de Python. Durante la ponencia se detallar\u00e1n diferentes tipos de usos y escenarios, siempre con un enfoque din\u00e1mico y pr\u00e1ctico. El sistema de agentes utiliza diferentes tipos de modelos de IA. Es sabido que el pentesting maneja informaci\u00f3n privada de empresas, por ello se ha utilizado modelos de IA locales basados en modelos fundicionales Open Source y reentrenados u optimizados para los diferentes casos del sistema. En otras ocasiones como, por ejemplo, la b\u00fasqueda de informaci\u00f3n o de CVEs, se puede utilizar modelos p\u00fablicos d\u00f3nde la privacidad no es relevante. La combinaci\u00f3n de ambos mundos hace que el sistema est\u00e9 m\u00e1s optimizado y con mayor capacidad ante los retos. Esta ponencia no solo mostrar\u00e1 un nuevo sistema que aporta ideas y simplifica ciertas acciones de pentesting, sino tambi\u00e9n una nueva perspectiva sobre la relaci\u00f3n entre humanos y m\u00e1quinas en el pentesting. Al proporcionar un ayudante din\u00e1mico y colaborativo, este sistema multi agente abre la puerta a un futuro donde la inteligencia artificial potencia las capacidades humanas sin reemplazarlas. La charla demostrar\u00e1 el impacto y la utilidad de esta tecnolog\u00eda, destacando su potencial para revolucionar la manera en que se realizan auditor\u00edas de seguridad.",
+            "description_web": "En+el+mundo+de+la+ciberseguridad%2C+y+en+concreto+el+del+pentesting%2C+la+eficiencia+y+ser+preciso+es+clave+para+identificar+los+caminos+que+proporcionen+el+%C3%A9xito+en+los+objetivos+del+test.+En+esta+ponencia+se+explora+la+utilidad+de+los+sistemas+multi+agente+con+Inteligencia+Artificial+con+el+objetivo+de+mostrar+c%C3%B3mo+este+campo+aporta+al+pentesting.+Con+el+enfoque+innovador+de+la+disrupci%C3%B3n+de+los+sistemas+multi+agentes%2C+se+presentar%C3%A1+un+sistema+desarrollado+%28from+scratch%29+que+integra+peque%C3%B1os+agentes+especializados+y+aut%C3%B3nomos%2C+dise%C3%B1ados+para+realizar+tareas+de+pentesting+complejas+mientras+colaboran+de+manera+orquestada.+Disponer+de+este+tipo+de+agentes+especializados+romper%C3%A1+la+complejidad+de+ciertas+tareas%2C+simplificando+el+proceso.+El+pentester+podr%C3%A1+utilizar+el+sistema+como+un+ayudante+al+que+solicitar+las+tareas+que+quiere+realizar.+El+sistema+multiagente+presentado+es+un+sistema+inteligente+en+la+que+cada+agente+desempe%C3%B1a+un+rol+espec%C3%ADfico%2C+desde+el+escaneo+y+reconocimiento+inicial%2C+pasando+por+la+enumeraci%C3%B3n+de+servicios+y+usuarios%2C+hasta+la+post-explotaci%C3%B3n+y+explotaci%C3%B3n+de+vulnerabilidades.+Estos+agentes+trabajan+juntos+para+conformar+un+gran+%22copilot%22%2C+que+no+solo+automatiza+tareas%2C+sino+que+tambi%C3%A9n+permite+la+colaboraci%C3%B3n+activa+con+el+pentester.+Se+tiene+la+capacidad+de+poder+aunar+esfuerzos+entre+ellos%2C+ya+que+pueden+colaborar+entre+ellos+para+optimizar+los+resultados%2C+gracias+a+la+orquestaci%C3%B3n+del+sistema.+A+trav%C3%A9s+de+comandos+de+voz+y+sugerencias%2C+el+usuario+puede+guiar+al+sistema%2C+solicitar+acciones+espec%C3%ADficas%2C+recibir+recomendaciones+estrat%C3%A9gicas+y+analizar+resultados+en+tiempo+real.+Esta+interacci%C3%B3n+fluida+e+intuitiva+redefine+c%C3%B3mo+los+profesionales+abordan+pruebas+de+seguridad+en+redes+y+aplicaciones.+El+sistema+se+ha+creado+con+el+framework+CrewAI+a+trav%C3%A9s+de+Python.+Durante+la+ponencia+se+detallar%C3%A1n+diferentes+tipos+de+usos+y+escenarios%2C+siempre+con+un+enfoque+din%C3%A1mico+y+pr%C3%A1ctico.+El+sistema+de+agentes+utiliza+diferentes+tipos+de+modelos+de+IA.+Es+sabido+que+el+pentesting+maneja+informaci%C3%B3n+privada+de+empresas%2C+por+ello+se+ha+utilizado+modelos+de+IA+locales+basados+en+modelos+fundicionales+Open+Source+y+reentrenados+u+optimizados+para+los+diferentes+casos+del+sistema.+En+otras+ocasiones+como%2C+por+ejemplo%2C+la+b%C3%BAsqueda+de+informaci%C3%B3n+o+de+CVEs%2C+se+puede+utilizar+modelos+p%C3%BAblicos+d%C3%B3nde+la+privacidad+no+es+relevante.+La+combinaci%C3%B3n+de+ambos+mundos+hace+que+el+sistema+est%C3%A9+m%C3%A1s+optimizado+y+con+mayor+capacidad+ante+los+retos.+Esta+ponencia+no+solo+mostrar%C3%A1+un+nuevo+sistema+que+aporta+ideas+y+simplifica+ciertas+acciones+de+pentesting%2C+sino+tambi%C3%A9n+una+nueva+perspectiva+sobre+la+relaci%C3%B3n+entre+humanos+y+m%C3%A1quinas+en+el+pentesting.+Al+proporcionar+un+ayudante+din%C3%A1mico+y+colaborativo%2C+este+sistema+multi+agente+abre+la+puerta+a+un+futuro+donde+la+inteligencia+artificial+potencia+las+capacidades+humanas+sin+reemplazarlas.+La+charla+demostrar%C3%A1+el+impacto+y+la+utilidad+de+esta+tecnolog%C3%ADa%2C+destacando+su+potencial+para+revolucionar+la+manera+en+que+se+realizan+auditor%C3%ADas+de+seguridad.",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 549,
+                    "url": "/cfp/speaker/549",
+                    "name": "Speaker 1"
+                },
+                {
+                    "id": 734,
+                    "url": "/cfp/speaker/734",
+                    "name": "Pablo Gonz\u00e1lez"
+                }
+            ]
+        },
+        "resourceId": "ia",
+        "className": "eia"
+    },
+    {
+        "title": "Un vistazo a las ciber-amenazas del futuro",
+        "start": "2025-03-07T10:30:00",
+        "end": "2025-03-07T11:00:00",
+        "url": "/cfp/schedule/talk/163",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T103000",
+            "end_google": "20250307T110000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1030",
+            "duration_yahoo": "0.530.0",
+            "description": "Es esencial mantenerse un paso por delante de las amenazas emergentes que podr\u00edan poner en peligro la integridad de nuestros sistemas y datos. Desde la integraci\u00f3n de la inteligencia artificial en los ciberataques hasta la erosi\u00f3n de la privacidad en un mundo cada vez m\u00e1s digital, vamos a analizar que tipo de ciber-ataques nos depara un futuro muy pr\u00f3ximo. APTs m\u00e1s capaces, malware altamente sofisticado, m\u00e9todos de estafa muy ingeniosos e investigaciones acad\u00e9micas que muestran vectores de ataque que podr\u00edan encajar perfectamente en una pel\u00edcula de Hollywood son todo riesgos que debemos tener en cuenta y a\u00f1adir a nuestro modelo de amenazas m\u00e1s pronto que tarde.\r\n\r\nPor: <b>Tierra de Hackers</b>",
+            "description_web": "Es+esencial+mantenerse+un+paso+por+delante+de+las+amenazas+emergentes+que+podr%C3%ADan+poner+en+peligro+la+integridad+de+nuestros+sistemas+y+datos.+Desde+la+integraci%C3%B3n+de+la+inteligencia+artificial+en+los+ciberataques+hasta+la+erosi%C3%B3n+de+la+privacidad+en+un+mundo+cada+vez+m%C3%A1s+digital%2C+vamos+a+analizar+que+tipo+de+ciber-ataques+nos+depara+un+futuro+muy+pr%C3%B3ximo.+APTs+m%C3%A1s+capaces%2C+malware+altamente+sofisticado%2C+m%C3%A9todos+de+estafa+muy+ingeniosos+e+investigaciones+acad%C3%A9micas+que+muestran+vectores+de+ataque+que+podr%C3%ADan+encajar+perfectamente+en+una+pel%C3%ADcula+de+Hollywood+son+todo+riesgos+que+debemos+tener+en+cuenta+y+a%C3%B1adir+a+nuestro+modelo+de+amenazas+m%C3%A1s+pronto+que+tarde.%0D%0A%0D%0APor%3A+%3Cb%3ETierra+de+Hackers%3C%2Fb%3E",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 787,
+                    "url": "/cfp/speaker/787",
+                    "name": "Mart\u00edn Vigo"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "El efecto mariposa en OSINT (Reloaded)",
+        "start": "2025-03-07T10:30:00",
+        "end": "2025-03-07T11:00:00",
+        "url": "/cfp/schedule/talk/125",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T103000",
+            "end_google": "20250307T110000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1030",
+            "duration_yahoo": "0.530.0",
+            "description": "Descubre c\u00f3mo peque\u00f1os detalles y pistas aparentemente insignificantes pueden desencadenar grandes resultados en investigaciones de OSINT.\r\n\r\nA trav\u00e9s de casos reales, exploraremos c\u00f3mo lo min\u00fasculo puede marcar la diferencia,\r\nrevelando informaci\u00f3n inesperada y llevando a la resoluci\u00f3n de diversas\r\ninvestigaciones.\r\n\r\n<b>Ponente secreto: Speaker S</b>",
+            "description_web": "Descubre+c%C3%B3mo+peque%C3%B1os+detalles+y+pistas+aparentemente+insignificantes+pueden+desencadenar+grandes+resultados+en+investigaciones+de+OSINT.%0D%0A%0D%0AA+trav%C3%A9s+de+casos+reales%2C+exploraremos+c%C3%B3mo+lo+min%C3%BAsculo+puede+marcar+la+diferencia%2C%0D%0Arevelando+informaci%C3%B3n+inesperada+y+llevando+a+la+resoluci%C3%B3n+de+diversas%0D%0Ainvestigaciones.%0D%0A%0D%0A%3Cb%3EPonente+secreto%3A+Speaker+S%3C%2Fb%3E",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "La importancia de lo no consciente",
+        "start": "2025-03-07T10:30:00",
+        "end": "2025-03-07T11:30:00",
+        "url": "/cfp/schedule/talk/113",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T103000",
+            "end_google": "20250307T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1030",
+            "duration_yahoo": "1.00.0",
+            "description": "An\u00e1lisis del comportamiento no consciente a trav\u00e9s de la Comunicaci\u00f3n no verbal",
+            "description_web": "An%C3%A1lisis+del+comportamiento+no+consciente+a+trav%C3%A9s+de+la+Comunicaci%C3%B3n+no+verbal",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 690,
+                    "url": "/cfp/speaker/690",
+                    "name": "Juan Manuel  Garcia Lopez "
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "La Caja de Pandora: Descubriendo los Cimientos de la Seguridad por Dise\u00f1o",
+        "start": "2025-03-07T11:00:00",
+        "end": "2025-03-07T11:30:00",
+        "url": "/cfp/schedule/talk/83",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T110000",
+            "end_google": "20250307T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1100",
+            "duration_yahoo": "0.530.0",
+            "description": "Si no nos da confianza cuando se lleva el coche al taller y el mec\u00e1nico, sin abrir el cap\u00f3, lo mira y nos cobra la revisi\u00f3n completa concluyendo su an\u00e1lisis con un \u201cest\u00e1 todo bien\u201d, y del mismo modo, no comprar\u00edamos un coche sin saber si tiene motor, \u00bfpor qu\u00e9 normalizamos entonces el desconocimiento en los sistemas de tecnolog\u00edas de la informaci\u00f3n que hay detr\u00e1s de una web, aplicaci\u00f3n m\u00f3vil o API? Abramos el cap\u00f3\u2026 Con el objetivo de proporcionar a las distintas disciplinas de seguridad ofensiva y defensiva, de auditor\u00eda, y de dise\u00f1o y desarrollo, el conocimiento y herramientas necesarias para comprender las arquitecturas de aplicaciones distribuidas de las organizaciones, esta charla pretende ilustrar c\u00f3mo un buen conocimiento de los patrones de dise\u00f1o software permite reducir la superficie de exposici\u00f3n de las aplicaciones desde un punto de vista defensivo y, en el caso de que dichos patrones no se apliquen, proporcionar los consejos y conocimiento ofensivo necesario para probar las aplicaciones de negocio en profundidad.",
+            "description_web": "Si+no+nos+da+confianza+cuando+se+lleva+el+coche+al+taller+y+el+mec%C3%A1nico%2C+sin+abrir+el+cap%C3%B3%2C+lo+mira+y+nos+cobra+la+revisi%C3%B3n+completa+concluyendo+su+an%C3%A1lisis+con+un+%E2%80%9Cest%C3%A1+todo+bien%E2%80%9D%2C+y+del+mismo+modo%2C+no+comprar%C3%ADamos+un+coche+sin+saber+si+tiene+motor%2C+%C2%BFpor+qu%C3%A9+normalizamos+entonces+el+desconocimiento+en+los+sistemas+de+tecnolog%C3%ADas+de+la+informaci%C3%B3n+que+hay+detr%C3%A1s+de+una+web%2C+aplicaci%C3%B3n+m%C3%B3vil+o+API%3F+Abramos+el+cap%C3%B3%E2%80%A6+Con+el+objetivo+de+proporcionar+a+las+distintas+disciplinas+de+seguridad+ofensiva+y+defensiva%2C+de+auditor%C3%ADa%2C+y+de+dise%C3%B1o+y+desarrollo%2C+el+conocimiento+y+herramientas+necesarias+para+comprender+las+arquitecturas+de+aplicaciones+distribuidas+de+las+organizaciones%2C+esta+charla+pretende+ilustrar+c%C3%B3mo+un+buen+conocimiento+de+los+patrones+de+dise%C3%B1o+software+permite+reducir+la+superficie+de+exposici%C3%B3n+de+las+aplicaciones+desde+un+punto+de+vista+defensivo+y%2C+en+el+caso+de+que+dichos+patrones+no+se+apliquen%2C+proporcionar+los+consejos+y+conocimiento+ofensivo+necesario+para+probar+las+aplicaciones+de+negocio+en+profundidad.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 765,
+                    "url": "/cfp/speaker/765",
+                    "name": "El\u00edas Grande"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Cuando el fuego te quema \ud83d\udd25",
+        "start": "2025-03-07T11:00:00",
+        "end": "2025-03-07T11:30:00",
+        "url": "/cfp/schedule/talk/216",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T110000",
+            "end_google": "20250307T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1100",
+            "duration_yahoo": "0.530.0",
+            "description": "La difusi\u00f3n no consentida de contenidos sexuales o la creaci\u00f3n de deep fake en los que la desnudez cobra protagonismo, son  solo algunas de las nuevas formas de acoso que han irrumpido con fuerza en nuestra sociedad provocando un reguero de problemas. Una radiograf\u00eda por las principales ciberviolencias sexuales para prender la llama de la concienciaci\u00f3n.",
+            "description_web": "La+difusi%C3%B3n+no+consentida+de+contenidos+sexuales+o+la+creaci%C3%B3n+de+deep+fake+en+los+que+la+desnudez+cobra+protagonismo%2C+son++solo+algunas+de+las+nuevas+formas+de+acoso+que+han+irrumpido+con+fuerza+en+nuestra+sociedad+provocando+un+reguero+de+problemas.+Una+radiograf%C3%ADa+por+las+principales+ciberviolencias+sexuales+para+prender+la+llama+de+la+concienciaci%C3%B3n.",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 908,
+                    "url": "/cfp/speaker/908",
+                    "name": "Yolanda Corral"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "Deep into the Deep Web",
+        "start": "2025-03-07T11:00:00",
+        "end": "2025-03-07T12:00:00",
+        "url": "/cfp/schedule/talk/126",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T110000",
+            "end_google": "20250307T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1100",
+            "duration_yahoo": "1.00.0",
+            "description": "Metodolog\u00eda pr\u00e1ctica para la investigaci\u00f3n de la Dark Web mediante el desarrollo de un crawler personalizado en Bash y su integraci\u00f3n con herramientas OSINT como Shodan y Censys. La charla demostrar\u00e1 c\u00f3mo los investigadores pueden construir y utilizar herramientas propias para la recopilaci\u00f3n sistem\u00e1tica de datos en la Dark Web, para su posterior an\u00e1lisis o su integraci\u00f3n con otro tipo de herramientas.",
+            "description_web": "Metodolog%C3%ADa+pr%C3%A1ctica+para+la+investigaci%C3%B3n+de+la+Dark+Web+mediante+el+desarrollo+de+un+crawler+personalizado+en+Bash+y+su+integraci%C3%B3n+con+herramientas+OSINT+como+Shodan+y+Censys.+La+charla+demostrar%C3%A1+c%C3%B3mo+los+investigadores+pueden+construir+y+utilizar+herramientas+propias+para+la+recopilaci%C3%B3n+sistem%C3%A1tica+de+datos+en+la+Dark+Web%2C+para+su+posterior+an%C3%A1lisis+o+su+integraci%C3%B3n+con+otro+tipo+de+herramientas.",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 804,
+                    "url": "/cfp/speaker/804",
+                    "name": "Jaime Esquivias"
+                }
+            ]
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "\u00a1Vuela Alto!",
+        "start": "2025-03-07T11:00:00",
+        "end": "2025-03-07T11:30:00",
+        "url": "/cfp/schedule/talk/96",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T110000",
+            "end_google": "20250307T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1100",
+            "duration_yahoo": "0.530.0",
+            "description": "TBD",
+            "description_web": "TBD",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 744,
+                    "url": "/cfp/speaker/744",
+                    "name": "Mar\u00eda Oliva"
+                },
+                {
+                    "id": 745,
+                    "url": "/cfp/speaker/745",
+                    "name": "Olga Mata G\u00f3mez"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "\u00bfEres capaz de enga\u00f1ar a un llm? Escondiendo secretos en c\u00f3digo",
+        "start": "2025-03-07T11:00:00",
+        "end": "2025-03-07T11:30:00",
+        "url": "/cfp/schedule/talk/150",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T110000",
+            "end_google": "20250307T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1100",
+            "duration_yahoo": "0.530.0",
+            "description": "Eres capaz de enga\u00f1ar a un llm? Juguemos al escondite, escondamos algo en un c\u00f3digo y despu\u00e9s de diversas t\u00e9cnicas veamos si es capaz de encontrarlo. Desde el doctorado que estoy realizando en Ciberseguridad e IA, estoy haciendo una investigaci\u00f3n conect\u00e1ndome a la mayor\u00eda de los LLMs donde escondo un \"secreto\" en el c\u00f3digo y les pongo a prueba a ver si son capaces de encontrarlo, haciendo todo tipo de cambios en el c\u00f3digo (ofuscado sencillo, ofuscado complejo, cifrando el secreto y hasta incluso d\u00e1ndole el c\u00f3digo para descifrar el secreto). \u00bfSer\u00e1 el LLM capaz de encontrarlo? En la charla explicar\u00e9 c\u00f3mo he montando el sistema, backend desarrollado en Java y devuelvo los datos con estad\u00edsticas en un fichero para poder obtener conclusiones... Los resultados os sorprender\u00e1n...",
+            "description_web": "Eres+capaz+de+enga%C3%B1ar+a+un+llm%3F+Juguemos+al+escondite%2C+escondamos+algo+en+un+c%C3%B3digo+y+despu%C3%A9s+de+diversas+t%C3%A9cnicas+veamos+si+es+capaz+de+encontrarlo.+Desde+el+doctorado+que+estoy+realizando+en+Ciberseguridad+e+IA%2C+estoy+haciendo+una+investigaci%C3%B3n+conect%C3%A1ndome+a+la+mayor%C3%ADa+de+los+LLMs+donde+escondo+un+%22secreto%22+en+el+c%C3%B3digo+y+les+pongo+a+prueba+a+ver+si+son+capaces+de+encontrarlo%2C+haciendo+todo+tipo+de+cambios+en+el+c%C3%B3digo+%28ofuscado+sencillo%2C+ofuscado+complejo%2C+cifrando+el+secreto+y+hasta+incluso+d%C3%A1ndole+el+c%C3%B3digo+para+descifrar+el+secreto%29.+%C2%BFSer%C3%A1+el+LLM+capaz+de+encontrarlo%3F+En+la+charla+explicar%C3%A9+c%C3%B3mo+he+montando+el+sistema%2C+backend+desarrollado+en+Java+y+devuelvo+los+datos+con+estad%C3%ADsticas+en+un+fichero+para+poder+obtener+conclusiones...+Los+resultados+os+sorprender%C3%A1n...",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 687,
+                    "url": "/cfp/speaker/687",
+                    "name": "Jaime Morales"
+                }
+            ]
+        },
+        "resourceId": "ia",
+        "className": "eia"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T11:30:00",
+        "end": "2025-03-07T12:00:00",
+        "url": "/cfp/schedule/talk/84",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T113000",
+            "end_google": "20250307T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T11:30:00",
+        "end": "2025-03-07T12:00:00",
+        "url": "/cfp/schedule/talk/165",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T113000",
+            "end_google": "20250307T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "influencers",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T11:30:00",
+        "end": "2025-03-07T12:00:00",
+        "url": "/cfp/schedule/talk/97",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T113000",
+            "end_google": "20250307T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "protaapp",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T11:30:00",
+        "end": "2025-03-07T12:00:00",
+        "url": "/cfp/schedule/talk/112",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T113000",
+            "end_google": "20250307T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "securiters",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T11:30:00",
+        "end": "2025-03-07T12:00:00",
+        "url": "/cfp/schedule/talk/137",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T113000",
+            "end_google": "20250307T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted17",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T11:30:00",
+        "end": "2025-03-07T12:00:00",
+        "url": "/cfp/schedule/talk/151",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T113000",
+            "end_google": "20250307T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "ia",
+        "className": "ebreak"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-07T12:00:00",
+        "end": "2025-03-07T13:00:00",
+        "url": "/cfp/schedule/talk/85",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T120000",
+            "end_google": "20250307T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Un USB para gobernarlos a todos",
+        "start": "2025-03-07T12:00:00",
+        "end": "2025-03-07T12:30:00",
+        "url": "/cfp/schedule/talk/166",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T120000",
+            "end_google": "20250307T123000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1200",
+            "duration_yahoo": "0.530.0",
+            "description": "En esta charla exploraremos c\u00f3mo un simple USB puede convertirse en una potente herramienta de pentesting. Analizaremos qu\u00e9 son los BadUSB, c\u00f3mo funcionan y de qu\u00e9 manera pueden ser utilizados para comprometer sistemas en auditor\u00edas de seguridsd. Teor\u00eda y PoCs en directo, \u00bfqu\u00e9 puede salir mal?\r\n\r\nPor: <b>Contando Bits:</b>",
+            "description_web": "En+esta+charla+exploraremos+c%C3%B3mo+un+simple+USB+puede+convertirse+en+una+potente+herramienta+de+pentesting.+Analizaremos+qu%C3%A9+son+los+BadUSB%2C+c%C3%B3mo+funcionan+y+de+qu%C3%A9+manera+pueden+ser+utilizados+para+comprometer+sistemas+en+auditor%C3%ADas+de+seguridsd.+Teor%C3%ADa+y+PoCs+en+directo%2C+%C2%BFqu%C3%A9+puede+salir+mal%3F%0D%0A%0D%0APor%3A+%3Cb%3EContando+Bits%3A%3C%2Fb%3E",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 789,
+                    "url": "/cfp/speaker/789",
+                    "name": "Kike Gandia"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "Ciberinvestigaci\u00f3n vs OSINT: Apartando el visillo",
+        "start": "2025-03-07T12:00:00",
+        "end": "2025-03-07T13:00:00",
+        "url": "/cfp/schedule/talk/127",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T120000",
+            "end_google": "20250307T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "Explora el proceso completo de una ciberinvestigaci\u00f3n, desde el contrato hasta la ratificaci\u00f3n en juicio, pasando por la obtenci\u00f3n de evidencias.",
+            "description_web": "Explora+el+proceso+completo+de+una+ciberinvestigaci%C3%B3n%2C+desde+el+contrato+hasta+la+ratificaci%C3%B3n+en+juicio%2C+pasando+por+la+obtenci%C3%B3n+de+evidencias.",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 805,
+                    "url": "/cfp/speaker/805",
+                    "name": "Salvador Gamero Casado"
+                }
+            ]
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "Mesa redonda: Lecciones aprendidas en ciberseguridad de Administraciones P\u00fablicas",
+        "start": "2025-03-07T12:00:00",
+        "end": "2025-03-07T13:00:00",
+        "url": "/cfp/schedule/talk/98",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T120000",
+            "end_google": "20250307T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "Mesa redonda",
+            "description_web": "Mesa+redonda",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 809,
+                    "url": "/cfp/speaker/809",
+                    "name": "David Esteban Haro"
+                },
+                {
+                    "id": 810,
+                    "url": "/cfp/speaker/810",
+                    "name": "Mabel Gonz\u00e1lez "
+                },
+                {
+                    "id": 811,
+                    "url": "/cfp/speaker/811",
+                    "name": "Ignacio P\u00e9rez"
+                },
+                {
+                    "id": 812,
+                    "url": "/cfp/speaker/812",
+                    "name": "Tomas Gomez"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "The Art of AMSI Bypass: From History to AI-Powered Innovations",
+        "start": "2025-03-07T12:00:00",
+        "end": "2025-03-07T13:00:00",
+        "url": "/cfp/schedule/talk/111",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T120000",
+            "end_google": "20250307T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "AMSI, o AntiMalware Scan Interface, es una capa de protecci\u00f3n integrada en sistemas Windows que permite a las soluciones de seguridad interceptar y analizar el contenido que se ejecutar\u00e1 en lenguajes de scripting como PowerShell, VBS o JavaScript. Aunque esta tecnolog\u00eda ha sido clave en la mejora de la defensa contra ataques basados en scripts, tambi\u00e9n ha impulsado una carrera constante entre atacantes y defensores. En esta charla exploraremos a fondo qu\u00e9 es AMSI, c\u00f3mo funciona y, sobre todo, los diferentes m\u00e9todos de bypass que han surgido a lo largo del tiempo. Adem\u00e1s, compartiremos algunos \"trucos\" que pueden ser especialmente \u00fatiles para pentesters que necesitan superar estas barreras en un entorno controlado y \u00e9tico. Haremos un recorrido hist\u00f3rico por la evoluci\u00f3n de las t\u00e9cnicas de bypass, desde los enfoques m\u00e1s rudimentarios hasta los m\u00e9todos m\u00e1s avanzados que buscan eludir esta interfaz de seguridad. Este viaje permitir\u00e1 entender c\u00f3mo los atacantes han perfeccionado sus estrategias a medida que AMSI ha fortalecido sus defensas. A trav\u00e9s de ejemplos pr\u00e1cticos, se mostrar\u00e1 c\u00f3mo ciertos exploits y t\u00e9cnicas espec\u00edficas han desafiado continuamente a AMSI, destacando tanto las debilidades aprovechadas en el pasado como los desaf\u00edos que presenta en la actualidad. Finalmente, se explorar\u00e1 c\u00f3mo la inteligencia artificial puede transformar esta din\u00e1mica. Mediante el uso de modelos avanzados y sistemas de agentes inteligentes, se demostrar\u00e1 c\u00f3mo la IA puede actuar como un asistente poderoso para los pentesters. Estos sistemas no solo son capaces de analizar y sugerir posibles rutas de bypass, sino tambi\u00e9n de automatizar tareas complejas, optimizando el tiempo y los recursos del pentester. En este sentido, veremos c\u00f3mo la IA, lejos de reemplazar al profesional, se convierte en un aliado que amplifica sus capacidades. Esta ponencia ofrece una visi\u00f3n completa y pr\u00e1ctica sobre AMSI, combinando la historia, las t\u00e9cnicas actuales de bypass y la innovaci\u00f3n que aporta la inteligencia artificial. Una sesi\u00f3n imprescindible para quienes buscan estar a la vanguardia en el mundo del pentesting y la ciberseguridad.",
+            "description_web": "AMSI%2C+o+AntiMalware+Scan+Interface%2C+es+una+capa+de+protecci%C3%B3n+integrada+en+sistemas+Windows+que+permite+a+las+soluciones+de+seguridad+interceptar+y+analizar+el+contenido+que+se+ejecutar%C3%A1+en+lenguajes+de+scripting+como+PowerShell%2C+VBS+o+JavaScript.+Aunque+esta+tecnolog%C3%ADa+ha+sido+clave+en+la+mejora+de+la+defensa+contra+ataques+basados+en+scripts%2C+tambi%C3%A9n+ha+impulsado+una+carrera+constante+entre+atacantes+y+defensores.+En+esta+charla+exploraremos+a+fondo+qu%C3%A9+es+AMSI%2C+c%C3%B3mo+funciona+y%2C+sobre+todo%2C+los+diferentes+m%C3%A9todos+de+bypass+que+han+surgido+a+lo+largo+del+tiempo.+Adem%C3%A1s%2C+compartiremos+algunos+%22trucos%22+que+pueden+ser+especialmente+%C3%BAtiles+para+pentesters+que+necesitan+superar+estas+barreras+en+un+entorno+controlado+y+%C3%A9tico.+Haremos+un+recorrido+hist%C3%B3rico+por+la+evoluci%C3%B3n+de+las+t%C3%A9cnicas+de+bypass%2C+desde+los+enfoques+m%C3%A1s+rudimentarios+hasta+los+m%C3%A9todos+m%C3%A1s+avanzados+que+buscan+eludir+esta+interfaz+de+seguridad.+Este+viaje+permitir%C3%A1+entender+c%C3%B3mo+los+atacantes+han+perfeccionado+sus+estrategias+a+medida+que+AMSI+ha+fortalecido+sus+defensas.+A+trav%C3%A9s+de+ejemplos+pr%C3%A1cticos%2C+se+mostrar%C3%A1+c%C3%B3mo+ciertos+exploits+y+t%C3%A9cnicas+espec%C3%ADficas+han+desafiado+continuamente+a+AMSI%2C+destacando+tanto+las+debilidades+aprovechadas+en+el+pasado+como+los+desaf%C3%ADos+que+presenta+en+la+actualidad.+Finalmente%2C+se+explorar%C3%A1+c%C3%B3mo+la+inteligencia+artificial+puede+transformar+esta+din%C3%A1mica.+Mediante+el+uso+de+modelos+avanzados+y+sistemas+de+agentes+inteligentes%2C+se+demostrar%C3%A1+c%C3%B3mo+la+IA+puede+actuar+como+un+asistente+poderoso+para+los+pentesters.+Estos+sistemas+no+solo+son+capaces+de+analizar+y+sugerir+posibles+rutas+de+bypass%2C+sino+tambi%C3%A9n+de+automatizar+tareas+complejas%2C+optimizando+el+tiempo+y+los+recursos+del+pentester.+En+este+sentido%2C+veremos+c%C3%B3mo+la+IA%2C+lejos+de+reemplazar+al+profesional%2C+se+convierte+en+un+aliado+que+amplifica+sus+capacidades.+Esta+ponencia+ofrece+una+visi%C3%B3n+completa+y+pr%C3%A1ctica+sobre+AMSI%2C+combinando+la+historia%2C+las+t%C3%A9cnicas+actuales+de+bypass+y+la+innovaci%C3%B3n+que+aporta+la+inteligencia+artificial.+Una+sesi%C3%B3n+imprescindible+para+quienes+buscan+estar+a+la+vanguardia+en+el+mundo+del+pentesting+y+la+ciberseguridad.",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 734,
+                    "url": "/cfp/speaker/734",
+                    "name": "Pablo Gonz\u00e1lez"
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "Vivin la fukin quasifree crazy life",
+        "start": "2025-03-07T12:00:00",
+        "end": "2025-03-07T13:00:00",
+        "url": "/cfp/schedule/talk/138",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T120000",
+            "end_google": "20250307T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "En este sector en el que nos gusta pagar por las cosas menos que el agua a los gatos y aprovechando que vivimos en un mundo super megaconectado en el que todos o casi todos los servicios est\u00e1n conectados a internet mediando tarjeta digital, QR, app m\u00f3vil, web... veremos como la Former Avil\u00e9s Major y una vaca har\u00e1n PoCs de como es posible que gracias a los hados del AGILE, SCRUM y de proyectos que crecen cuan pollos sin cabeza, es posible abusar de dichos servicios, tarjetas, QR, apps y obtener acceso y disfrutar gratis o casi gratis de los servicios que se ofrecen pudiendo obtener accesos a lugares f\u00edsicos y virtuales a costa de terceros, entradas \"hiper-low cost\", invitaciones, aparcamiento y peajes, mejoras en servicios, comidas y bebidas, nopor y muchas cosas m\u00e1s.",
+            "description_web": "En+este+sector+en+el+que+nos+gusta+pagar+por+las+cosas+menos+que+el+agua+a+los+gatos+y+aprovechando+que+vivimos+en+un+mundo+super+megaconectado+en+el+que+todos+o+casi+todos+los+servicios+est%C3%A1n+conectados+a+internet+mediando+tarjeta+digital%2C+QR%2C+app+m%C3%B3vil%2C+web...+veremos+como+la+Former+Avil%C3%A9s+Major+y+una+vaca+har%C3%A1n+PoCs+de+como+es+posible+que+gracias+a+los+hados+del+AGILE%2C+SCRUM+y+de+proyectos+que+crecen+cuan+pollos+sin+cabeza%2C+es+posible+abusar+de+dichos+servicios%2C+tarjetas%2C+QR%2C+apps+y+obtener+acceso+y+disfrutar+gratis+o+casi+gratis+de+los+servicios+que+se+ofrecen+pudiendo+obtener+accesos+a+lugares+f%C3%ADsicos+y+virtuales+a+costa+de+terceros%2C+entradas+%22hiper-low+cost%22%2C+invitaciones%2C+aparcamiento+y+peajes%2C+mejoras+en+servicios%2C+comidas+y+bebidas%2C+nopor+y+muchas+cosas+m%C3%A1s.",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 740,
+                    "url": "/cfp/speaker/740",
+                    "name": "Tom\u00e1s Isasia"
+                },
+                {
+                    "id": 741,
+                    "url": "/cfp/speaker/741",
+                    "name": "Javi Espejo Aka qemm"
+                }
+            ]
+        },
+        "resourceId": "rooted17",
+        "className": "erooted"
+    },
+    {
+        "title": "\u00bfDe qu\u00e9 est\u00e1n hechos los modelos de IA? Riesgos m\u00e1s all\u00e1 de pickle.",
+        "start": "2025-03-07T12:00:00",
+        "end": "2025-03-07T13:00:00",
+        "url": "/cfp/schedule/talk/152",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T120000",
+            "end_google": "20250307T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "\u00bfPuede un modelo de IA enviar datos a la nube? \u00a1Pero si los modelos son solo datos! En este charla veremos lo que realmente estamos descargando cuando descargamos un modelo de IA, lo cargamos y lo ejecutamos localmente. \u00bfPodr\u00edan existir modelos de IA que ejecutaran malware en nuestro sistema? Veremos las posibilidades de que esto suceda analizando los formatos m\u00e1s frecuentes en que podemos descargar un modelo, el software de inferencia (como Ollama, Hugging Face API o vLLM) y distintos casos y posibilidades. Tambi\u00e9n veremos la diferencia entre un modelo de IA y una aplicaci\u00f3n que ejecuta un modelo de IA y las implicaciones que tiene para la seguridad tanto ofensiva como defensiva.",
+            "description_web": "%C2%BFPuede+un+modelo+de+IA+enviar+datos+a+la+nube%3F+%C2%A1Pero+si+los+modelos+son+solo+datos%21+En+este+charla+veremos+lo+que+realmente+estamos+descargando+cuando+descargamos+un+modelo+de+IA%2C+lo+cargamos+y+lo+ejecutamos+localmente.+%C2%BFPodr%C3%ADan+existir+modelos+de+IA+que+ejecutaran+malware+en+nuestro+sistema%3F+Veremos+las+posibilidades+de+que+esto+suceda+analizando+los+formatos+m%C3%A1s+frecuentes+en+que+podemos+descargar+un+modelo%2C+el+software+de+inferencia+%28como+Ollama%2C+Hugging+Face+API+o+vLLM%29+y+distintos+casos+y+posibilidades.+Tambi%C3%A9n+veremos+la+diferencia+entre+un+modelo+de+IA+y+una+aplicaci%C3%B3n+que+ejecuta+un+modelo+de+IA+y+las+implicaciones+que+tiene+para+la+seguridad+tanto+ofensiva+como+defensiva.",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 732,
+                    "url": "/cfp/speaker/732",
+                    "name": "Florencio Cano Gabarda"
+                }
+            ]
+        },
+        "resourceId": "ia",
+        "className": "eia"
+    },
+    {
+        "title": "Mesa redonda: oldskool!",
+        "start": "2025-03-07T12:30:00",
+        "end": "2025-03-07T13:30:00",
+        "url": "/cfp/schedule/talk/167",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T123000",
+            "end_google": "20250307T133000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1230",
+            "duration_yahoo": "1.00.0",
+            "description": "Mesa redonda de la escena del hacking y personas oldskool.\r\n\r\n<b>Modera: Antonio Fernandes</b>",
+            "description_web": "Mesa+redonda+de+la+escena+del+hacking+y+personas+oldskool.%0D%0A%0D%0A%3Cb%3EModera%3A+Antonio+Fernandes%3C%2Fb%3E",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 837,
+                    "url": "/cfp/speaker/837",
+                    "name": "Jordi Murg\u00f3"
+                },
+                {
+                    "id": 790,
+                    "url": "/cfp/speaker/790",
+                    "name": "Oscar Calvo"
+                },
+                {
+                    "id": 791,
+                    "url": "/cfp/speaker/791",
+                    "name": "Daniel Fern\u00e1ndez"
+                },
+                {
+                    "id": 792,
+                    "url": "/cfp/speaker/792",
+                    "name": "Vins Vilaplana"
+                },
+                {
+                    "id": 861,
+                    "url": "/cfp/speaker/861",
+                    "name": "Antonio  Fernandes"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-07T13:00:00",
+        "end": "2025-03-07T14:00:00",
+        "url": "/cfp/schedule/talk/86",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T130000",
+            "end_google": "20250307T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1300",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Horus Project - buscando a personas desaparecidas",
+        "start": "2025-03-07T13:00:00",
+        "end": "2025-03-07T13:30:00",
+        "url": "/cfp/schedule/talk/128",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T130000",
+            "end_google": "20250307T133000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1300",
+            "duration_yahoo": "0.530.0",
+            "description": "Como se buscan personas desaparecidas ayudando a las FFCCS.\r\n\r\n<b>Ponente secreto: Speaker L</b>",
+            "description_web": "Como+se+buscan+personas+desaparecidas+ayudando+a+las+FFCCS.%0D%0A%0D%0A%3Cb%3EPonente+secreto%3A+Speaker+L%3C%2Fb%3E",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 860,
+                    "url": "/cfp/speaker/860",
+                    "name": "Elena Rebollo Rodr\u00edguez"
+                }
+            ]
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "404 Training Not Found - Caos en el Kernel",
+        "start": "2025-03-07T13:00:00",
+        "end": "2025-03-07T14:00:00",
+        "url": "/cfp/schedule/talk/99",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T130000",
+            "end_google": "20250307T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1300",
+            "duration_yahoo": "1.00.0",
+            "description": "404 Training Not Found - Caos en el Kernel",
+            "description_web": "404+Training+Not+Found+-+Caos+en+el+Kernel",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 474,
+                    "url": "/cfp/speaker/474",
+                    "name": "Sandra Bardon"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "El Cibercrimen Profesionalizado en macOS: Estrategias y Amenazas de AMOS Stealer",
+        "start": "2025-03-07T13:00:00",
+        "end": "2025-03-07T14:00:00",
+        "url": "/cfp/schedule/talk/114",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T130000",
+            "end_google": "20250307T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1300",
+            "duration_yahoo": "1.00.0",
+            "description": "AMOS (Atomic macOS Stealer) es un malware avanzado dise\u00f1ado espec\u00edficamente para atacar sistemas macOS, representando una amenaza significativa en un entorno tradicionalmente considerado seguro. Este trabajo explora sus caracter\u00edsticas t\u00e9cnicas, su evoluci\u00f3n y su impacto en el panorama de la ciberseguridad para macOS, con el objetivo de ofrecer un an\u00e1lisis exhaustivo de sus capacidades y su modelo de distribuci\u00f3n. Origen y Evoluci\u00f3n AMOS apareci\u00f3 por primera vez a principios de 2023 y se ha posicionado r\u00e1pidamente como uno de los infostealers m\u00e1s prevalentes para macOS. Ha evolucionado de forma constante, recibiendo actualizaciones regulares y adapt\u00e1ndose a las nuevas defensas de los sistemas Apple. Su capacidad para mantenerse relevante en el panorama de amenazas refleja un alto grado de profesionalizaci\u00f3n por parte de sus desarrolladores, quienes han sabido adaptarse a las necesidades de la ciberdelincuencia moderna. Funcionalidad La capacidad de AMOS para robar una amplia gama de datos sensibles lo convierte en una herramienta poderosa para los ciberdelincuentes. Entre los datos que exfiltra se incluyen: Contrase\u00f1as almacenadas en el llavero de macOS. Documentos y archivos del usuario. Informaci\u00f3n detallada del sistema. Cookies y datos de navegadores, lo que facilita el acceso a cuentas en l\u00ednea. Informaci\u00f3n financiera, como detalles de tarjetas de cr\u00e9dito y credenciales de billeteras de criptomonedas. Estas capacidades lo hacen particularmente peligroso, ya que los atacantes pueden utilizar la informaci\u00f3n robada para cometer fraudes, realizar transferencias no autorizadas y obtener acceso persistente a los sistemas comprometidos. Distribuci\u00f3n y Modelo de Negocio AMOS se distribuye principalmente como \"malware-as-a-service\" a trav\u00e9s de canales de Telegram, donde su creador proporciona soporte, documentaci\u00f3n y actualizaciones a los compradores. Desde su aparici\u00f3n, el precio de suscripci\u00f3n ha aumentado de $1,000 a $3,000 mensuales, lo que indica una creciente demanda y efectividad en el mercado. Las estrategias de distribuci\u00f3n de AMOS incluyen campa\u00f1as de malvertising, sitios web falsos que imitan servicios populares y descargas enga\u00f1osas. Este modelo de negocio subraya la profesionalizaci\u00f3n del ecosistema de malware, donde la oferta de soporte y actualizaciones simula la din\u00e1mica de productos de software leg\u00edtimos. Caracter\u00edsticas T\u00e9cnicas Lenguaje y variantes: AMOS fue escrito originalmente en Go, aunque existen versiones en C++ que ofrecen diferentes niveles de evasi\u00f3n y adaptabilidad. Algunas de las versiones m\u00e1s recientes tambi\u00e9n incorporan un dropper escrito en Python, que facilita la instalaci\u00f3n inicial del malware en sistemas objetivo. Ofuscaci\u00f3n y evasi\u00f3n: Emplea t\u00e9cnicas de ofuscaci\u00f3n avanzadas para evitar la detecci\u00f3n por parte de soluciones de seguridad. Adem\u00e1s, utiliza comandos como osascript para ocultar su actividad, desplegando ventanas de autenticaci\u00f3n falsas que enga\u00f1an al usuario para obtener credenciales. Actualizaciones frecuentes: AMOS ha evolucionado continuamente, integrando nuevas t\u00e9cnicas y funcionalidades que le permiten adaptarse a los cambios en las medidas de seguridad de macOS, lo que ha contribuido a mantener su efectividad en el tiempo. Impacto AMOS representa un cambio significativo en el panorama de amenazas para macOS. Hist\u00f3ricamente, el sistema operativo de Apple ha sido percibido como m\u00e1s seguro que otras plataformas, pero la aparici\u00f3n y expansi\u00f3n de AMOS han desafiado esta percepci\u00f3n. En 2024, se ha convertido en el tercer malware m\u00e1s detectado en macOS, representando aproximadamente el 9% de las detecciones, lo cual evidencia su propagaci\u00f3n. El \u00e9xito de AMOS tambi\u00e9n ha inspirado la aparici\u00f3n de variantes y competidores como Banshee, Poseidon y RodrigoStealer, reflejando una evoluci\u00f3n r\u00e1pida y continua del ecosistema de malware para macOS. Objetivos del estudio Este trabajo busca proporcionar a la comunidad de ciberseguridad una visi\u00f3n completa de AMOS Stealer, abordando: Las t\u00e9cnicas de captura de datos, persistencia y evasi\u00f3n empleadas por el malware. El modelo de negocio detr\u00e1s de AMOS, incluyendo su comercializaci\u00f3n a trav\u00e9s de Telegram y la econom\u00eda que lo respalda. El impacto de AMOS en el ecosistema de macOS, destacando la necesidad de nuevas estrategias de protecci\u00f3n. Estrategias de mitigaci\u00f3n y recomendaciones pr\u00e1cticas para prevenir la infecci\u00f3n por AMOS y otros infostealers en sistemas macOS. La evoluci\u00f3n de AMOS y su papel como precursor de nuevas amenazas dirigidas a macOS.",
+            "description_web": "AMOS+%28Atomic+macOS+Stealer%29+es+un+malware+avanzado+dise%C3%B1ado+espec%C3%ADficamente+para+atacar+sistemas+macOS%2C+representando+una+amenaza+significativa+en+un+entorno+tradicionalmente+considerado+seguro.+Este+trabajo+explora+sus+caracter%C3%ADsticas+t%C3%A9cnicas%2C+su+evoluci%C3%B3n+y+su+impacto+en+el+panorama+de+la+ciberseguridad+para+macOS%2C+con+el+objetivo+de+ofrecer+un+an%C3%A1lisis+exhaustivo+de+sus+capacidades+y+su+modelo+de+distribuci%C3%B3n.+Origen+y+Evoluci%C3%B3n+AMOS+apareci%C3%B3+por+primera+vez+a+principios+de+2023+y+se+ha+posicionado+r%C3%A1pidamente+como+uno+de+los+infostealers+m%C3%A1s+prevalentes+para+macOS.+Ha+evolucionado+de+forma+constante%2C+recibiendo+actualizaciones+regulares+y+adapt%C3%A1ndose+a+las+nuevas+defensas+de+los+sistemas+Apple.+Su+capacidad+para+mantenerse+relevante+en+el+panorama+de+amenazas+refleja+un+alto+grado+de+profesionalizaci%C3%B3n+por+parte+de+sus+desarrolladores%2C+quienes+han+sabido+adaptarse+a+las+necesidades+de+la+ciberdelincuencia+moderna.+Funcionalidad+La+capacidad+de+AMOS+para+robar+una+amplia+gama+de+datos+sensibles+lo+convierte+en+una+herramienta+poderosa+para+los+ciberdelincuentes.+Entre+los+datos+que+exfiltra+se+incluyen%3A+Contrase%C3%B1as+almacenadas+en+el+llavero+de+macOS.+Documentos+y+archivos+del+usuario.+Informaci%C3%B3n+detallada+del+sistema.+Cookies+y+datos+de+navegadores%2C+lo+que+facilita+el+acceso+a+cuentas+en+l%C3%ADnea.+Informaci%C3%B3n+financiera%2C+como+detalles+de+tarjetas+de+cr%C3%A9dito+y+credenciales+de+billeteras+de+criptomonedas.+Estas+capacidades+lo+hacen+particularmente+peligroso%2C+ya+que+los+atacantes+pueden+utilizar+la+informaci%C3%B3n+robada+para+cometer+fraudes%2C+realizar+transferencias+no+autorizadas+y+obtener+acceso+persistente+a+los+sistemas+comprometidos.+Distribuci%C3%B3n+y+Modelo+de+Negocio+AMOS+se+distribuye+principalmente+como+%22malware-as-a-service%22+a+trav%C3%A9s+de+canales+de+Telegram%2C+donde+su+creador+proporciona+soporte%2C+documentaci%C3%B3n+y+actualizaciones+a+los+compradores.+Desde+su+aparici%C3%B3n%2C+el+precio+de+suscripci%C3%B3n+ha+aumentado+de+%241%2C000+a+%243%2C000+mensuales%2C+lo+que+indica+una+creciente+demanda+y+efectividad+en+el+mercado.+Las+estrategias+de+distribuci%C3%B3n+de+AMOS+incluyen+campa%C3%B1as+de+malvertising%2C+sitios+web+falsos+que+imitan+servicios+populares+y+descargas+enga%C3%B1osas.+Este+modelo+de+negocio+subraya+la+profesionalizaci%C3%B3n+del+ecosistema+de+malware%2C+donde+la+oferta+de+soporte+y+actualizaciones+simula+la+din%C3%A1mica+de+productos+de+software+leg%C3%ADtimos.+Caracter%C3%ADsticas+T%C3%A9cnicas+Lenguaje+y+variantes%3A+AMOS+fue+escrito+originalmente+en+Go%2C+aunque+existen+versiones+en+C%2B%2B+que+ofrecen+diferentes+niveles+de+evasi%C3%B3n+y+adaptabilidad.+Algunas+de+las+versiones+m%C3%A1s+recientes+tambi%C3%A9n+incorporan+un+dropper+escrito+en+Python%2C+que+facilita+la+instalaci%C3%B3n+inicial+del+malware+en+sistemas+objetivo.+Ofuscaci%C3%B3n+y+evasi%C3%B3n%3A+Emplea+t%C3%A9cnicas+de+ofuscaci%C3%B3n+avanzadas+para+evitar+la+detecci%C3%B3n+por+parte+de+soluciones+de+seguridad.+Adem%C3%A1s%2C+utiliza+comandos+como+osascript+para+ocultar+su+actividad%2C+desplegando+ventanas+de+autenticaci%C3%B3n+falsas+que+enga%C3%B1an+al+usuario+para+obtener+credenciales.+Actualizaciones+frecuentes%3A+AMOS+ha+evolucionado+continuamente%2C+integrando+nuevas+t%C3%A9cnicas+y+funcionalidades+que+le+permiten+adaptarse+a+los+cambios+en+las+medidas+de+seguridad+de+macOS%2C+lo+que+ha+contribuido+a+mantener+su+efectividad+en+el+tiempo.+Impacto+AMOS+representa+un+cambio+significativo+en+el+panorama+de+amenazas+para+macOS.+Hist%C3%B3ricamente%2C+el+sistema+operativo+de+Apple+ha+sido+percibido+como+m%C3%A1s+seguro+que+otras+plataformas%2C+pero+la+aparici%C3%B3n+y+expansi%C3%B3n+de+AMOS+han+desafiado+esta+percepci%C3%B3n.+En+2024%2C+se+ha+convertido+en+el+tercer+malware+m%C3%A1s+detectado+en+macOS%2C+representando+aproximadamente+el+9%25+de+las+detecciones%2C+lo+cual+evidencia+su+propagaci%C3%B3n.+El+%C3%A9xito+de+AMOS+tambi%C3%A9n+ha+inspirado+la+aparici%C3%B3n+de+variantes+y+competidores+como+Banshee%2C+Poseidon+y+RodrigoStealer%2C+reflejando+una+evoluci%C3%B3n+r%C3%A1pida+y+continua+del+ecosistema+de+malware+para+macOS.+Objetivos+del+estudio+Este+trabajo+busca+proporcionar+a+la+comunidad+de+ciberseguridad+una+visi%C3%B3n+completa+de+AMOS+Stealer%2C+abordando%3A+Las+t%C3%A9cnicas+de+captura+de+datos%2C+persistencia+y+evasi%C3%B3n+empleadas+por+el+malware.+El+modelo+de+negocio+detr%C3%A1s+de+AMOS%2C+incluyendo+su+comercializaci%C3%B3n+a+trav%C3%A9s+de+Telegram+y+la+econom%C3%ADa+que+lo+respalda.+El+impacto+de+AMOS+en+el+ecosistema+de+macOS%2C+destacando+la+necesidad+de+nuevas+estrategias+de+protecci%C3%B3n.+Estrategias+de+mitigaci%C3%B3n+y+recomendaciones+pr%C3%A1cticas+para+prevenir+la+infecci%C3%B3n+por+AMOS+y+otros+infostealers+en+sistemas+macOS.+La+evoluci%C3%B3n+de+AMOS+y+su+papel+como+precursor+de+nuevas+amenazas+dirigidas+a+macOS.",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 692,
+                    "url": "/cfp/speaker/692",
+                    "name": "Marc Rivero L\u00f3pez"
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "Proyecto #FACTORY: Fundaci\u00f3n Goodjob",
+        "start": "2025-03-07T13:00:00",
+        "end": "2025-03-07T14:00:00",
+        "url": "/cfp/schedule/talk/139",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T130000",
+            "end_google": "20250307T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1300",
+            "duration_yahoo": "1.00.0",
+            "description": "Fundaci\u00f3n Goodjob",
+            "description_web": "Fundaci%C3%B3n+Goodjob",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted17",
+        "className": "erooted"
+    },
+    {
+        "title": "Agentes de IA en ingenier\u00eda inversa",
+        "start": "2025-03-07T13:00:00",
+        "end": "2025-03-07T14:00:00",
+        "url": "/cfp/schedule/talk/153",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T130000",
+            "end_google": "20250307T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1300",
+            "duration_yahoo": "1.00.0",
+            "description": "El uso de IA en todos los \u00e1mbitos de la ciberseguridad es cada vez mayor. Recientemente, la comunidad de ingenier\u00eda inversa ha comenzado a usarla en proyectos como LLM4Decompile, decai o r2ai.\r\n\r\nPor su naturaleza, la ingenier\u00eda inversa y la decompilaci\u00f3n son tareas especialmente complicada para los modelos de IA actuales:\r\n\r\n- Un proyecto de ingenier\u00eda inversa real es muy extenso para las IAs actuales  que pierden el contexto f\u00e1cilmente y alucinan cuanta m\u00e1s informaci\u00f3n reciban.\r\n- Hay pocos conjuntos de datos y m\u00e9tricas objetivas de \"\"calidad\"\" en tareas como la decompilaci\u00f3n. Lo cual limita la creaci\u00f3n de mejores modelos.\r\n- El uso de la IA a\u00fan no est\u00e1 popularizado en la comunidad y no se han explorado t\u00e9cnicas m\u00e1s avanzadas.\r\n\r\nEn esta charla tratamos de resolver algunos de estos problemas y usaremos t\u00e9cnicas modernas como agentes, sistemas multi-agentes y el escalado en tiempo de inferencia (aka. modelos \"\"razonadores\"\").\r\n\r\nHaremos una introducci\u00f3n de estos conceptos y c\u00f3mo se pueden usar en la ingenier\u00eda inversa.\r\n\r\nEn nuestros resultados iniciales, descubrimos que con un buen dise\u00f1o de agentes se mejora sustantivamente los resultados, tanto en c\u00f3digo decompilado como en tareas relacionadas. Mostramos usando crackmes estas capacidades, incluso en escenarios complejos.\r\n\r\nPor \u00faltimo se compartir\u00e1n herramientas para que la comunidad pueda experimentar con la IA y encontrar m\u00e1s casos de uso.",
+            "description_web": "El+uso+de+IA+en+todos+los+%C3%A1mbitos+de+la+ciberseguridad+es+cada+vez+mayor.+Recientemente%2C+la+comunidad+de+ingenier%C3%ADa+inversa+ha+comenzado+a+usarla+en+proyectos+como+LLM4Decompile%2C+decai+o+r2ai.%0D%0A%0D%0APor+su+naturaleza%2C+la+ingenier%C3%ADa+inversa+y+la+decompilaci%C3%B3n+son+tareas+especialmente+complicada+para+los+modelos+de+IA+actuales%3A%0D%0A%0D%0A-+Un+proyecto+de+ingenier%C3%ADa+inversa+real+es+muy+extenso+para+las+IAs+actuales++que+pierden+el+contexto+f%C3%A1cilmente+y+alucinan+cuanta+m%C3%A1s+informaci%C3%B3n+reciban.%0D%0A-+Hay+pocos+conjuntos+de+datos+y+m%C3%A9tricas+objetivas+de+%22%22calidad%22%22+en+tareas+como+la+decompilaci%C3%B3n.+Lo+cual+limita+la+creaci%C3%B3n+de+mejores+modelos.%0D%0A-+El+uso+de+la+IA+a%C3%BAn+no+est%C3%A1+popularizado+en+la+comunidad+y+no+se+han+explorado+t%C3%A9cnicas+m%C3%A1s+avanzadas.%0D%0A%0D%0AEn+esta+charla+tratamos+de+resolver+algunos+de+estos+problemas+y+usaremos+t%C3%A9cnicas+modernas+como+agentes%2C+sistemas+multi-agentes+y+el+escalado+en+tiempo+de+inferencia+%28aka.+modelos+%22%22razonadores%22%22%29.%0D%0A%0D%0AHaremos+una+introducci%C3%B3n+de+estos+conceptos+y+c%C3%B3mo+se+pueden+usar+en+la+ingenier%C3%ADa+inversa.%0D%0A%0D%0AEn+nuestros+resultados+iniciales%2C+descubrimos+que+con+un+buen+dise%C3%B1o+de+agentes+se+mejora+sustantivamente+los+resultados%2C+tanto+en+c%C3%B3digo+decompilado+como+en+tareas+relacionadas.+Mostramos+usando+crackmes+estas+capacidades%2C+incluso+en+escenarios+complejos.%0D%0A%0D%0APor+%C3%BAltimo+se+compartir%C3%A1n+herramientas+para+que+la+comunidad+pueda+experimentar+con+la+IA+y+encontrar+m%C3%A1s+casos+de+uso.",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 785,
+                    "url": "/cfp/speaker/785",
+                    "name": "Javier Vidal"
+                },
+                {
+                    "id": 694,
+                    "url": "/cfp/speaker/694",
+                    "name": "Alejandro Vidal"
+                }
+            ]
+        },
+        "resourceId": "ia",
+        "className": "eia"
+    },
+    {
+        "title": "Comparte tu conocimiento, nadie nace hacker.",
+        "start": "2025-03-07T13:30:00",
+        "end": "2025-03-07T14:00:00",
+        "url": "/cfp/schedule/talk/168",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T133000",
+            "end_google": "20250307T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1330",
+            "duration_yahoo": "0.530.0",
+            "description": "Descripci\u00f3n: En ciberseguridad, no basta con saber; hay que demostrarlo. La clave para crecer en esta industria no es solo aprender, sino compartir. En esta charla, exploraremos c\u00f3mo la divulgaci\u00f3n del conocimiento \u2014a trav\u00e9s de blogs, videos en redes sociales y charlas\u2014 no solo fortalece la comunidad, sino que tambi\u00e9n abre puertas profesionales.\r\n\r\nDescubrir\u00e1s c\u00f3mo compartir tus aprendizajes puede ayudarte a construir tu reputaci\u00f3n, atraer oportunidades laborales y conectar con expertos del sector. Porque nadie nace hacker, pero los que destacan son los que no tienen miedo a ense\u00f1ar.\r\n\r\nSi quieres avanzar en ciberseguridad, empieza a compartir. \u00bfTe unes al movimiento?\r\n\r\nPor: <b>Hackavis</b>",
+            "description_web": "Descripci%C3%B3n%3A+En+ciberseguridad%2C+no+basta+con+saber%3B+hay+que+demostrarlo.+La+clave+para+crecer+en+esta+industria+no+es+solo+aprender%2C+sino+compartir.+En+esta+charla%2C+exploraremos+c%C3%B3mo+la+divulgaci%C3%B3n+del+conocimiento+%E2%80%94a+trav%C3%A9s+de+blogs%2C+videos+en+redes+sociales+y+charlas%E2%80%94+no+solo+fortalece+la+comunidad%2C+sino+que+tambi%C3%A9n+abre+puertas+profesionales.%0D%0A%0D%0ADescubrir%C3%A1s+c%C3%B3mo+compartir+tus+aprendizajes+puede+ayudarte+a+construir+tu+reputaci%C3%B3n%2C+atraer+oportunidades+laborales+y+conectar+con+expertos+del+sector.+Porque+nadie+nace+hacker%2C+pero+los+que+destacan+son+los+que+no+tienen+miedo+a+ense%C3%B1ar.%0D%0A%0D%0ASi+quieres+avanzar+en+ciberseguridad%2C+empieza+a+compartir.+%C2%BFTe+unes+al+movimiento%3F%0D%0A%0D%0APor%3A+%3Cb%3EHackavis%3C%2Fb%3E",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 793,
+                    "url": "/cfp/speaker/793",
+                    "name": "Jos\u00e9 Javier Pastor"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "CTF - B\u00fasqueda de personas desaparecidas junto a FFCCS",
+        "start": "2025-03-07T13:30:00",
+        "end": "2025-03-07T15:00:00",
+        "url": "/cfp/schedule/talk/129",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T133000",
+            "end_google": "20250307T150000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1330",
+            "duration_yahoo": "1.530.0",
+            "description": "CTF - B\u00fasqueda de personas desaparecidas junto a FFCCS",
+            "description_web": "CTF+-+B%C3%BAsqueda+de+personas+desaparecidas+junto+a+FFCCS",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "La nueva Ley espa\u00f1ola de coordinaci\u00f3n y gobernanza de la ciberseguridad: principales novedades",
+        "start": "2025-03-07T14:00:00",
+        "end": "2025-03-07T15:00:00",
+        "url": "/cfp/schedule/talk/87",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T140000",
+            "end_google": "20250307T150000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1400",
+            "duration_yahoo": "1.00.0",
+            "description": "Se prev\u00e9 que para antes de la Rooted se haya aprobado la nueva ley de ciberseguridad que transpone la Directiva NIS2. De ser as\u00ed, se propone explicar el alcance de la nueva norma y el impacto en las empresas espa\u00f1olas afectadas, en particular el cuanto a gesti\u00f3n y notificaci\u00f3n de incidentes.",
+            "description_web": "Se+prev%C3%A9+que+para+antes+de+la+Rooted+se+haya+aprobado+la+nueva+ley+de+ciberseguridad+que+transpone+la+Directiva+NIS2.+De+ser+as%C3%AD%2C+se+propone+explicar+el+alcance+de+la+nueva+norma+y+el+impacto+en+las+empresas+espa%C3%B1olas+afectadas%2C+en+particular+el+cuanto+a+gesti%C3%B3n+y+notificaci%C3%B3n+de+incidentes.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 770,
+                    "url": "/cfp/speaker/770",
+                    "name": "Francisco  Perez Bes"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Descanso - comida",
+        "start": "2025-03-07T14:00:00",
+        "end": "2025-03-07T15:30:00",
+        "url": "/cfp/schedule/talk/169",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T140000",
+            "end_google": "20250307T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1400",
+            "duration_yahoo": "1.530.0",
+            "description": "Descanso - comida",
+            "description_web": "Descanso+-+comida",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "influencers",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T14:00:00",
+        "end": "2025-03-07T14:30:00",
+        "url": "/cfp/schedule/talk/100",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T140000",
+            "end_google": "20250307T143000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1400",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "protaapp",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso - comida",
+        "start": "2025-03-07T14:00:00",
+        "end": "2025-03-07T15:30:00",
+        "url": "/cfp/schedule/talk/115",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T140000",
+            "end_google": "20250307T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1400",
+            "duration_yahoo": "1.530.0",
+            "description": "Descanso - comida",
+            "description_web": "Descanso+-+comida",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "securiters",
+        "className": "ebreak"
+    },
+    {
+        "title": "Adquisiciones DFIR complejas: el diablo est\u00e1 en los detalles",
+        "start": "2025-03-07T14:00:00",
+        "end": "2025-03-07T15:00:00",
+        "url": "/cfp/schedule/talk/140",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T140000",
+            "end_google": "20250307T150000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1400",
+            "duration_yahoo": "1.00.0",
+            "description": "Encontrarnos literaturas o recopilaciones de casos forenses y DFIR que son habituales, sencillos, did\u00e1cticos hasta llegar a los m\u00e1s pintorescos que permiten hacernos una idea del alcance a lo que nos enfrentamos. Sin embargo, siempre se omite la complejidad t\u00e9cnica asociada al escenario en el momento de la adquisici\u00f3n, en donde adem\u00e1s, si algo va mal todav\u00eda se va a poner peor. Se presentar\u00e1n una serie de casos reales con soluci\u00f3n real que requieren una planificaci\u00f3n t\u00e9cnica o sortear los obst\u00e1culos que no permiten progresar de forma adecuada la obtenci\u00f3n de informaci\u00f3n. Estos casos pertenecen al \u00e1mbito judicial, corporativo e industrial para dispositivos y naturalezas tecnol\u00f3gicas distintas. Entre los casos habr\u00e1 ca\u00eddas de tensi\u00f3n, diluvios de logs, limitaci\u00f3n temporal en las actuaciones, conexiones f\u00edsicas necesarias que no se pueden realizar, soluciones ad-hoc, dispositivos m\u00e1s que antiguos e incluso muy deteriorados, fallos de coordinaci\u00f3n, ... Un ecosistema de lo m\u00e1s variopinto con soluciones pr\u00e1cticas, descuidos, alguna decepci\u00f3n y mucho caf\u00e9 pero con tres malditos terrones. Los casos, se descartar\u00e1n algunos para ajustarse al tiempo de exposici\u00f3n: -El \u00fa(SB)nico -!Desayuna 200Tb de logs, y pide postre! -Acero puro \u00f3 los problemas de adquirir chatarra -Consecuencias de las ecuaciones de Maxwell o \u00bfEl cable azul o el rojo? -No le busques USB tres al gato o \u00bfEl cable azul o el rojo? Parte 2 -Buzones de plomo -Blatand o donde esta mi puerto USB -BSD cabrones -El router de Luis -Cabr\u00f3n!!!! Me mandaste a la guerra con un tenedor de madera -Tengo un tractor amarillo -Tx, no me des las gracias -Encro, qu\u00e9jQuery3310768253997968863_1735057123749??",
+            "description_web": "Encontrarnos+literaturas+o+recopilaciones+de+casos+forenses+y+DFIR+que+son+habituales%2C+sencillos%2C+did%C3%A1cticos+hasta+llegar+a+los+m%C3%A1s+pintorescos+que+permiten+hacernos+una+idea+del+alcance+a+lo+que+nos+enfrentamos.+Sin+embargo%2C+siempre+se+omite+la+complejidad+t%C3%A9cnica+asociada+al+escenario+en+el+momento+de+la+adquisici%C3%B3n%2C+en+donde+adem%C3%A1s%2C+si+algo+va+mal+todav%C3%ADa+se+va+a+poner+peor.+Se+presentar%C3%A1n+una+serie+de+casos+reales+con+soluci%C3%B3n+real+que+requieren+una+planificaci%C3%B3n+t%C3%A9cnica+o+sortear+los+obst%C3%A1culos+que+no+permiten+progresar+de+forma+adecuada+la+obtenci%C3%B3n+de+informaci%C3%B3n.+Estos+casos+pertenecen+al+%C3%A1mbito+judicial%2C+corporativo+e+industrial+para+dispositivos+y+naturalezas+tecnol%C3%B3gicas+distintas.+Entre+los+casos+habr%C3%A1+ca%C3%ADdas+de+tensi%C3%B3n%2C+diluvios+de+logs%2C+limitaci%C3%B3n+temporal+en+las+actuaciones%2C+conexiones+f%C3%ADsicas+necesarias+que+no+se+pueden+realizar%2C+soluciones+ad-hoc%2C+dispositivos+m%C3%A1s+que+antiguos+e+incluso+muy+deteriorados%2C+fallos+de+coordinaci%C3%B3n%2C+...+Un+ecosistema+de+lo+m%C3%A1s+variopinto+con+soluciones+pr%C3%A1cticas%2C+descuidos%2C+alguna+decepci%C3%B3n+y+mucho+caf%C3%A9+pero+con+tres+malditos+terrones.+Los+casos%2C+se+descartar%C3%A1n+algunos+para+ajustarse+al+tiempo+de+exposici%C3%B3n%3A+-El+%C3%BA%28SB%29nico+-%21Desayuna+200Tb+de+logs%2C+y+pide+postre%21+-Acero+puro+%C3%B3+los+problemas+de+adquirir+chatarra+-Consecuencias+de+las+ecuaciones+de+Maxwell+o+%C2%BFEl+cable+azul+o+el+rojo%3F+-No+le+busques+USB+tres+al+gato+o+%C2%BFEl+cable+azul+o+el+rojo%3F+Parte+2+-Buzones+de+plomo+-Blatand+o+donde+esta+mi+puerto+USB+-BSD+cabrones+-El+router+de+Luis+-Cabr%C3%B3n%21%21%21%21+Me+mandaste+a+la+guerra+con+un+tenedor+de+madera+-Tengo+un+tractor+amarillo+-Tx%2C+no+me+des+las+gracias+-Encro%2C+qu%C3%A9jQuery3310768253997968863_1735057123749%3F%3F",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 772,
+                    "url": "/cfp/speaker/772",
+                    "name": "Buenaventura Salcedo Santos-Olmo"
+                },
+                {
+                    "id": 773,
+                    "url": "/cfp/speaker/773",
+                    "name": "Alejandro Chirivella Ciruelos"
+                }
+            ]
+        },
+        "resourceId": "rooted17",
+        "className": "erooted"
+    },
+    {
+        "title": "Descanso - comida",
+        "start": "2025-03-07T14:00:00",
+        "end": "2025-03-07T15:00:00",
+        "url": "/cfp/schedule/talk/154",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T140000",
+            "end_google": "20250307T150000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1400",
+            "duration_yahoo": "1.00.0",
+            "description": "Descanso - comida",
+            "description_web": "Descanso+-+comida",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "ia",
+        "className": "ebreak"
+    },
+    {
+        "title": "Pel\u00edcula: \"Diario de mi sextorsi\u00f3n\"",
+        "start": "2025-03-07T14:30:00",
+        "end": "2025-03-07T15:30:00",
+        "url": "/cfp/schedule/talk/101",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T143000",
+            "end_google": "20250307T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1430",
+            "duration_yahoo": "1.00.0",
+            "description": "Pel\u00edcula: \"Diario de mi sextorsi\u00f3n\"",
+            "description_web": "Pel%C3%ADcula%3A+%22Diario+de+mi+sextorsi%C3%B3n%22",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T15:00:00",
+        "end": "2025-03-07T15:30:00",
+        "url": "/cfp/schedule/talk/88",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T150000",
+            "end_google": "20250307T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1500",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "ebreak"
+    },
+    {
+        "title": "La IA los cr\u00eda... y el OSINT los junta",
+        "start": "2025-03-07T15:00:00",
+        "end": "2025-03-07T15:30:00",
+        "url": "/cfp/schedule/talk/130",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T150000",
+            "end_google": "20250307T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1500",
+            "duration_yahoo": "0.530.0",
+            "description": "Seg\u00fan la normativa vigente de que todos los eventos de Ciberseguridad\r\nnecesitan de tener una charla de IA. \u00a1\u00a1Pues Toma!!",
+            "description_web": "Seg%C3%BAn+la+normativa+vigente+de+que+todos+los+eventos+de+Ciberseguridad%0D%0Anecesitan+de+tener+una+charla+de+IA.+%C2%A1%C2%A1Pues+Toma%21%21",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 803,
+                    "url": "/cfp/speaker/803",
+                    "name": "Roberto Eduardo Gonzalez"
+                }
+            ]
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T15:00:00",
+        "end": "2025-03-07T15:30:00",
+        "url": "/cfp/schedule/talk/141",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T150000",
+            "end_google": "20250307T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1500",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted17",
+        "className": "ebreak"
+    },
+    {
+        "title": "MALDITOS ALGORITMOS: HOLLYWOOD ANTICIP\u00d3 LAS AMENAZAS QUE PODR\u00cdAN ACABAR CON EL MUNDO COMO LO CONOCEMOS.",
+        "start": "2025-03-07T15:00:00",
+        "end": "2025-03-07T16:00:00",
+        "url": "/cfp/schedule/talk/155",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T150000",
+            "end_google": "20250307T160000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1500",
+            "duration_yahoo": "1.00.0",
+            "description": "La tentaci\u00f3n del Hombre de poner a su servicio lo que desconoce sigue siendo un cl\u00e1sico. Como lo es que su uso malicioso siempre ha prevalecido sobre sus efectos positivos. En esta ponencia sobre la IA y sus riesgos, repasaremos 20 pel\u00edculas -algunas poco conocidas- de la historia del cine que preconizaron lo que ya estamos viviendo con IA amenazantes, racistas, que consideran la humanidad una amenaza o que claman por sus derechos la margen de sus creadoras y que, de no embridarse, podr\u00edan traer un caos y destrucci\u00f3n\u2026 que, ya en el cine, muchos guionistas han mostrado. Algoritmos malditos que amenazan la existencia de la humanidad y a los que nadie ha hecho caso, a pesar de haberlos visto en acci\u00f3n en la gran pantalla. \u00bfAlguien les pondr\u00e1 freno antes de que pasen de la ficci\u00f3n a la realidad?",
+            "description_web": "La+tentaci%C3%B3n+del+Hombre+de+poner+a+su+servicio+lo+que+desconoce+sigue+siendo+un+cl%C3%A1sico.+Como+lo+es+que+su+uso+malicioso+siempre+ha+prevalecido+sobre+sus+efectos+positivos.+En+esta+ponencia+sobre+la+IA+y+sus+riesgos%2C+repasaremos+20+pel%C3%ADculas+-algunas+poco+conocidas-+de+la+historia+del+cine+que+preconizaron+lo+que+ya+estamos+viviendo+con+IA+amenazantes%2C+racistas%2C+que+consideran+la+humanidad+una+amenaza+o+que+claman+por+sus+derechos+la+margen+de+sus+creadoras+y+que%2C+de+no+embridarse%2C+podr%C3%ADan+traer+un+caos+y+destrucci%C3%B3n%E2%80%A6+que%2C+ya+en+el+cine%2C+muchos+guionistas+han+mostrado.+Algoritmos+malditos+que+amenazan+la+existencia+de+la+humanidad+y+a+los+que+nadie+ha+hecho+caso%2C+a+pesar+de+haberlos+visto+en+acci%C3%B3n+en+la+gran+pantalla.+%C2%BFAlguien+les+pondr%C3%A1+freno+antes+de+que+pasen+de+la+ficci%C3%B3n+a+la+realidad%3F",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 689,
+                    "url": "/cfp/speaker/689",
+                    "name": "Carmen  Torrano Gimenez"
+                },
+                {
+                    "id": 786,
+                    "url": "/cfp/speaker/786",
+                    "name": "Carmen Torrano"
+                }
+            ]
+        },
+        "resourceId": "ia",
+        "className": "eia"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-07T15:30:00",
+        "end": "2025-03-07T16:30:00",
+        "url": "/cfp/schedule/talk/89",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T153000",
+            "end_google": "20250307T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1530",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Linkedin, Corea del Norte y otros malware fant\u00e1sticos",
+        "start": "2025-03-07T15:30:00",
+        "end": "2025-03-07T16:00:00",
+        "url": "/cfp/schedule/talk/170",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T153000",
+            "end_google": "20250307T160000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1530",
+            "duration_yahoo": "0.530.0",
+            "description": "Descripci\u00f3n: Hablaremos de de la campa\u00f1a de Contagious Interview de Corea del Norte y como independientmente de que seamos personas de fuera de IT o t\u00e9cnicos absolutos no estamos a salvo del phising y de que nos enga\u00f1en.\r\n\r\nPor: <b>CyberForged</b>",
+            "description_web": "Descripci%C3%B3n%3A+Hablaremos+de+de+la+campa%C3%B1a+de+Contagious+Interview+de+Corea+del+Norte+y+como+independientmente+de+que+seamos+personas+de+fuera+de+IT+o+t%C3%A9cnicos+absolutos+no+estamos+a+salvo+del+phising+y+de+que+nos+enga%C3%B1en.%0D%0A%0D%0APor%3A+%3Cb%3ECyberForged%3C%2Fb%3E",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 794,
+                    "url": "/cfp/speaker/794",
+                    "name": "Miguel \u00c1ngel Diaz"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "La Regla de los 90 Segundos: C\u00f3mo Gustarle a Cualquiera! Un enfoque de la Ingenier\u00eda Social aplicada a la persuasi\u00f3n.",
+        "start": "2025-03-07T15:30:00",
+        "end": "2025-03-07T16:30:00",
+        "url": "/cfp/schedule/talk/131",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T153000",
+            "end_google": "20250307T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1530",
+            "duration_yahoo": "1.00.0",
+            "description": "En esta charla descubrir\u00e1s c\u00f3mo aplicar la Regla de los 90 segundos para generar rapport instant\u00e1neo, proyectar carisma aut\u00e9ntico y persuadir en cualquier interacci\u00f3n social.",
+            "description_web": "En+esta+charla+descubrir%C3%A1s+c%C3%B3mo+aplicar+la+Regla+de+los+90+segundos+para+generar+rapport+instant%C3%A1neo%2C+proyectar+carisma+aut%C3%A9ntico+y+persuadir+en+cualquier+interacci%C3%B3n+social.",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 802,
+                    "url": "/cfp/speaker/802",
+                    "name": "Jezer Ferreira"
+                }
+            ]
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "Sextorsi\u00f3n: una amenaza global con rostro humano",
+        "start": "2025-03-07T15:30:00",
+        "end": "2025-03-07T16:00:00",
+        "url": "/cfp/schedule/talk/102",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T153000",
+            "end_google": "20250307T160000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1530",
+            "duration_yahoo": "0.530.0",
+            "description": "La sextorsi\u00f3n no son solo cifras alarmantes; es una violencia que afecta vidas reales. En esta charla, a trav\u00e9s de \"Diario de mi Sextorsi\u00f3n\", compartir\u00e9 mi experiencia enfrentando a un Hacker que rob\u00f3 mi privacidad y me sumergi\u00f3 en una red de chantaje digital.\r\n\r\nExploraremos c\u00f3mo funciona este delito, qu\u00e9 lo convierte en una amenaza global creciente y c\u00f3mo podemos prevenirlo. M\u00e1s all\u00e1 de los n\u00fameros, esta es una invitaci\u00f3n a reflexionar, empatizar y actuar frente a una crisis que no podemos ignora",
+            "description_web": "La+sextorsi%C3%B3n+no+son+solo+cifras+alarmantes%3B+es+una+violencia+que+afecta+vidas+reales.+En+esta+charla%2C+a+trav%C3%A9s+de+%22Diario+de+mi+Sextorsi%C3%B3n%22%2C+compartir%C3%A9+mi+experiencia+enfrentando+a+un+Hacker+que+rob%C3%B3+mi+privacidad+y+me+sumergi%C3%B3+en+una+red+de+chantaje+digital.%0D%0A%0D%0AExploraremos+c%C3%B3mo+funciona+este+delito%2C+qu%C3%A9+lo+convierte+en+una+amenaza+global+creciente+y+c%C3%B3mo+podemos+prevenirlo.+M%C3%A1s+all%C3%A1+de+los+n%C3%BAmeros%2C+esta+es+una+invitaci%C3%B3n+a+reflexionar%2C+empatizar+y+actuar+frente+a+una+crisis+que+no+podemos+ignora",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 753,
+                    "url": "/cfp/speaker/753",
+                    "name": "Patricia Franquesa"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "Zero Trust: No confiamos en tu gato, mucho menos en tu contrase\u00f1a",
+        "start": "2025-03-07T15:30:00",
+        "end": "2025-03-07T16:00:00",
+        "url": "/cfp/schedule/talk/116",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T153000",
+            "end_google": "20250307T160000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1530",
+            "duration_yahoo": "0.530.0",
+            "description": "Zero Trust: No confiamos en tu gato, mucho menos en tu contrase\u00f1a",
+            "description_web": "Zero+Trust%3A+No+confiamos+en+tu+gato%2C+mucho+menos+en+tu+contrase%C3%B1a",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 851,
+                    "url": "/cfp/speaker/851",
+                    "name": "Santi Perez"
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "Censorship, privacy and the fine art of disappearing without trace",
+        "start": "2025-03-07T15:30:00",
+        "end": "2025-03-07T16:30:00",
+        "url": "/cfp/schedule/talk/142",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T153000",
+            "end_google": "20250307T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1530",
+            "duration_yahoo": "1.00.0",
+            "description": "Russia's war against Ukraine demonstrates, as do many other examples throughout recent history, how vulnerable we citizens are to issues of privacy and censorship. In this talk, we will discuss recent problems related to privacy attacks, government circumvention mechanisms, and demystify some common privacy and anonymity recommendations. Our goal is to ensure that anyone can understand the importance of staying protected in these scenarios and having the tools available to do so. We are hackers, and this is a hacker conference. We will publish two user-friendly tools that demonstrate how to create clever covert channels using massive services, such as calendars or videos on social networks. One, two, three... action!",
+            "description_web": "Russia%27s+war+against+Ukraine+demonstrates%2C+as+do+many+other+examples+throughout+recent+history%2C+how+vulnerable+we+citizens+are+to+issues+of+privacy+and+censorship.+In+this+talk%2C+we+will+discuss+recent+problems+related+to+privacy+attacks%2C+government+circumvention+mechanisms%2C+and+demystify+some+common+privacy+and+anonymity+recommendations.+Our+goal+is+to+ensure+that+anyone+can+understand+the+importance+of+staying+protected+in+these+scenarios+and+having+the+tools+available+to+do+so.+We+are+hackers%2C+and+this+is+a+hacker+conference.+We+will+publish+two+user-friendly+tools+that+demonstrate+how+to+create+clever+covert+channels+using+massive+services%2C+such+as+calendars+or+videos+on+social+networks.+One%2C+two%2C+three...+action%21",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 596,
+                    "url": "/cfp/speaker/596",
+                    "name": "Daniel Garc\u00eda"
+                },
+                {
+                    "id": 478,
+                    "url": "/cfp/speaker/478",
+                    "name": "Alfonso Mu\u00f1oz Mu\u00f1oz"
+                }
+            ]
+        },
+        "resourceId": "rooted17",
+        "className": "erooted"
+    },
+    {
+        "title": "Mesa redonda: divulgadores",
+        "start": "2025-03-07T16:00:00",
+        "end": "2025-03-07T17:00:00",
+        "url": "/cfp/schedule/talk/171",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T160000",
+            "end_google": "20250307T170000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1600",
+            "duration_yahoo": "1.00.0",
+            "description": "El hacking tiene historia y en esta mesa debatiremos historias del pasado y del presente, y como la cultura hacker ha hecho mejor el mundo y permitido que ocupemos el espacio que merecemos en el mundo laboral.\r\n\r\n<b>Modera: Antonio Fernandes</b>",
+            "description_web": "El+hacking+tiene+historia+y+en+esta+mesa+debatiremos+historias+del+pasado+y+del+presente%2C+y+como+la+cultura+hacker+ha+hecho+mejor+el+mundo+y+permitido+que+ocupemos+el+espacio+que+merecemos+en+el+mundo+laboral.%0D%0A%0D%0A%3Cb%3EModera%3A+Antonio+Fernandes%3C%2Fb%3E",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 861,
+                    "url": "/cfp/speaker/861",
+                    "name": "Antonio  Fernandes"
+                },
+                {
+                    "id": 795,
+                    "url": "/cfp/speaker/795",
+                    "name": "Albert Corzo"
+                },
+                {
+                    "id": 140,
+                    "url": "/cfp/speaker/140",
+                    "name": "Marta L\u00f3pez Pardal"
+                },
+                {
+                    "id": 796,
+                    "url": "/cfp/speaker/796",
+                    "name": "Mar\u00eda  Aperador "
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "OpSec en la vida real",
+        "start": "2025-03-07T16:00:00",
+        "end": "2025-03-07T16:30:00",
+        "url": "/cfp/schedule/talk/103",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T160000",
+            "end_google": "20250307T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1600",
+            "duration_yahoo": "0.530.0",
+            "description": "El OpSec (Operational Security) es un proceso de gesti\u00f3n de riesgos que ayuda a proteger informaci\u00f3n sensible de posibles adversarios o delincuentes. Se utiliza en \u00e1mbitos militares y corporativos para evitar filtraci\u00f3n de datos cr\u00edticos. \u00bfY si lo aplicamos a la vida real?. Charla t\u00e9cnica en la que se analizar\u00e1 desde un punto de vista OpSec el documental: \"Diario de mi extorsi\u00f3n",
+            "description_web": "El+OpSec+%28Operational+Security%29+es+un+proceso+de+gesti%C3%B3n+de+riesgos+que+ayuda+a+proteger+informaci%C3%B3n+sensible+de+posibles+adversarios+o+delincuentes.+Se+utiliza+en+%C3%A1mbitos+militares+y+corporativos+para+evitar+filtraci%C3%B3n+de+datos+cr%C3%ADticos.+%C2%BFY+si+lo+aplicamos+a+la+vida+real%3F.+Charla+t%C3%A9cnica+en+la+que+se+analizar%C3%A1+desde+un+punto+de+vista+OpSec+el+documental%3A+%22Diario+de+mi+extorsi%C3%B3n",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 746,
+                    "url": "/cfp/speaker/746",
+                    "name": "Manuel Guerra"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "T\u00e9cnicas de HUMINT aplicadas a la investigaci\u00f3n del cibercrimen",
+        "start": "2025-03-07T16:00:00",
+        "end": "2025-03-07T16:30:00",
+        "url": "/cfp/schedule/talk/117",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T160000",
+            "end_google": "20250307T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1600",
+            "duration_yahoo": "0.530.0",
+            "description": "T\u00e9cnicas de HUMINT aplicadas a la investigaci\u00f3n del cibercrimen.",
+            "description_web": "T%C3%A9cnicas+de+HUMINT+aplicadas+a+la+investigaci%C3%B3n+del+cibercrimen.",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 679,
+                    "url": "/cfp/speaker/679",
+                    "name": "Javier Rodr\u00edguez"
+                },
+                {
+                    "id": 867,
+                    "url": "/cfp/speaker/867",
+                    "name": "Daniel Villegas"
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "Evoluci\u00f3n del Phishing: Fusionando IA, OSINT y Automatizaci\u00f3n en Ataques Dirigidos.",
+        "start": "2025-03-07T16:00:00",
+        "end": "2025-03-07T17:00:00",
+        "url": "/cfp/schedule/talk/156",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T160000",
+            "end_google": "20250307T170000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1600",
+            "duration_yahoo": "1.00.0",
+            "description": "Esta ponencia examina la evoluci\u00f3n de las t\u00e9cnicas avanzadas de phishing, presentando un proyecto innovador que integra Inteligencia Artificial, OSINT (Inteligencia de Fuentes Abiertas) y automatizaci\u00f3n para desarrollar un framework completo de an\u00e1lisis.\r\n\r\nComenzamos explorando la metodolog\u00eda de recopilaci\u00f3n y an\u00e1lisis avanzado de informaci\u00f3n de fuentes abiertas, potenciada por modelos de Inteligencia Artificial ejecutados en entornos locales. Esta aproximaci\u00f3n permite un procesamiento seguro y controlado de los datos, garantizando la privacidad y la integridad del an\u00e1lisis.\r\n\r\nA partir del an\u00e1lisis inicial, el sistema posee perfiles detallados y personalizados de objetivos, incorporando elementos contextuales relevantes.\r\n\r\nLa fase final del proyecto presenta una plataforma de automatizaci\u00f3n avanzada que integra los modelos de IA local para la generaci\u00f3n din\u00e1mica de contenido. Esta plataforma permite la creaci\u00f3n automatizada de plantillas de correo electr\u00f3nico y la replicaci\u00f3n precisa de portales web, culminando con la generaci\u00f3n de informes detallados asistidos por IA.",
+            "description_web": "Esta+ponencia+examina+la+evoluci%C3%B3n+de+las+t%C3%A9cnicas+avanzadas+de+phishing%2C+presentando+un+proyecto+innovador+que+integra+Inteligencia+Artificial%2C+OSINT+%28Inteligencia+de+Fuentes+Abiertas%29+y+automatizaci%C3%B3n+para+desarrollar+un+framework+completo+de+an%C3%A1lisis.%0D%0A%0D%0AComenzamos+explorando+la+metodolog%C3%ADa+de+recopilaci%C3%B3n+y+an%C3%A1lisis+avanzado+de+informaci%C3%B3n+de+fuentes+abiertas%2C+potenciada+por+modelos+de+Inteligencia+Artificial+ejecutados+en+entornos+locales.+Esta+aproximaci%C3%B3n+permite+un+procesamiento+seguro+y+controlado+de+los+datos%2C+garantizando+la+privacidad+y+la+integridad+del+an%C3%A1lisis.%0D%0A%0D%0AA+partir+del+an%C3%A1lisis+inicial%2C+el+sistema+posee+perfiles+detallados+y+personalizados+de+objetivos%2C+incorporando+elementos+contextuales+relevantes.%0D%0A%0D%0ALa+fase+final+del+proyecto+presenta+una+plataforma+de+automatizaci%C3%B3n+avanzada+que+integra+los+modelos+de+IA+local+para+la+generaci%C3%B3n+din%C3%A1mica+de+contenido.+Esta+plataforma+permite+la+creaci%C3%B3n+automatizada+de+plantillas+de+correo+electr%C3%B3nico+y+la+replicaci%C3%B3n+precisa+de+portales+web%2C+culminando+con+la+generaci%C3%B3n+de+informes+detallados+asistidos+por+IA.",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 749,
+                    "url": "/cfp/speaker/749",
+                    "name": "F\u00e9lix Paniagua M\u00e9rida"
+                }
+            ]
+        },
+        "resourceId": "ia",
+        "className": "eia"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-07T16:30:00",
+        "end": "2025-03-07T17:30:00",
+        "url": "/cfp/schedule/talk/90",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T163000",
+            "end_google": "20250307T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1630",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "OPSEC low-cost: Vigilancia y contravigilancia con hardware hacking",
+        "start": "2025-03-07T16:30:00",
+        "end": "2025-03-07T17:30:00",
+        "url": "/cfp/schedule/talk/132",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T163000",
+            "end_google": "20250307T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1630",
+            "duration_yahoo": "1.00.0",
+            "description": "\u00bfEst\u00e1 tu privacidad a salvo? Desafiaremos esa idea mostr\u00e1ndote c\u00f3mo cualquiera puede construir dispositivos de vigilancia con hardware barato y c\u00f3mo puedes defenderte usando las mismas herramientas. Desde la creaci\u00f3n de micr\u00f3fonos ocultos hasta la detecci\u00f3n de se\u00f1ales RF con SDR, emprenderemos un viaje t\u00e9cnico para proteger tu OPSEC en un mundo lleno de amenazas invisibles.",
+            "description_web": "%C2%BFEst%C3%A1+tu+privacidad+a+salvo%3F+Desafiaremos+esa+idea+mostr%C3%A1ndote+c%C3%B3mo+cualquiera+puede+construir+dispositivos+de+vigilancia+con+hardware+barato+y+c%C3%B3mo+puedes+defenderte+usando+las+mismas+herramientas.+Desde+la+creaci%C3%B3n+de+micr%C3%B3fonos+ocultos+hasta+la+detecci%C3%B3n+de+se%C3%B1ales+RF+con+SDR%2C+emprenderemos+un+viaje+t%C3%A9cnico+para+proteger+tu+OPSEC+en+un+mundo+lleno+de+amenazas+invisibles.",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 768,
+                    "url": "/cfp/speaker/768",
+                    "name": "Gabriela Garc\u00eda"
+                }
+            ]
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "Hardware Hacking para Administraciones P\u00fablicas: Protegiendo infraestructuras cr\u00edticas",
+        "start": "2025-03-07T16:30:00",
+        "end": "2025-03-07T17:30:00",
+        "url": "/cfp/schedule/talk/104",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T163000",
+            "end_google": "20250307T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1630",
+            "duration_yahoo": "1.00.0",
+            "description": "Hardware Hacking para Administraciones P\u00fablicas: Protegiendo infraestructuras cr\u00edticas",
+            "description_web": "Hardware+Hacking+para+Administraciones+P%C3%BAblicas%3A+Protegiendo+infraestructuras+cr%C3%ADticas",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 769,
+                    "url": "/cfp/speaker/769",
+                    "name": "David  Melendez"
+                },
+                {
+                    "id": 419,
+                    "url": "/cfp/speaker/419",
+                    "name": "Gabriela Garc\u00eda"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "Desinformaci\u00f3n: Ingenier\u00eda Social y Gesti\u00f3n de la Identidad Digital en la Era de la Posverdad - Caso DANA",
+        "start": "2025-03-07T16:30:00",
+        "end": "2025-03-07T17:30:00",
+        "url": "/cfp/schedule/talk/118",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T163000",
+            "end_google": "20250307T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1630",
+            "duration_yahoo": "1.00.0",
+            "description": "La desinformaci\u00f3n es una herramienta poderosa que explota vulnerabilidades humanas y tecnol\u00f3gicas para manipular percepciones, influir en decisiones y da\u00f1ar la reputaci\u00f3n de personas y organizaciones. Esta charla abordar\u00e1 c\u00f3mo la ingenier\u00eda social se utiliza para propagar campa\u00f1as de desinformaci\u00f3n y c\u00f3mo la gesti\u00f3n de la identidad digital puede ser una soluci\u00f3n clave para protegernos de sus efectos devastadores. Adem\u00e1s, se presentar\u00e1n casos reales y actuales que han tenido un impacto significativo. Objetivos de la charla 1. Desmitificar la desinformaci\u00f3n: Mostrar c\u00f3mo se construyen y distribuyen campa\u00f1as de desinformaci\u00f3n a trav\u00e9s de t\u00e9cnicas de ingenier\u00eda social. 2. Proporcionar herramientas pr\u00e1cticas: Estrategias y soluciones para identificar, prevenir y contrarrestar campa\u00f1as de desinformaci\u00f3n desde una perspectiva t\u00e9cnica y humana. 3. Casos pr\u00e1cticos y aprendizajes: Analizar ejemplos recientes que ilustran los mecanismos y consecuencias de la desinformaci\u00f3n, con lecciones concretas para el p\u00fablico. Casos reales que se analizar\u00e1n 1. Campa\u00f1a de desinformaci\u00f3n en conflictos internacionales: \u2022 C\u00f3mo se utilizaron deepfakes y noticias falsas durante el conflicto entre Rusia y Ucrania para influir en la opini\u00f3n p\u00fablica global. \u2022 An\u00e1lisis de las estrategias de manipulaci\u00f3n emocional utilizadas y el impacto en la confianza de las fuentes oficiales. 2. Ataques de desinformaci\u00f3n contra figuras p\u00fablicas: \u2022 Caso reciente de la difamaci\u00f3n masiva contra celebridades y pol\u00edticos, incluyendo la fabricaci\u00f3n de pruebas digitales falsas para desacreditarlos. \u2022 Herramientas utilizadas para amplificar el alcance del da\u00f1o, como bots y redes sociales. 3. Campa\u00f1as de desinformaci\u00f3n corporativa: \u2022 Ejemplo de ataques dirigidos a empresas del sector tecnol\u00f3gico para da\u00f1ar su reputaci\u00f3n y manipular el mercado burs\u00e1til. \u2022 Estrategias para mitigar y contrarrestar estos ataques en tiempo real. 4. Manipulaci\u00f3n informativa en emergencias globales: \u2022 Desinformaci\u00f3n durante la DANA y c\u00f3mo afect\u00f3 a la percepci\u00f3n p\u00fablica sobre vacunas y medidas sanitarias. \u2022 T\u00e1cticas utilizadas para explotar el miedo y la incertidumbre. Estructura de la sesi\u00f3n 1. Introducci\u00f3n: El ecosistema de la desinformaci\u00f3n \u2022 Definici\u00f3n y contexto actual. \u2022 Relaci\u00f3n entre ingenier\u00eda social, psicolog\u00eda y desinformaci\u00f3n. 2. C\u00f3mo se construyen las campa\u00f1as de desinformaci\u00f3n: \u2022 T\u00e9cnicas utilizadas por atacantes: deepfakes, manipulaci\u00f3n de metadatos, bots, etc. \u2022 Explotaci\u00f3n de vulnerabilidades humanas (sesgos cognitivos, emociones, confianza). 3. Gesti\u00f3n de la identidad digital frente a la desinformaci\u00f3n: \u2022 Estrategias para proteger la reputaci\u00f3n personal y corporativa. \u2022 M\u00e9todos para detectar y responder ante campa\u00f1as da\u00f1inas. 4. An\u00e1lisis de casos pr\u00e1cticos: \u2022 Presentaci\u00f3n de los casos reales mencionados, con un desglose de t\u00e1cticas, impactos y respuestas efectivas. 5. Conclusiones y herramientas pr\u00e1cticas: \u2022 Recomendaciones clave para anticipar, identificar y mitigar la desinformaci\u00f3n. \u2022 Recursos \u00fatiles para organizaciones, equipos t\u00e9cnicos y no t\u00e9cnicos. 6. Q&A con los asistentes: Resolver dudas y profundizar en los temas tratados.",
+            "description_web": "La+desinformaci%C3%B3n+es+una+herramienta+poderosa+que+explota+vulnerabilidades+humanas+y+tecnol%C3%B3gicas+para+manipular+percepciones%2C+influir+en+decisiones+y+da%C3%B1ar+la+reputaci%C3%B3n+de+personas+y+organizaciones.+Esta+charla+abordar%C3%A1+c%C3%B3mo+la+ingenier%C3%ADa+social+se+utiliza+para+propagar+campa%C3%B1as+de+desinformaci%C3%B3n+y+c%C3%B3mo+la+gesti%C3%B3n+de+la+identidad+digital+puede+ser+una+soluci%C3%B3n+clave+para+protegernos+de+sus+efectos+devastadores.+Adem%C3%A1s%2C+se+presentar%C3%A1n+casos+reales+y+actuales+que+han+tenido+un+impacto+significativo.+Objetivos+de+la+charla+1.+Desmitificar+la+desinformaci%C3%B3n%3A+Mostrar+c%C3%B3mo+se+construyen+y+distribuyen+campa%C3%B1as+de+desinformaci%C3%B3n+a+trav%C3%A9s+de+t%C3%A9cnicas+de+ingenier%C3%ADa+social.+2.+Proporcionar+herramientas+pr%C3%A1cticas%3A+Estrategias+y+soluciones+para+identificar%2C+prevenir+y+contrarrestar+campa%C3%B1as+de+desinformaci%C3%B3n+desde+una+perspectiva+t%C3%A9cnica+y+humana.+3.+Casos+pr%C3%A1cticos+y+aprendizajes%3A+Analizar+ejemplos+recientes+que+ilustran+los+mecanismos+y+consecuencias+de+la+desinformaci%C3%B3n%2C+con+lecciones+concretas+para+el+p%C3%BAblico.+Casos+reales+que+se+analizar%C3%A1n+1.+Campa%C3%B1a+de+desinformaci%C3%B3n+en+conflictos+internacionales%3A+%E2%80%A2+C%C3%B3mo+se+utilizaron+deepfakes+y+noticias+falsas+durante+el+conflicto+entre+Rusia+y+Ucrania+para+influir+en+la+opini%C3%B3n+p%C3%BAblica+global.+%E2%80%A2+An%C3%A1lisis+de+las+estrategias+de+manipulaci%C3%B3n+emocional+utilizadas+y+el+impacto+en+la+confianza+de+las+fuentes+oficiales.+2.+Ataques+de+desinformaci%C3%B3n+contra+figuras+p%C3%BAblicas%3A+%E2%80%A2+Caso+reciente+de+la+difamaci%C3%B3n+masiva+contra+celebridades+y+pol%C3%ADticos%2C+incluyendo+la+fabricaci%C3%B3n+de+pruebas+digitales+falsas+para+desacreditarlos.+%E2%80%A2+Herramientas+utilizadas+para+amplificar+el+alcance+del+da%C3%B1o%2C+como+bots+y+redes+sociales.+3.+Campa%C3%B1as+de+desinformaci%C3%B3n+corporativa%3A+%E2%80%A2+Ejemplo+de+ataques+dirigidos+a+empresas+del+sector+tecnol%C3%B3gico+para+da%C3%B1ar+su+reputaci%C3%B3n+y+manipular+el+mercado+burs%C3%A1til.+%E2%80%A2+Estrategias+para+mitigar+y+contrarrestar+estos+ataques+en+tiempo+real.+4.+Manipulaci%C3%B3n+informativa+en+emergencias+globales%3A+%E2%80%A2+Desinformaci%C3%B3n+durante+la+DANA+y+c%C3%B3mo+afect%C3%B3+a+la+percepci%C3%B3n+p%C3%BAblica+sobre+vacunas+y+medidas+sanitarias.+%E2%80%A2+T%C3%A1cticas+utilizadas+para+explotar+el+miedo+y+la+incertidumbre.+Estructura+de+la+sesi%C3%B3n+1.+Introducci%C3%B3n%3A+El+ecosistema+de+la+desinformaci%C3%B3n+%E2%80%A2+Definici%C3%B3n+y+contexto+actual.+%E2%80%A2+Relaci%C3%B3n+entre+ingenier%C3%ADa+social%2C+psicolog%C3%ADa+y+desinformaci%C3%B3n.+2.+C%C3%B3mo+se+construyen+las+campa%C3%B1as+de+desinformaci%C3%B3n%3A+%E2%80%A2+T%C3%A9cnicas+utilizadas+por+atacantes%3A+deepfakes%2C+manipulaci%C3%B3n+de+metadatos%2C+bots%2C+etc.+%E2%80%A2+Explotaci%C3%B3n+de+vulnerabilidades+humanas+%28sesgos+cognitivos%2C+emociones%2C+confianza%29.+3.+Gesti%C3%B3n+de+la+identidad+digital+frente+a+la+desinformaci%C3%B3n%3A+%E2%80%A2+Estrategias+para+proteger+la+reputaci%C3%B3n+personal+y+corporativa.+%E2%80%A2+M%C3%A9todos+para+detectar+y+responder+ante+campa%C3%B1as+da%C3%B1inas.+4.+An%C3%A1lisis+de+casos+pr%C3%A1cticos%3A+%E2%80%A2+Presentaci%C3%B3n+de+los+casos+reales+mencionados%2C+con+un+desglose+de+t%C3%A1cticas%2C+impactos+y+respuestas+efectivas.+5.+Conclusiones+y+herramientas+pr%C3%A1cticas%3A+%E2%80%A2+Recomendaciones+clave+para+anticipar%2C+identificar+y+mitigar+la+desinformaci%C3%B3n.+%E2%80%A2+Recursos+%C3%BAtiles+para+organizaciones%2C+equipos+t%C3%A9cnicos+y+no+t%C3%A9cnicos.+6.+Q%26A+con+los+asistentes%3A+Resolver+dudas+y+profundizar+en+los+temas+tratados.",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 577,
+                    "url": "/cfp/speaker/577",
+                    "name": "Speaker 1"
+                },
+                {
+                    "id": 868,
+                    "url": "/cfp/speaker/868",
+                    "name": "Cristina L. Tarrida"
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-07T16:30:00",
+        "end": "2025-03-07T17:30:00",
+        "url": "/cfp/schedule/talk/143",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T163000",
+            "end_google": "20250307T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1630",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted17",
+        "className": "erooted"
+    },
+    {
+        "title": "LOVE ME, TINDER (Rooted Edition)",
+        "start": "2025-03-07T17:00:00",
+        "end": "2025-03-07T17:30:00",
+        "url": "/cfp/schedule/talk/164",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T170000",
+            "end_google": "20250307T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1700",
+            "duration_yahoo": "0.530.0",
+            "description": "Reflexi\u00f3n sobre la falta de ciberseguridad y privacidad en aplicaciones de citas, con casos de uso y trucos para cruzar fuentes usando estas apps. Automatizaciones, webcrawling, big data y uso de IA para crear bases de datos.\r\n\r\nPor: <b>Cosas de Hackers</b>",
+            "description_web": "Reflexi%C3%B3n+sobre+la+falta+de+ciberseguridad+y+privacidad+en+aplicaciones+de+citas%2C+con+casos+de+uso+y+trucos+para+cruzar+fuentes+usando+estas+apps.+Automatizaciones%2C+webcrawling%2C+big+data+y+uso+de+IA+para+crear+bases+de+datos.%0D%0A%0D%0APor%3A+%3Cb%3ECosas+de+Hackers%3C%2Fb%3E",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 788,
+                    "url": "/cfp/speaker/788",
+                    "name": "ANDRES DAVID NARANJO VENEGAS"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T17:00:00",
+        "end": "2025-03-07T17:30:00",
+        "url": "/cfp/schedule/talk/159",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T170000",
+            "end_google": "20250307T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1700",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "ia",
+        "className": "ebreak"
+    },
+    {
+        "title": "AYUDA DANA: iniciativa solidaria",
+        "start": "2025-03-07T17:30:00",
+        "end": "2025-03-07T18:00:00",
+        "url": "/cfp/schedule/talk/91",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T173000",
+            "end_google": "20250307T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "AYUDA DANA: iniciativa solidaria",
+            "description_web": "AYUDA+DANA%3A+iniciativa+solidaria",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "SPY x Trust - T\u00e9cnicas psicol\u00f3gicas de persuasi\u00f3n y manipulaci\u00f3n aplicadas a la ingenier\u00eda social",
+        "start": "2025-03-07T17:30:00",
+        "end": "2025-03-07T18:30:00",
+        "url": "/cfp/schedule/talk/133",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T173000",
+            "end_google": "20250307T183000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1730",
+            "duration_yahoo": "1.00.0",
+            "description": "T\u00e9cnicas psicol\u00f3gicas de persuasi\u00f3n y manipulaci\u00f3n aplicadas a la ingenier\u00eda social.",
+            "description_web": "T%C3%A9cnicas+psicol%C3%B3gicas+de+persuasi%C3%B3n+y+manipulaci%C3%B3n+aplicadas+a+la+ingenier%C3%ADa+social.",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 436,
+                    "url": "/cfp/speaker/436",
+                    "name": "Raquel  Ib\u00e1\u00f1ez L\u00f3pez "
+                }
+            ]
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T17:30:00",
+        "end": "2025-03-07T18:00:00",
+        "url": "/cfp/schedule/talk/105",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T173000",
+            "end_google": "20250307T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "protaapp",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T17:30:00",
+        "end": "2025-03-07T18:00:00",
+        "url": "/cfp/schedule/talk/119",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T173000",
+            "end_google": "20250307T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "securiters",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-07T17:30:00",
+        "end": "2025-03-07T18:00:00",
+        "url": "/cfp/schedule/talk/144",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T173000",
+            "end_google": "20250307T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted17",
+        "className": "ebreak"
+    },
+    {
+        "title": "Minimizaci\u00f3n de errores avanzada: de la L\u00f3gica a la IA",
+        "start": "2025-03-07T17:30:00",
+        "end": "2025-03-07T18:30:00",
+        "url": "/cfp/schedule/talk/157",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T173000",
+            "end_google": "20250307T183000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1730",
+            "duration_yahoo": "1.00.0",
+            "description": "Partiendo de uno de los Principios B\u00e1sicos del desarrollo e implementaci\u00f3n de Sistemas Inform\u00e1ticos, desarrollo de software, dev-ops, an\u00e1lisis de datos, ciberseguridad e Inteligencia Artificial, que es \"la minimizaci\u00f3n de errores\", de manera muy did\u00e1ctica, se abordar\u00e1n dos puntos principales: 1. Principios b\u00e1sicos para la minimizaci\u00f3n de errores 2. M\u00e9todos avanzados que nos ayudan a la minimizaci\u00f3n de errores en \u00e1reas como la Ciberseguridad, el An\u00e1lisis de Datos y la Inteligencia Artificial. Para ello se mostrar\u00e1n los Principios B\u00e1sicos de la minimizaci\u00f3n de errores que nos ense\u00f1an la Ciencia y dentro de ella la Filosof\u00eda, lo que nos dar\u00e1 un marco general de pautas de actuaci\u00f3n para la investigaci\u00f3n en cualquier campo, por supuesto aplicables a la ciberseguridad y la Inteligencia Artificial. Una vez explicados brevemente dichos conceptos, pasaremos a ver sistemas de minimizaci\u00f3n de errores desde el punto de vista te\u00f3rico, aquellos que son referencias en los \u00e1mbitos del an\u00e1lisis de datos e Inteligencia Artificial. Se mostrar\u00e1n los elementos sobre los que hacer seguimiento y vigilancia constante en los algortimos de IA. As\u00ed mismo se mostrar\u00e1n diversas situaciones en mutaciones y verificaci\u00f3n de cumplimiento en mutaciones de los algortimos, tanto a nivel de los propios algoritmos, como de los par\u00e1metros de los mismos. Para finalizar: veremos estos sistemas de mininimizaci\u00f3n de errores en casos de uso, tanto en an\u00e1lisis de datos concretos de ciberseguridad, tanto discreccional como matem\u00e1tico/estad\u00edstco, as\u00ed como de algoritmos matem\u00e1ticos propios y algoritmos de Inteligencia Artificial. En todos los casos se presentar\u00e1n las bases cient\u00edficas de porqu\u00e9 el uso de unos y otros, as\u00ed comoveremos ejemplos concretos con algoritmos reales y la soluci\u00f3n aplicada en la realidad, para que se puedan analizar e implementar en otras situaciones o \u00e1mbitos que los asistentes consideren. Y todos ellos enmarcados siempre en el \u00e1mbito de la ciberseguridad aplicada.",
+            "description_web": "Partiendo+de+uno+de+los+Principios+B%C3%A1sicos+del+desarrollo+e+implementaci%C3%B3n+de+Sistemas+Inform%C3%A1ticos%2C+desarrollo+de+software%2C+dev-ops%2C+an%C3%A1lisis+de+datos%2C+ciberseguridad+e+Inteligencia+Artificial%2C+que+es+%22la+minimizaci%C3%B3n+de+errores%22%2C+de+manera+muy+did%C3%A1ctica%2C+se+abordar%C3%A1n+dos+puntos+principales%3A+1.+Principios+b%C3%A1sicos+para+la+minimizaci%C3%B3n+de+errores+2.+M%C3%A9todos+avanzados+que+nos+ayudan+a+la+minimizaci%C3%B3n+de+errores+en+%C3%A1reas+como+la+Ciberseguridad%2C+el+An%C3%A1lisis+de+Datos+y+la+Inteligencia+Artificial.+Para+ello+se+mostrar%C3%A1n+los+Principios+B%C3%A1sicos+de+la+minimizaci%C3%B3n+de+errores+que+nos+ense%C3%B1an+la+Ciencia+y+dentro+de+ella+la+Filosof%C3%ADa%2C+lo+que+nos+dar%C3%A1+un+marco+general+de+pautas+de+actuaci%C3%B3n+para+la+investigaci%C3%B3n+en+cualquier+campo%2C+por+supuesto+aplicables+a+la+ciberseguridad+y+la+Inteligencia+Artificial.+Una+vez+explicados+brevemente+dichos+conceptos%2C+pasaremos+a+ver+sistemas+de+minimizaci%C3%B3n+de+errores+desde+el+punto+de+vista+te%C3%B3rico%2C+aquellos+que+son+referencias+en+los+%C3%A1mbitos+del+an%C3%A1lisis+de+datos+e+Inteligencia+Artificial.+Se+mostrar%C3%A1n+los+elementos+sobre+los+que+hacer+seguimiento+y+vigilancia+constante+en+los+algortimos+de+IA.+As%C3%AD+mismo+se+mostrar%C3%A1n+diversas+situaciones+en+mutaciones+y+verificaci%C3%B3n+de+cumplimiento+en+mutaciones+de+los+algortimos%2C+tanto+a+nivel+de+los+propios+algoritmos%2C+como+de+los+par%C3%A1metros+de+los+mismos.+Para+finalizar%3A+veremos+estos+sistemas+de+mininimizaci%C3%B3n+de+errores+en+casos+de+uso%2C+tanto+en+an%C3%A1lisis+de+datos+concretos+de+ciberseguridad%2C+tanto+discreccional+como+matem%C3%A1tico%2Festad%C3%ADstco%2C+as%C3%AD+como+de+algoritmos+matem%C3%A1ticos+propios+y+algoritmos+de+Inteligencia+Artificial.+En+todos+los+casos+se+presentar%C3%A1n+las+bases+cient%C3%ADficas+de+porqu%C3%A9+el+uso+de+unos+y+otros%2C+as%C3%AD+comoveremos+ejemplos+concretos+con+algoritmos+reales+y+la+soluci%C3%B3n+aplicada+en+la+realidad%2C+para+que+se+puedan+analizar+e+implementar+en+otras+situaciones+o+%C3%A1mbitos+que+los+asistentes+consideren.+Y+todos+ellos+enmarcados+siempre+en+el+%C3%A1mbito+de+la+ciberseguridad+aplicada.",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 752,
+                    "url": "/cfp/speaker/752",
+                    "name": "H\u00e9ctor R. Su\u00e1rez"
+                }
+            ]
+        },
+        "resourceId": "ia",
+        "className": "eia"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-07T18:00:00",
+        "end": "2025-03-07T19:00:00",
+        "url": "/cfp/schedule/talk/92",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T180000",
+            "end_google": "20250307T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1800",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Mesa debate: CISOs como Divulgadores",
+        "start": "2025-03-07T18:00:00",
+        "end": "2025-03-07T19:00:00",
+        "url": "/cfp/schedule/talk/176",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T180000",
+            "end_google": "20250307T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1800",
+            "duration_yahoo": "1.00.0",
+            "description": "Mesa debate: CISOs como Divulgadores",
+            "description_web": "Mesa+debate%3A+CISOs+como+Divulgadores",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 797,
+                    "url": "/cfp/speaker/797",
+                    "name": "Daniel Puente P\u00e9rez"
+                },
+                {
+                    "id": 798,
+                    "url": "/cfp/speaker/798",
+                    "name": "Enrique Cervantes Mora"
+                },
+                {
+                    "id": 799,
+                    "url": "/cfp/speaker/799",
+                    "name": "Ruben Fernandez Nieto"
+                },
+                {
+                    "id": 909,
+                    "url": "/cfp/speaker/909",
+                    "name": "David Gonz\u00e1lez Gonz\u00e1lez"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "Entre la verdad y el bulo: Lecciones del caso Trinity en la AEAT",
+        "start": "2025-03-07T18:00:00",
+        "end": "2025-03-07T19:00:00",
+        "url": "/cfp/schedule/talk/106",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T180000",
+            "end_google": "20250307T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1800",
+            "duration_yahoo": "1.00.0",
+            "description": "En la ponencia expondremos c\u00f3mo un supuesto ciberataque de ransomware atribuido al grupo Trinity contra la Agencia Tributaria el 1 de diciembre de 2024 result\u00f3 ser una falsa alarma que, sin embargo, gener\u00f3 un gran impacto social y medi\u00e1tico. La presentaci\u00f3n repasar\u00e1 lo ocurrido, la respuesta oficial de la Agencia Tributaria, y c\u00f3mo se desarroll\u00f3 la narrativa en medios y redes sociales, adem\u00e1s se expondr\u00e1 el modelo de gesti\u00f3n de seguridad que respald\u00f3 su postura desde el principio y la gesti\u00f3n del caso.",
+            "description_web": "En+la+ponencia+expondremos+c%C3%B3mo+un+supuesto+ciberataque+de+ransomware+atribuido+al+grupo+Trinity+contra+la+Agencia+Tributaria+el+1+de+diciembre+de+2024+result%C3%B3+ser+una+falsa+alarma+que%2C+sin+embargo%2C+gener%C3%B3+un+gran+impacto+social+y+medi%C3%A1tico.+La+presentaci%C3%B3n+repasar%C3%A1+lo+ocurrido%2C+la+respuesta+oficial+de+la+Agencia+Tributaria%2C+y+c%C3%B3mo+se+desarroll%C3%B3+la+narrativa+en+medios+y+redes+sociales%2C+adem%C3%A1s+se+expondr%C3%A1+el+modelo+de+gesti%C3%B3n+de+seguridad+que+respald%C3%B3+su+postura+desde+el+principio+y+la+gesti%C3%B3n+del+caso.",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 754,
+                    "url": "/cfp/speaker/754",
+                    "name": "Alberto Zapico"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "Marta...no nos dejes caer en la encriptaci\u00f3n y l\u00edbranos de ransomhub, am\u00e9n!",
+        "start": "2025-03-07T18:00:00",
+        "end": "2025-03-07T19:00:00",
+        "url": "/cfp/schedule/talk/120",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T180000",
+            "end_google": "20250307T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1800",
+            "duration_yahoo": "1.00.0",
+            "description": "Marta...no nos dejes caer en la encriptaci\u00f3n y l\u00edbranos de ransomhub, am\u00e9n!",
+            "description_web": "Marta...no+nos+dejes+caer+en+la+encriptaci%C3%B3n+y+l%C3%ADbranos+de+ransomhub%2C+am%C3%A9n%21",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 696,
+                    "url": "/cfp/speaker/696",
+                    "name": "Marta L\u00f3pez Pardal"
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "Detecci\u00f3n de inyecci\u00f3n de v\u00eddeo en procesos de v\u00eddeo identificaci\u00f3n",
+        "start": "2025-03-07T18:00:00",
+        "end": "2025-03-07T18:30:00",
+        "url": "/cfp/schedule/talk/145",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T180000",
+            "end_google": "20250307T183000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1800",
+            "duration_yahoo": "0.530.0",
+            "description": "En los \u00faltimos a\u00f1os ha crecido la necesidad de verificar telem\u00e1ticamente la identidad de una persona. Por ejemplo, hoy en d\u00eda es posible abrir una cuenta bancaria sin necesidad de salir de nuestras casas u obtener un certificado digital sin necesidad de acreditar nuestra identidad acudiendo a una oficina. Este proceso de verificaci\u00f3n de la identidad suele consistir en que el usuario se ponga delante de la c\u00e1mara de su dispositivo sosteniendo su carn\u00e9 de identidad. Este reciente m\u00e9todo de acreditar la identidad ha abierto la puerta a nuevos ataques, como el uso de un v\u00eddeo pregrabado para suplantar la identidad de una persona. En este caso, un atacante que disponga de un v\u00eddeo de la v\u00edctima sosteniendo su carn\u00e9 de identidad puede utilizarlo para abrir una cuenta en un exchange de criptomonedas o solicitar una l\u00ednea de cr\u00e9dito de forma fraudulenta. Lo \u00fanico que necesita hacer el atacante es inyectar ese v\u00eddeo en el proceso de v\u00eddeo identificaci\u00f3n. La forma m\u00e1s sencilla es utilizando un programa que simule una c\u00e1mara web (como OBS Studio) o empleando una tarjeta capturadora de v\u00eddeo externa. En el caso de las tarjetas capturadoras, como el sistema operativo las identifica como dispositivos de v\u00eddeo, lo \u00fanico que se necesita es otro equipo que reproduzca el v\u00eddeo que se desea inyectar a trav\u00e9s de la tarjeta. Otro m\u00e9todo com\u00fan de inyecci\u00f3n de v\u00eddeo es el uso de emuladores, en concreto, emuladores de Android. En este caso, el v\u00eddeo a inyectar es reproducido a trav\u00e9s de la c\u00e1mara del dispositivo Android emulado. Desde el punto de vista de la aplicaci\u00f3n de v\u00eddeo identificaci\u00f3n, el v\u00eddeo proviene directamente de la c\u00e1mara de un dispositivo Android. El objetivo de la charla es mostrar c\u00f3mo es posible detectar el uso de c\u00e1maras virtuales, tarjetas capturadoras de v\u00eddeo y emuladores de Android. La soluci\u00f3n desarrollada est\u00e1 hecha para aplicaciones web de v\u00eddeo identificaci\u00f3n. Esto limita en gran medida la cantidad de informaci\u00f3n que se puede obtener sobre los equipos de los usuarios si se compara con una soluci\u00f3n que se ejecute de forma nativa en el sistema operativo en lugar de en un navegador web. Es importante destacar que el sistema de detecci\u00f3n no utiliza el flujo de v\u00eddeo en ning\u00fan momento. La informaci\u00f3n que se utiliza para la identificaci\u00f3n es la configuraci\u00f3n proporcionada por el dispositivo de v\u00eddeo en uso. Esta informaci\u00f3n incluye par\u00e1metros como el nombre de la c\u00e1mara, la resoluci\u00f3n, la nitidez o el zoom. Tras analizar varios programas que simulan c\u00e1maras web, se descubri\u00f3 que el n\u00famero de par\u00e1metros ofrecidos mediante Javascript suelen ser menores cuando se trata de una c\u00e1mara virtual que cuando se trata de una c\u00e1mara genuina. Esta discrepancia permite su identificaci\u00f3n. Por lo tanto, la soluci\u00f3n desarrollada comprueba la existencia o no de determinados par\u00e1metros clave para detectar una posible inyecci\u00f3n de v\u00eddeo. Adem\u00e1s, para que la detecci\u00f3n de emuladores Android sea m\u00e1s precisa, tambi\u00e9n se analizan distintos par\u00e1metros de WebGL. La soluci\u00f3n desarrollada fue puesta a prueba con 12 port\u00e1tiles diferentes de 3 fabricantes distintos y 18 m\u00f3viles diferentes de 7 fabricantes. En todos los casos, la soluci\u00f3n detect\u00f3 correctamente las c\u00e1maras como genuinas. Tambi\u00e9n se puso a prueba con 9 programas de c\u00e1maras virtuales (tanto de Windows como de Linux), con 1 tarjeta capturadora de v\u00eddeo y con 3 emuladores de Android y la soluci\u00f3n las detect\u00f3 todas como c\u00e1maras virtuales.",
+            "description_web": "En+los+%C3%BAltimos+a%C3%B1os+ha+crecido+la+necesidad+de+verificar+telem%C3%A1ticamente+la+identidad+de+una+persona.+Por+ejemplo%2C+hoy+en+d%C3%ADa+es+posible+abrir+una+cuenta+bancaria+sin+necesidad+de+salir+de+nuestras+casas+u+obtener+un+certificado+digital+sin+necesidad+de+acreditar+nuestra+identidad+acudiendo+a+una+oficina.+Este+proceso+de+verificaci%C3%B3n+de+la+identidad+suele+consistir+en+que+el+usuario+se+ponga+delante+de+la+c%C3%A1mara+de+su+dispositivo+sosteniendo+su+carn%C3%A9+de+identidad.+Este+reciente+m%C3%A9todo+de+acreditar+la+identidad+ha+abierto+la+puerta+a+nuevos+ataques%2C+como+el+uso+de+un+v%C3%ADdeo+pregrabado+para+suplantar+la+identidad+de+una+persona.+En+este+caso%2C+un+atacante+que+disponga+de+un+v%C3%ADdeo+de+la+v%C3%ADctima+sosteniendo+su+carn%C3%A9+de+identidad+puede+utilizarlo+para+abrir+una+cuenta+en+un+exchange+de+criptomonedas+o+solicitar+una+l%C3%ADnea+de+cr%C3%A9dito+de+forma+fraudulenta.+Lo+%C3%BAnico+que+necesita+hacer+el+atacante+es+inyectar+ese+v%C3%ADdeo+en+el+proceso+de+v%C3%ADdeo+identificaci%C3%B3n.+La+forma+m%C3%A1s+sencilla+es+utilizando+un+programa+que+simule+una+c%C3%A1mara+web+%28como+OBS+Studio%29+o+empleando+una+tarjeta+capturadora+de+v%C3%ADdeo+externa.+En+el+caso+de+las+tarjetas+capturadoras%2C+como+el+sistema+operativo+las+identifica+como+dispositivos+de+v%C3%ADdeo%2C+lo+%C3%BAnico+que+se+necesita+es+otro+equipo+que+reproduzca+el+v%C3%ADdeo+que+se+desea+inyectar+a+trav%C3%A9s+de+la+tarjeta.+Otro+m%C3%A9todo+com%C3%BAn+de+inyecci%C3%B3n+de+v%C3%ADdeo+es+el+uso+de+emuladores%2C+en+concreto%2C+emuladores+de+Android.+En+este+caso%2C+el+v%C3%ADdeo+a+inyectar+es+reproducido+a+trav%C3%A9s+de+la+c%C3%A1mara+del+dispositivo+Android+emulado.+Desde+el+punto+de+vista+de+la+aplicaci%C3%B3n+de+v%C3%ADdeo+identificaci%C3%B3n%2C+el+v%C3%ADdeo+proviene+directamente+de+la+c%C3%A1mara+de+un+dispositivo+Android.+El+objetivo+de+la+charla+es+mostrar+c%C3%B3mo+es+posible+detectar+el+uso+de+c%C3%A1maras+virtuales%2C+tarjetas+capturadoras+de+v%C3%ADdeo+y+emuladores+de+Android.+La+soluci%C3%B3n+desarrollada+est%C3%A1+hecha+para+aplicaciones+web+de+v%C3%ADdeo+identificaci%C3%B3n.+Esto+limita+en+gran+medida+la+cantidad+de+informaci%C3%B3n+que+se+puede+obtener+sobre+los+equipos+de+los+usuarios+si+se+compara+con+una+soluci%C3%B3n+que+se+ejecute+de+forma+nativa+en+el+sistema+operativo+en+lugar+de+en+un+navegador+web.+Es+importante+destacar+que+el+sistema+de+detecci%C3%B3n+no+utiliza+el+flujo+de+v%C3%ADdeo+en+ning%C3%BAn+momento.+La+informaci%C3%B3n+que+se+utiliza+para+la+identificaci%C3%B3n+es+la+configuraci%C3%B3n+proporcionada+por+el+dispositivo+de+v%C3%ADdeo+en+uso.+Esta+informaci%C3%B3n+incluye+par%C3%A1metros+como+el+nombre+de+la+c%C3%A1mara%2C+la+resoluci%C3%B3n%2C+la+nitidez+o+el+zoom.+Tras+analizar+varios+programas+que+simulan+c%C3%A1maras+web%2C+se+descubri%C3%B3+que+el+n%C3%BAmero+de+par%C3%A1metros+ofrecidos+mediante+Javascript+suelen+ser+menores+cuando+se+trata+de+una+c%C3%A1mara+virtual+que+cuando+se+trata+de+una+c%C3%A1mara+genuina.+Esta+discrepancia+permite+su+identificaci%C3%B3n.+Por+lo+tanto%2C+la+soluci%C3%B3n+desarrollada+comprueba+la+existencia+o+no+de+determinados+par%C3%A1metros+clave+para+detectar+una+posible+inyecci%C3%B3n+de+v%C3%ADdeo.+Adem%C3%A1s%2C+para+que+la+detecci%C3%B3n+de+emuladores+Android+sea+m%C3%A1s+precisa%2C+tambi%C3%A9n+se+analizan+distintos+par%C3%A1metros+de+WebGL.+La+soluci%C3%B3n+desarrollada+fue+puesta+a+prueba+con+12+port%C3%A1tiles+diferentes+de+3+fabricantes+distintos+y+18+m%C3%B3viles+diferentes+de+7+fabricantes.+En+todos+los+casos%2C+la+soluci%C3%B3n+detect%C3%B3+correctamente+las+c%C3%A1maras+como+genuinas.+Tambi%C3%A9n+se+puso+a+prueba+con+9+programas+de+c%C3%A1maras+virtuales+%28tanto+de+Windows+como+de+Linux%29%2C+con+1+tarjeta+capturadora+de+v%C3%ADdeo+y+con+3+emuladores+de+Android+y+la+soluci%C3%B3n+las+detect%C3%B3+todas+como+c%C3%A1maras+virtuales.",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 759,
+                    "url": "/cfp/speaker/759",
+                    "name": "Xos\u00e9 Fern\u00e1ndez Fuentes"
+                }
+            ]
+        },
+        "resourceId": "rooted17",
+        "className": "erooted"
+    },
+    {
+        "title": "Cierre OsintoTrack por Osintom\u00e1tico",
+        "start": "2025-03-07T18:30:00",
+        "end": "2025-03-07T19:00:00",
+        "url": "/cfp/schedule/talk/134",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T183000",
+            "end_google": "20250307T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1830",
+            "duration_yahoo": "0.530.0",
+            "description": "Cierre OsintoTrack por Osintom\u00e1tico",
+            "description_web": "Cierre+OsintoTrack+por+Osintom%C3%A1tico",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 803,
+                    "url": "/cfp/speaker/803",
+                    "name": "Roberto Eduardo Gonzalez"
+                },
+                {
+                    "id": 654,
+                    "url": "/cfp/speaker/654",
+                    "name": "Jezer Ferreira"
+                }
+            ]
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "C\u00f3mo romper Internet usando Computaci\u00f3n Cu\u00e1ntica",
+        "start": "2025-03-07T18:30:00",
+        "end": "2025-03-07T19:00:00",
+        "url": "/cfp/schedule/talk/146",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T183000",
+            "end_google": "20250307T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1830",
+            "duration_yahoo": "0.530.0",
+            "description": "Explicar\u00e9 c\u00f3mo programar en un ordenador cu\u00e1ntico de forma pr\u00e1ctica y sencilla, tratando de quitar el mito sobre estos ordenadores y despertar la curiosidad de los oyentes. Voy a explicar c\u00f3mo se pueden utilizar para romper algoritmos de cifrado como RSA y AES, mostrando los circuitos necesarios y explicando c\u00f3mo funcionan por dentro. Mostrar\u00e9 una demo de c\u00f3mo programar un ordenador cu\u00e1ntico real, y c\u00f3mo se podr\u00eda utilizar para romper el cifrado actual. Ense\u00f1ar\u00e9 otras aplicaciones de estas m\u00e1quinas para problemas como la optimizaci\u00f3n, la aceleraci\u00f3n de la Inteligencia Artificial y bases de datos. Tambi\u00e9n exploraremos el futuro de la criptograf\u00eda y de esta tecnolog\u00eda. Mi intenci\u00f3n es explicarlo de forma f\u00e1cil y enfocarlo de manera pr\u00e1ctica, para que cualquier persona se sienta capaz de programar estos ordenadores y de entender c\u00f3mo funcionan sin necesidad de ser expertos en f\u00edsica o en computaci\u00f3n misma.",
+            "description_web": "Explicar%C3%A9+c%C3%B3mo+programar+en+un+ordenador+cu%C3%A1ntico+de+forma+pr%C3%A1ctica+y+sencilla%2C+tratando+de+quitar+el+mito+sobre+estos+ordenadores+y+despertar+la+curiosidad+de+los+oyentes.+Voy+a+explicar+c%C3%B3mo+se+pueden+utilizar+para+romper+algoritmos+de+cifrado+como+RSA+y+AES%2C+mostrando+los+circuitos+necesarios+y+explicando+c%C3%B3mo+funcionan+por+dentro.+Mostrar%C3%A9+una+demo+de+c%C3%B3mo+programar+un+ordenador+cu%C3%A1ntico+real%2C+y+c%C3%B3mo+se+podr%C3%ADa+utilizar+para+romper+el+cifrado+actual.+Ense%C3%B1ar%C3%A9+otras+aplicaciones+de+estas+m%C3%A1quinas+para+problemas+como+la+optimizaci%C3%B3n%2C+la+aceleraci%C3%B3n+de+la+Inteligencia+Artificial+y+bases+de+datos.+Tambi%C3%A9n+exploraremos+el+futuro+de+la+criptograf%C3%ADa+y+de+esta+tecnolog%C3%ADa.+Mi+intenci%C3%B3n+es+explicarlo+de+forma+f%C3%A1cil+y+enfocarlo+de+manera+pr%C3%A1ctica%2C+para+que+cualquier+persona+se+sienta+capaz+de+programar+estos+ordenadores+y+de+entender+c%C3%B3mo+funcionan+sin+necesidad+de+ser+expertos+en+f%C3%ADsica+o+en+computaci%C3%B3n+misma.",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 813,
+                    "url": "/cfp/speaker/813",
+                    "name": "Jose Fern\u00e1ndez"
+                }
+            ]
+        },
+        "resourceId": "rooted17",
+        "className": "erooted"
+    },
+    {
+        "title": "Gesti\u00f3n de Riesgos IA: abarcando todo el ciclo de vida",
+        "start": "2025-03-07T18:30:00",
+        "end": "2025-03-07T19:30:00",
+        "url": "/cfp/schedule/talk/158",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T183000",
+            "end_google": "20250307T193000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1830",
+            "duration_yahoo": "1.00.0",
+            "description": "El an\u00e1lisis de riesgos en IT es una cuesti\u00f3n ampliamente abordada en la literatura. Sin embargo, en los \u00faltimos tiempos el ser humano ha tenido que lidiar con un embri\u00f3n en el horizonte el cual ha ido creciendo hasta convertirse en el elefante en la habitaci\u00f3n que se presenta en esta ponencia: Gesti\u00f3n de riesgos en IA.\r\n\r\nSe pondr\u00e1 en contexto al oyente con los conceptos b\u00e1sicos de la IA confiable y robusta para que pueda entender que la evaluaci\u00f3n de riesgos IA, no es una opci\u00f3n, sino una obligaci\u00f3n, mucho m\u00e1s cuando la materializaci\u00f3n de estos, afectan a nuestros derechos fundamentales como seres humanos.\r\nSe explorar\u00e1n las taxonom\u00edas presentadas en la literatura actual y se presentar\u00e1 una taxonom\u00eda original, en la que se identificar\u00e1n riesgos y ataques, y se propondr\u00e1n t\u00e9cnicas y herramientas  para su mitigaci\u00f3n. Esta taxonom\u00eda no solo se centra en la puesta en producci\u00f3n de un sistema IA, si no que presenta una gu\u00eda integral de todo el ciclo de vida del sistema, desde la formaci\u00f3n del equipo de desarrollo hasta la fase de post-producci\u00f3n.\r\n\r\nFinalmente, y con la intenci\u00f3n de demostrar la importancia de definir una gesti\u00f3n de riesgo IA as\u00ed como saciar el apetito \u201chacker\u201d del oyente, se presentar\u00e1 c\u00f3mo, partiendo de los pesos de un modelo, se pueden eliminar las protecciones proporcionadas por los equipos de desarrollo a un bajo coste, tanto monetario como temporal, mediante un ajuste fino usando QLoRa. Este fen\u00f3meno se presenta en todos los modelos liberados al p\u00fablico: Llama 3, Phi, Qwen, Gemma e incluso los modelos destilados de DeepSeek.",
+            "description_web": "El+an%C3%A1lisis+de+riesgos+en+IT+es+una+cuesti%C3%B3n+ampliamente+abordada+en+la+literatura.+Sin+embargo%2C+en+los+%C3%BAltimos+tiempos+el+ser+humano+ha+tenido+que+lidiar+con+un+embri%C3%B3n+en+el+horizonte+el+cual+ha+ido+creciendo+hasta+convertirse+en+el+elefante+en+la+habitaci%C3%B3n+que+se+presenta+en+esta+ponencia%3A+Gesti%C3%B3n+de+riesgos+en+IA.%0D%0A%0D%0ASe+pondr%C3%A1+en+contexto+al+oyente+con+los+conceptos+b%C3%A1sicos+de+la+IA+confiable+y+robusta+para+que+pueda+entender+que+la+evaluaci%C3%B3n+de+riesgos+IA%2C+no+es+una+opci%C3%B3n%2C+sino+una+obligaci%C3%B3n%2C+mucho+m%C3%A1s+cuando+la+materializaci%C3%B3n+de+estos%2C+afectan+a+nuestros+derechos+fundamentales+como+seres+humanos.%0D%0ASe+explorar%C3%A1n+las+taxonom%C3%ADas+presentadas+en+la+literatura+actual+y+se+presentar%C3%A1+una+taxonom%C3%ADa+original%2C+en+la+que+se+identificar%C3%A1n+riesgos+y+ataques%2C+y+se+propondr%C3%A1n+t%C3%A9cnicas+y+herramientas++para+su+mitigaci%C3%B3n.+Esta+taxonom%C3%ADa+no+solo+se+centra+en+la+puesta+en+producci%C3%B3n+de+un+sistema+IA%2C+si+no+que+presenta+una+gu%C3%ADa+integral+de+todo+el+ciclo+de+vida+del+sistema%2C+desde+la+formaci%C3%B3n+del+equipo+de+desarrollo+hasta+la+fase+de+post-producci%C3%B3n.%0D%0A%0D%0AFinalmente%2C+y+con+la+intenci%C3%B3n+de+demostrar+la+importancia+de+definir+una+gesti%C3%B3n+de+riesgo+IA+as%C3%AD+como+saciar+el+apetito+%E2%80%9Chacker%E2%80%9D+del+oyente%2C+se+presentar%C3%A1+c%C3%B3mo%2C+partiendo+de+los+pesos+de+un+modelo%2C+se+pueden+eliminar+las+protecciones+proporcionadas+por+los+equipos+de+desarrollo+a+un+bajo+coste%2C+tanto+monetario+como+temporal%2C+mediante+un+ajuste+fino+usando+QLoRa.+Este+fen%C3%B3meno+se+presenta+en+todos+los+modelos+liberados+al+p%C3%BAblico%3A+Llama+3%2C+Phi%2C+Qwen%2C+Gemma+e+incluso+los+modelos+destilados+de+DeepSeek.",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 750,
+                    "url": "/cfp/speaker/750",
+                    "name": "Samira Ahmed El Battioui"
+                },
+                {
+                    "id": 751,
+                    "url": "/cfp/speaker/751",
+                    "name": "Antonio Piedra"
+                }
+            ]
+        },
+        "resourceId": "ia",
+        "className": "eia"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-07T19:00:00",
+        "end": "2025-03-07T20:00:00",
+        "url": "/cfp/schedule/talk/93",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T190000",
+            "end_google": "20250307T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1900",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 847,
+                    "url": "/cfp/speaker/847",
+                    "name": "Chema Alonso"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Infostealers y ciber estafas la bachata del cibercrimen",
+        "start": "2025-03-07T19:00:00",
+        "end": "2025-03-07T19:30:00",
+        "url": "/cfp/schedule/talk/175",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T190000",
+            "end_google": "20250307T193000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1900",
+            "duration_yahoo": "0.530.0",
+            "description": "Infostealers y ciber estafas la bachata del cibercrimen",
+            "description_web": "Infostealers+y+ciber+estafas+la+bachata+del+cibercrimen",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 862,
+                    "url": "/cfp/speaker/862",
+                    "name": "Rafael L\u00f3pez"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-07T19:00:00",
+        "end": "2025-03-07T23:00:00",
+        "url": "/cfp/schedule/talk/135",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T190000",
+            "end_google": "20250307T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1900",
+            "duration_yahoo": "4.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 20,
+            "track": "OSINTOMATICO",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "osintomatico",
+        "className": "eosintomatico"
+    },
+    {
+        "title": "El Retorno del Pensamiento Cr\u00edtico: Liberando a los Analistas del Imperio de la Rutina",
+        "start": "2025-03-07T19:00:00",
+        "end": "2025-03-07T19:30:00",
+        "url": "/cfp/schedule/talk/107",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T190000",
+            "end_google": "20250307T193000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1900",
+            "duration_yahoo": "0.530.0",
+            "description": "La documentaci\u00f3n en ciberseguridad es una herramienta clave para estandarizar procesos y reducir errores. Pero, \u00bfQu\u00e9 pasa cuando nos volvemos prisioneros de los playbooks? Esta charla explora c\u00f3mo fomentar el pensamiento cr\u00edtico en analistas de SOC, equilibrando la necesidad de procedimientos con la flexibilidad y creatividad necesarias para enfrentar amenazas avanzadas. En un mundo donde la rapidez y la precisi\u00f3n son esenciales, los playbooks y runbooks son nuestras mejores gu\u00edas. Sin embargo, seguirlos ciegamente puede impedir detectar ataques avanzados y limitar el aprendizaje del equipo. Aprende a entrenar analistas m\u00e1s cr\u00edticos, revisar documentaci\u00f3n de forma din\u00e1mica y garantizar la flexibilidad en la operativa diaria. Los playbooks son el pilar de cualquier SOC, pero su rigidez puede convertirse en un riesgo oculto. Esta charla aborda c\u00f3mo evitar caer en la automatizaci\u00f3n mental, fomentar la toma de decisiones informada y mantener la documentaci\u00f3n como una herramienta viva que evoluciona con las amenazas. \u00bfCu\u00e1ndo seguir el manual y cu\u00e1ndo superarlo? Con esta charla mostraremos como transformar los playbooks de tu equipo en gu\u00edas din\u00e1micas que potencien la creatividad y la capacidad cr\u00edtica de los analistas. Porque en ciberseguridad, pensar m\u00e1s all\u00e1 del procedimiento puede marcar la diferencia. La seguridad no puede depender solo de procedimientos predefinidos. Explora c\u00f3mo el pensamiento cr\u00edtico, los ciberejercicios y la flexibilidad en los playbooks pueden crear un equipo de SOC m\u00e1s efectivo, capaz de enfrentarse a amenazas desconocidas.",
+            "description_web": "La+documentaci%C3%B3n+en+ciberseguridad+es+una+herramienta+clave+para+estandarizar+procesos+y+reducir+errores.+Pero%2C+%C2%BFQu%C3%A9+pasa+cuando+nos+volvemos+prisioneros+de+los+playbooks%3F+Esta+charla+explora+c%C3%B3mo+fomentar+el+pensamiento+cr%C3%ADtico+en+analistas+de+SOC%2C+equilibrando+la+necesidad+de+procedimientos+con+la+flexibilidad+y+creatividad+necesarias+para+enfrentar+amenazas+avanzadas.+En+un+mundo+donde+la+rapidez+y+la+precisi%C3%B3n+son+esenciales%2C+los+playbooks+y+runbooks+son+nuestras+mejores+gu%C3%ADas.+Sin+embargo%2C+seguirlos+ciegamente+puede+impedir+detectar+ataques+avanzados+y+limitar+el+aprendizaje+del+equipo.+Aprende+a+entrenar+analistas+m%C3%A1s+cr%C3%ADticos%2C+revisar+documentaci%C3%B3n+de+forma+din%C3%A1mica+y+garantizar+la+flexibilidad+en+la+operativa+diaria.+Los+playbooks+son+el+pilar+de+cualquier+SOC%2C+pero+su+rigidez+puede+convertirse+en+un+riesgo+oculto.+Esta+charla+aborda+c%C3%B3mo+evitar+caer+en+la+automatizaci%C3%B3n+mental%2C+fomentar+la+toma+de+decisiones+informada+y+mantener+la+documentaci%C3%B3n+como+una+herramienta+viva+que+evoluciona+con+las+amenazas.+%C2%BFCu%C3%A1ndo+seguir+el+manual+y+cu%C3%A1ndo+superarlo%3F+Con+esta+charla+mostraremos+como+transformar+los+playbooks+de+tu+equipo+en+gu%C3%ADas+din%C3%A1micas+que+potencien+la+creatividad+y+la+capacidad+cr%C3%ADtica+de+los+analistas.+Porque+en+ciberseguridad%2C+pensar+m%C3%A1s+all%C3%A1+del+procedimiento+puede+marcar+la+diferencia.+La+seguridad+no+puede+depender+solo+de+procedimientos+predefinidos.+Explora+c%C3%B3mo+el+pensamiento+cr%C3%ADtico%2C+los+ciberejercicios+y+la+flexibilidad+en+los+playbooks+pueden+crear+un+equipo+de+SOC+m%C3%A1s+efectivo%2C+capaz+de+enfrentarse+a+amenazas+desconocidas.",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 747,
+                    "url": "/cfp/speaker/747",
+                    "name": "Ernesto Gonz\u00e1lez Pradas"
+                },
+                {
+                    "id": 748,
+                    "url": "/cfp/speaker/748",
+                    "name": "Oscar Hernanz Celada"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "Acabando con las academias online",
+        "start": "2025-03-07T19:00:00",
+        "end": "2025-03-07T19:30:00",
+        "url": "/cfp/schedule/talk/121",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T190000",
+            "end_google": "20250307T193000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1900",
+            "duration_yahoo": "0.530.0",
+            "description": "WordPress es la opci\u00f3n preferida por la mayor\u00eda para crear academias online debido a su facilidad, rapidez, amplio soporte y mayor beneficio. Recientemente, descubr\u00ed una vulnerabilidad que permite acceder a los cursos de pr\u00e1cticamente cualquier academia online basada en WordPress. \r\n\r\n\r\nDurante la conferencia, se expondr\u00e1 c\u00f3mo explotar esta vulnerabilidad, poniendo de ejemplo algunas de las academias m\u00e1s conocidas pertenecientes a influencers o divulgadores del sector de la ciberseguridad. \r\n\r\n\r\nTambi\u00e9n se hablar\u00e1 de c\u00f3mo este fallo permitir\u00eda a un atacante descargar todos los cursos de manera \u00edntegra, manteniendo su calidad original y con un tama\u00f1o generalmente inferior a los 5 MB por academia. \u00a1S\u00ed, solo 5 MB! Esto har\u00eda que la distribuci\u00f3n del contenido fuera extremadamente sencilla y dif\u00edcil de rastrear.\r\n\r\n\r\nAdem\u00e1s, se abordar\u00e1 una t\u00e9cnica sencilla para comprometer a muchos de los usuarios de esas academias (RCE).",
+            "description_web": "WordPress+es+la+opci%C3%B3n+preferida+por+la+mayor%C3%ADa+para+crear+academias+online+debido+a+su+facilidad%2C+rapidez%2C+amplio+soporte+y+mayor+beneficio.+Recientemente%2C+descubr%C3%AD+una+vulnerabilidad+que+permite+acceder+a+los+cursos+de+pr%C3%A1cticamente+cualquier+academia+online+basada+en+WordPress.+%0D%0A%0D%0A%0D%0ADurante+la+conferencia%2C+se+expondr%C3%A1+c%C3%B3mo+explotar+esta+vulnerabilidad%2C+poniendo+de+ejemplo+algunas+de+las+academias+m%C3%A1s+conocidas+pertenecientes+a+influencers+o+divulgadores+del+sector+de+la+ciberseguridad.+%0D%0A%0D%0A%0D%0ATambi%C3%A9n+se+hablar%C3%A1+de+c%C3%B3mo+este+fallo+permitir%C3%ADa+a+un+atacante+descargar+todos+los+cursos+de+manera+%C3%ADntegra%2C+manteniendo+su+calidad+original+y+con+un+tama%C3%B1o+generalmente+inferior+a+los+5+MB+por+academia.+%C2%A1S%C3%AD%2C+solo+5+MB%21+Esto+har%C3%ADa+que+la+distribuci%C3%B3n+del+contenido+fuera+extremadamente+sencilla+y+dif%C3%ADcil+de+rastrear.%0D%0A%0D%0A%0D%0AAdem%C3%A1s%2C+se+abordar%C3%A1+una+t%C3%A9cnica+sencilla+para+comprometer+a+muchos+de+los+usuarios+de+esas+academias+%28RCE%29.",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 688,
+                    "url": "/cfp/speaker/688",
+                    "name": "David Ojeda Guijarro"
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "Google Cloud Platform presents: Vulnerability or Feature?!",
+        "start": "2025-03-07T19:00:00",
+        "end": "2025-03-07T20:00:00",
+        "url": "/cfp/schedule/talk/147",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T190000",
+            "end_google": "20250307T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1900",
+            "duration_yahoo": "1.00.0",
+            "description": "En esta charla exploraremos los aspectos m\u00e1s interesantes y controvertidos de Google Cloud Platform (GCP) y Google Workspace, enfoc\u00e1ndonos en situaciones donde las l\u00edneas entre una vulnerabilidad y una decisi\u00f3n de dise\u00f1o estrat\u00e9gica son casi imperceptibles. A lo largo de la sesi\u00f3n, analizaremos hallazgos reales que han sido reportados a GCP, aunque no todos han sido corregidos, a pesar de su apariencia de vulnerabilidad. La sesi\u00f3n tendr\u00e1 un formato interactivo y din\u00e1mico: tras cada hallazgo presentado, la audiencia podr\u00e1 evaluar si se trata de una vulnerabilidad leg\u00edtima o simplemente una \u201cfeature\u201d intencionada. Esto no solo ofrecer\u00e1 una visi\u00f3n m\u00e1s profunda de las pol\u00edticas de seguridad en GCP, sino tambi\u00e9n una oportunidad para reflexionar sobre el equilibrio entre funcionalidad y protecci\u00f3n en entornos cloud. Adem\u00e1s, se mostrar\u00e1 c\u00f3mo es posible pivotar desde entornos tradicionales como Windows, Active Directory y Entra ID hacia GCP y Google Workspace, exponiendo vectores de ataque novedosos que conectan infraestructuras on-premise con servicios en la nube. En esta parte, discutiremos estrategias para prevenir estas rutas de escalaci\u00f3n y proteger la integridad de tus sistemas h\u00edbridos. Esta charla est\u00e1 dise\u00f1ada para profesionales de seguridad, administradores de sistemas y entusiastas de la ciberseguridad interesados en entender los desaf\u00edos actuales de los entornos h\u00edbridos y la nube. Prep\u00e1rate para analizar, debatir y redefinir tus conceptos sobre vulnerabilidades y dise\u00f1o de seguridad en GCP.",
+            "description_web": "En+esta+charla+exploraremos+los+aspectos+m%C3%A1s+interesantes+y+controvertidos+de+Google+Cloud+Platform+%28GCP%29+y+Google+Workspace%2C+enfoc%C3%A1ndonos+en+situaciones+donde+las+l%C3%ADneas+entre+una+vulnerabilidad+y+una+decisi%C3%B3n+de+dise%C3%B1o+estrat%C3%A9gica+son+casi+imperceptibles.+A+lo+largo+de+la+sesi%C3%B3n%2C+analizaremos+hallazgos+reales+que+han+sido+reportados+a+GCP%2C+aunque+no+todos+han+sido+corregidos%2C+a+pesar+de+su+apariencia+de+vulnerabilidad.+La+sesi%C3%B3n+tendr%C3%A1+un+formato+interactivo+y+din%C3%A1mico%3A+tras+cada+hallazgo+presentado%2C+la+audiencia+podr%C3%A1+evaluar+si+se+trata+de+una+vulnerabilidad+leg%C3%ADtima+o+simplemente+una+%E2%80%9Cfeature%E2%80%9D+intencionada.+Esto+no+solo+ofrecer%C3%A1+una+visi%C3%B3n+m%C3%A1s+profunda+de+las+pol%C3%ADticas+de+seguridad+en+GCP%2C+sino+tambi%C3%A9n+una+oportunidad+para+reflexionar+sobre+el+equilibrio+entre+funcionalidad+y+protecci%C3%B3n+en+entornos+cloud.+Adem%C3%A1s%2C+se+mostrar%C3%A1+c%C3%B3mo+es+posible+pivotar+desde+entornos+tradicionales+como+Windows%2C+Active+Directory+y+Entra+ID+hacia+GCP+y+Google+Workspace%2C+exponiendo+vectores+de+ataque+novedosos+que+conectan+infraestructuras+on-premise+con+servicios+en+la+nube.+En+esta+parte%2C+discutiremos+estrategias+para+prevenir+estas+rutas+de+escalaci%C3%B3n+y+proteger+la+integridad+de+tus+sistemas+h%C3%ADbridos.+Esta+charla+est%C3%A1+dise%C3%B1ada+para+profesionales+de+seguridad%2C+administradores+de+sistemas+y+entusiastas+de+la+ciberseguridad+interesados+en+entender+los+desaf%C3%ADos+actuales+de+los+entornos+h%C3%ADbridos+y+la+nube.+Prep%C3%A1rate+para+analizar%2C+debatir+y+redefinir+tus+conceptos+sobre+vulnerabilidades+y+dise%C3%B1o+de+seguridad+en+GCP.",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 697,
+                    "url": "/cfp/speaker/697",
+                    "name": "Carlos Polop"
+                }
+            ]
+        },
+        "resourceId": "rooted17",
+        "className": "erooted"
+    },
+    {
+        "title": "Despedida y cierre",
+        "start": "2025-03-07T19:30:00",
+        "end": "2025-03-07T20:00:00",
+        "url": "/cfp/schedule/talk/173",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T193000",
+            "end_google": "20250307T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1930",
+            "duration_yahoo": "0.530.0",
+            "description": "Despedida y cierre del track",
+            "description_web": "Despedida+y+cierre+del+track",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 861,
+                    "url": "/cfp/speaker/861",
+                    "name": "Antonio  Fernandes"
+                }
+            ]
+        },
+        "resourceId": "influencers",
+        "className": "einfluencers"
+    },
+    {
+        "title": "Hack the Question",
+        "start": "2025-03-07T19:30:00",
+        "end": "2025-03-07T20:00:00",
+        "url": "/cfp/schedule/talk/108",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T193000",
+            "end_google": "20250307T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1930",
+            "duration_yahoo": "0.530.0",
+            "description": "Te invitamos a participar en este \"Ultimate Hacking ProtAAPP Challenge\", un desaf\u00edo donde solo los m\u00e1s astutos y m\u00e1s veloces podr\u00e1n alzarse con la victoria. Donde cada pregunta ser\u00e1 una prueba de ingenio y una ocasi\u00f3n para medir tus habilidades y tu mente. \u00a1Acepta el desaf\u00edo, pon a prueba tu conocimiento y demuestra que eres un aut\u00e9ntico hacker! Y si no ganas, por lo menos echaremos unas risas.",
+            "description_web": "Te+invitamos+a+participar+en+este+%22Ultimate+Hacking+ProtAAPP+Challenge%22%2C+un+desaf%C3%ADo+donde+solo+los+m%C3%A1s+astutos+y+m%C3%A1s+veloces+podr%C3%A1n+alzarse+con+la+victoria.+Donde+cada+pregunta+ser%C3%A1+una+prueba+de+ingenio+y+una+ocasi%C3%B3n+para+medir+tus+habilidades+y+tu+mente.+%C2%A1Acepta+el+desaf%C3%ADo%2C+pon+a+prueba+tu+conocimiento+y+demuestra+que+eres+un+aut%C3%A9ntico+hacker%21+Y+si+no+ganas%2C+por+lo+menos+echaremos+unas+risas.",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 761,
+                    "url": "/cfp/speaker/761",
+                    "name": "Emilio Rico Ruiz"
+                }
+            ]
+        },
+        "resourceId": "protaapp",
+        "className": "eprotaapp"
+    },
+    {
+        "title": "SORTEOS & CIERRE",
+        "start": "2025-03-07T19:30:00",
+        "end": "2025-03-07T20:00:00",
+        "url": "/cfp/schedule/talk/122",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T193000",
+            "end_google": "20250307T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1930",
+            "duration_yahoo": "0.530.0",
+            "description": "SORTEOS & CIERRE",
+            "description_web": "SORTEOS+%26+CIERRE",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 898,
+                    "url": "/cfp/speaker/898",
+                    "name": "Marta Barrio Marcos"
+                },
+                {
+                    "id": 899,
+                    "url": "/cfp/speaker/899",
+                    "name": "Mercedes Mu\u00f1oz"
+                }
+            ]
+        },
+        "resourceId": "securiters",
+        "className": "esecuriters"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-07T19:30:00",
+        "end": "2025-03-07T23:00:00",
+        "url": "/cfp/schedule/talk/160",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T193000",
+            "end_google": "20250307T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T1930",
+            "duration_yahoo": "3.530.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 16,
+            "track": "IA",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "ia",
+        "className": "ebreak"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-07T20:00:00",
+        "end": "2025-03-07T23:00:00",
+        "url": "/cfp/schedule/talk/94",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T200000",
+            "end_google": "20250307T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "ebreak"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-07T20:00:00",
+        "end": "2025-03-07T23:00:00",
+        "url": "/cfp/schedule/talk/174",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T200000",
+            "end_google": "20250307T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 21,
+            "track": "INFLUENCERS",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "influencers",
+        "className": "ebreak"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-07T20:00:00",
+        "end": "2025-03-07T23:00:00",
+        "url": "/cfp/schedule/talk/109",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T200000",
+            "end_google": "20250307T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 19,
+            "track": "PROTAAPP",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "protaapp",
+        "className": "ebreak"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-07T20:00:00",
+        "end": "2025-03-07T23:00:00",
+        "url": "/cfp/schedule/talk/123",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T200000",
+            "end_google": "20250307T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 18,
+            "track": "SECURITERS",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "securiters",
+        "className": "ebreak"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-07T20:00:00",
+        "end": "2025-03-07T23:00:00",
+        "url": "/cfp/schedule/talk/148",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T200000",
+            "end_google": "20250307T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 17,
+            "track": "ROOTED",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "rooted17",
+        "className": "ebreak"
+    },
+    {
+        "title": "HackerNight: bug bounty",
+        "start": "2025-03-07T23:00:00",
+        "end": "2025-03-07T08:00:00",
+        "url": "/cfp/schedule/talk/214",
+        "extendedProps": {
+            "date": "2025-03-07",
+            "start_google": "20250307T230000",
+            "end_google": "20250307T080000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250307T2300",
+            "duration_yahoo": "9.00.0",
+            "description": "HackerNight: bug bounty in partnership with Yogosha.\r\n\r\n<b>Trusted partners: CaixaBank, CCMAD</b>",
+            "description_web": "HackerNight%3A+bug+bounty+in+partnership+with+Yogosha.%0D%0A%0D%0A%3Cb%3ETrusted+partners%3A+CaixaBank%2C+CCMAD%3C%2Fb%3E",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    }
+]

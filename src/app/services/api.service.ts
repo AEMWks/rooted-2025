@@ -14,7 +14,10 @@ export class ApiService {
   constructor(private http: HttpClient, @Inject(LOCALE_ID) private locale: string) { }
 
   getEvents(start: Date, end: Date): Promise<any[]> {
-    let url = `${this.apiUrlPrefix}${formatDate(start, "dd-MM-yyyy", this.locale)}&start=${formatDate(start, "yyyy-MM-dd", this.locale)}${this.dateSufix}&end=${formatDate(end, "yyyy-MM-dd", this.locale)}${this.dateSufix}`;
+    //const url = `${this.apiUrlPrefix}${formatDate(start, "dd-MM-yyyy", this.locale)}&start=${formatDate(start, "yyyy-MM-dd", this.locale)}${this.dateSufix}&end=${formatDate(end, "yyyy-MM-dd", this.locale)}${this.dateSufix}`;
+    const formattedDate = formatDate(start, "yyyy-MM-dd", this.locale);
+    const url = `public/${formattedDate}.json`; // Ajusta la URL para apuntar a la carpeta 'public'
+    console.log('Fetching URL:', url); // Añade este log para verificar la URL
     return lastValueFrom(this.http.get<any[]>(url));
   }
 }

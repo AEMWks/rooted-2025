@@ -1,0 +1,2704 @@
+[
+    {
+        "title": "Keynote: RootedCON \\xf \\xf",
+        "start": "2025-03-06T10:00:00",
+        "end": "2025-03-06T10:30:00",
+        "url": "/cfp/schedule/talk/1",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T100000",
+            "end_google": "20250306T103000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1000",
+            "duration_yahoo": "0.530.0",
+            "description": "Charla de apertura para RootedCON2025, nuestra celebraci\u00f3n de los 15 a\u00f1os y 15 ediciones trabajando por la Comunidad.",
+            "description_web": "Charla+de+apertura+para+RootedCON2025%2C+nuestra+celebraci%C3%B3n+de+los+15+a%C3%B1os+y+15+ediciones+trabajando+por+la+Comunidad.",
+            "room": 25,
+            "track": "ALL",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 834,
+                    "url": "/cfp/speaker/834",
+                    "name": "Arantxa Sanz Gil"
+                }
+            ]
+        },
+        "resourceId": "all",
+        "className": "erooted"
+    },
+    {
+        "title": "Keynote: RootedCON \\xf \\xf (streaming)",
+        "start": "2025-03-06T10:00:00",
+        "end": "2025-03-06T10:30:00",
+        "url": "/cfp/schedule/talk/201",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T100000",
+            "end_google": "20250306T103000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1000",
+            "duration_yahoo": "0.530.0",
+            "description": "Keynote: RootedCON \\xf \\xf streaming desde la Sala 25.",
+            "description_web": "Keynote%3A+RootedCON+%5Cxf+%5Cxf+streaming+desde+la+Sala+25.",
+            "room": 21,
+            "track": "RESILIENCE",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "resilience",
+        "className": "eresilience"
+    },
+    {
+        "title": "Keynote: RootedCON \\xf \\xf (streaming)",
+        "start": "2025-03-06T10:00:00",
+        "end": "2025-03-06T10:30:00",
+        "url": "/cfp/schedule/talk/200",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T100000",
+            "end_google": "20250306T103000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1000",
+            "duration_yahoo": "0.530.0",
+            "description": "Keynote: RootedCON \\xf \\xf streaming desde la Sala 25.",
+            "description_web": "Keynote%3A+RootedCON+%5Cxf+%5Cxf+streaming+desde+la+Sala+25.",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted19",
+        "className": "erooted"
+    },
+    {
+        "title": "Keynote: RootedCON \\xf \\xf (streaming)",
+        "start": "2025-03-06T10:00:00",
+        "end": "2025-03-06T10:30:00",
+        "url": "/cfp/schedule/talk/197",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T100000",
+            "end_google": "20250306T103000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1000",
+            "duration_yahoo": "0.530.0",
+            "description": "Keynote: RootedCON \\xf \\xf en streaming desde la Sala 25.",
+            "description_web": "Keynote%3A+RootedCON+%5Cxf+%5Cxf+en+streaming+desde+la+Sala+25.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Keynote: RootedCON \\xf \\xf (streaming)",
+        "start": "2025-03-06T10:00:00",
+        "end": "2025-03-06T10:30:00",
+        "url": "/cfp/schedule/talk/199",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T100000",
+            "end_google": "20250306T103000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1000",
+            "duration_yahoo": "0.530.0",
+            "description": "Keynote: RootedCON \\xf \\xf streaming desde la Sala 25.",
+            "description_web": "Keynote%3A+RootedCON+%5Cxf+%5Cxf+streaming+desde+la+Sala+25.",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "Keynote: RootedCON \\xf \\xf (streaming)",
+        "start": "2025-03-06T10:00:00",
+        "end": "2025-03-06T10:30:00",
+        "url": "/cfp/schedule/talk/198",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T100000",
+            "end_google": "20250306T103000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1000",
+            "duration_yahoo": "0.530.0",
+            "description": "Keynote: RootedCON \\xf \\xf streaming desde la Sala 25.",
+            "description_web": "Keynote%3A+RootedCON+%5Cxf+%5Cxf+streaming+desde+la+Sala+25.",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "Bluetooth Attacks, the easy way",
+        "start": "2025-03-06T10:30:00",
+        "end": "2025-03-06T11:30:00",
+        "url": "/cfp/schedule/talk/5",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T103000",
+            "end_google": "20250306T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1030",
+            "duration_yahoo": "1.00.0",
+            "description": "Un obst\u00e1culo a la hora de desarrollar herramientas ofensivas Bluetooth es c\u00f3mo hacer uso del dispositivo bluetooth y la falta de funcionalidades espec\u00edficas como la suplantaci\u00f3n de la MAC, etc. Durante esta charla se presentar\u00e1 un nuevo enfoque y herramientas que permiten el uso de Bluetooth a bajo nivel, multiplataforma y multilenguaje que permiten sentar las bases de un marco de desarrollo enfocado a auditar y atacar Bluetooth. Se complementar\u00e1n las herramientas con el uso de comandos del fabricante no documentados en los dispositivos ESP32 que permiten incrementar la versatilidad de estos dispositivos a la hora de implementar ataques o realizar auditor\u00edas.",
+            "description_web": "Un+obst%C3%A1culo+a+la+hora+de+desarrollar+herramientas+ofensivas+Bluetooth+es+c%C3%B3mo+hacer+uso+del+dispositivo+bluetooth+y+la+falta+de+funcionalidades+espec%C3%ADficas+como+la+suplantaci%C3%B3n+de+la+MAC%2C+etc.+Durante+esta+charla+se+presentar%C3%A1+un+nuevo+enfoque+y+herramientas+que+permiten+el+uso+de+Bluetooth+a+bajo+nivel%2C+multiplataforma+y+multilenguaje+que+permiten+sentar+las+bases+de+un+marco+de+desarrollo+enfocado+a+auditar+y+atacar+Bluetooth.+Se+complementar%C3%A1n+las+herramientas+con+el+uso+de+comandos+del+fabricante+no+documentados+en+los+dispositivos+ESP32+que+permiten+incrementar+la+versatilidad+de+estos+dispositivos+a+la+hora+de+implementar+ataques+o+realizar+auditor%C3%ADas.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 880,
+                    "url": "/cfp/speaker/880",
+                    "name": "Miguel Tarasc\u00f3 Acu\u00f1a"
+                },
+                {
+                    "id": 879,
+                    "url": "/cfp/speaker/879",
+                    "name": "Antonio V\u00e1zquez Blanco"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Track de Ciberresiliencia - KYNDRYL",
+        "start": "2025-03-06T10:30:00",
+        "end": "2025-03-06T14:00:00",
+        "url": "/cfp/schedule/talk/72",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T103000",
+            "end_google": "20250306T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1030",
+            "duration_yahoo": "3.530.0",
+            "description": "Track de Ciberresiliencia - KYNDRYL",
+            "description_web": "Track+de+Ciberresiliencia+-+KYNDRYL",
+            "room": 21,
+            "track": "RESILIENCE",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "resilience",
+        "className": "eresilience"
+    },
+    {
+        "title": "Mesa redonda: \"Ciberp\u00f3lizas en Acci\u00f3n: De la Prevenci\u00f3n a la Respuesta\" - \"Conociendo el Riesgo y C\u00f3mo Mitigarlo\"",
+        "start": "2025-03-06T10:30:00",
+        "end": "2025-03-06T11:30:00",
+        "url": "/cfp/schedule/talk/202",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T103000",
+            "end_google": "20250306T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1030",
+            "duration_yahoo": "1.00.0",
+            "description": "En esta primera parte, analizaremos el panorama actual de las ciberamenazas, su impacto en las empresas y el papel de la ciberseguridad y las ciberp\u00f3lizas en la prevenci\u00f3n. Contaremos con la visi\u00f3n de distintos expertos involucrados en este proceso.\r\n\r\n<b>Modera: INCIDE</b>",
+            "description_web": "En+esta+primera+parte%2C+analizaremos+el+panorama+actual+de+las+ciberamenazas%2C+su+impacto+en+las+empresas+y+el+papel+de+la+ciberseguridad+y+las+ciberp%C3%B3lizas+en+la+prevenci%C3%B3n.+Contaremos+con+la+visi%C3%B3n+de+distintos+expertos+involucrados+en+este+proceso.%0D%0A%0D%0A%3Cb%3EModera%3A+INCIDE%3C%2Fb%3E",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 828,
+                    "url": "/cfp/speaker/828",
+                    "name": "Sebas Kanj Bongard"
+                },
+                {
+                    "id": 829,
+                    "url": "/cfp/speaker/829",
+                    "name": "Patricia P\u00e9rez Soto"
+                }
+            ]
+        },
+        "resourceId": "dfir",
+        "className": "edfir"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-06T10:30:00",
+        "end": "2025-03-06T11:30:00",
+        "url": "/cfp/schedule/talk/15",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T103000",
+            "end_google": "20250306T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1030",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted19",
+        "className": "erooted"
+    },
+    {
+        "title": "Keynote - Track Criptored Conference",
+        "start": "2025-03-06T10:30:00",
+        "end": "2025-03-06T11:00:00",
+        "url": "/cfp/schedule/talk/27",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T103000",
+            "end_google": "20250306T110000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1030",
+            "duration_yahoo": "0.530.0",
+            "description": "Keynote de apertura del track de Criptored",
+            "description_web": "Keynote+de+apertura+del+track+de+Criptored",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 478,
+                    "url": "/cfp/speaker/478",
+                    "name": "Alfonso Mu\u00f1oz Mu\u00f1oz"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Introducci\u00f3n a ISACA Madrid",
+        "start": "2025-03-06T10:30:00",
+        "end": "2025-03-06T11:00:00",
+        "url": "/cfp/schedule/talk/46",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T103000",
+            "end_google": "20250306T110000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1030",
+            "duration_yahoo": "0.530.0",
+            "description": "Introducci\u00f3n a ISACA Madrid",
+            "description_web": "Introducci%C3%B3n+a+ISACA+Madrid",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 776,
+                    "url": "/cfp/speaker/776",
+                    "name": "Presidente ISACA"
+                }
+            ]
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "Intro & Welcome to Track",
+        "start": "2025-03-06T10:30:00",
+        "end": "2025-03-06T10:40:00",
+        "url": "/cfp/schedule/talk/57",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T103000",
+            "end_google": "20250306T104000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1030",
+            "duration_yahoo": "0.1666666666666666610.0",
+            "description": "Intro & Welcome to Track",
+            "description_web": "Intro+%26+Welcome+to+Track",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 846,
+                    "url": "/cfp/speaker/846",
+                    "name": "Cesar Lorenzana"
+                }
+            ]
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "Investigating Web3 transactions for fun and !illegal_profit",
+        "start": "2025-03-06T10:40:00",
+        "end": "2025-03-06T12:00:00",
+        "url": "/cfp/schedule/talk/58",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T104000",
+            "end_google": "20250306T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1040",
+            "duration_yahoo": "1.333333333333333320.0",
+            "description": "Rastreo cripto-activos\u2026...Quitando el miedo a lo desconocido",
+            "description_web": "Rastreo+cripto-activos%E2%80%A6...Quitando+el+miedo+a+lo+desconocido",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 561,
+                    "url": "/cfp/speaker/561",
+                    "name": "Mario Guerra Soto"
+                }
+            ]
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "Computaci\u00f3n cu\u00e1ntica m\u00e1s all\u00e1 de PQC. Qiskit Function",
+        "start": "2025-03-06T11:00:00",
+        "end": "2025-03-06T11:30:00",
+        "url": "/cfp/schedule/talk/28",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T110000",
+            "end_google": "20250306T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1100",
+            "duration_yahoo": "0.530.0",
+            "description": "Computaci\u00f3n cu\u00e1ntica m\u00e1s all\u00e1 de PQC. Qiskit Function.",
+            "description_web": "Computaci%C3%B3n+cu%C3%A1ntica+m%C3%A1s+all%C3%A1+de+PQC.+Qiskit+Function.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 814,
+                    "url": "/cfp/speaker/814",
+                    "name": "Dr. Francisco Mart\u00edn Fern\u00e1ndez"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "From Theory to Reality: Implementing ISACA\u2019s Digital Trust Framework",
+        "start": "2025-03-06T11:00:00",
+        "end": "2025-03-06T11:30:00",
+        "url": "/cfp/schedule/talk/47",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T110000",
+            "end_google": "20250306T113000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1100",
+            "duration_yahoo": "0.530.0",
+            "description": "Charla sobre la implantaci\u00f3n de framework de ISACA en el primer cliente que lo hace.",
+            "description_web": "Charla+sobre+la+implantaci%C3%B3n+de+framework+de+ISACA+en+el+primer+cliente+que+lo+hace.",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 852,
+                    "url": "/cfp/speaker/852",
+                    "name": "Anass Abajtour"
+                }
+            ]
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T11:30:00",
+        "end": "2025-03-06T12:00:00",
+        "url": "/cfp/schedule/talk/6",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T113000",
+            "end_google": "20250306T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "DESCANSO.",
+            "description_web": "DESCANSO.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T11:30:00",
+        "end": "2025-03-06T12:00:00",
+        "url": "/cfp/schedule/talk/203",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T113000",
+            "end_google": "20250306T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "dfir",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T11:30:00",
+        "end": "2025-03-06T12:00:00",
+        "url": "/cfp/schedule/talk/16",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T113000",
+            "end_google": "20250306T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted19",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T11:30:00",
+        "end": "2025-03-06T12:00:00",
+        "url": "/cfp/schedule/talk/29",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T113000",
+            "end_google": "20250306T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "criptored",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T11:30:00",
+        "end": "2025-03-06T12:00:00",
+        "url": "/cfp/schedule/talk/48",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T113000",
+            "end_google": "20250306T120000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1130",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "isaca",
+        "className": "ebreak"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-06T12:00:00",
+        "end": "2025-03-06T13:00:00",
+        "url": "/cfp/schedule/talk/7",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T120000",
+            "end_google": "20250306T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Mesa redonda: \"Ciberp\u00f3lizas en Acci\u00f3n: De la Prevenci\u00f3n a la Respuesta\" - \"La Respuesta al Incidente y la Coordinaci\u00f3n Entre Actores\"",
+        "start": "2025-03-06T12:00:00",
+        "end": "2025-03-06T13:00:00",
+        "url": "/cfp/schedule/talk/204",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T120000",
+            "end_google": "20250306T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "En esta segunda parte, exploraremos c\u00f3mo se activan las ciberp\u00f3lizas tras un ataque, el rol de los distintos actores y las lecciones clave en la gesti\u00f3n de crisis.",
+            "description_web": "En+esta+segunda+parte%2C+exploraremos+c%C3%B3mo+se+activan+las+ciberp%C3%B3lizas+tras+un+ataque%2C+el+rol+de+los+distintos+actores+y+las+lecciones+clave+en+la+gesti%C3%B3n+de+crisis.",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 828,
+                    "url": "/cfp/speaker/828",
+                    "name": "Sebas Kanj Bongard"
+                },
+                {
+                    "id": 829,
+                    "url": "/cfp/speaker/829",
+                    "name": "Patricia P\u00e9rez Soto"
+                }
+            ]
+        },
+        "resourceId": "dfir",
+        "className": "edfir"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-06T12:00:00",
+        "end": "2025-03-06T13:00:00",
+        "url": "/cfp/schedule/talk/17",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T120000",
+            "end_google": "20250306T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted19",
+        "className": "erooted"
+    },
+    {
+        "title": "How to get rich with a QR Code. CVEs found on a Bitcoin ATM",
+        "start": "2025-03-06T12:00:00",
+        "end": "2025-03-06T12:30:00",
+        "url": "/cfp/schedule/talk/30",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T120000",
+            "end_google": "20250306T123000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1200",
+            "duration_yahoo": "0.530.0",
+            "description": "I will expand a bit more CVEs found on a Bitcoin ATM and use them to empty the cassettes or add unlimited money to your wallet.",
+            "description_web": "I+will+expand+a+bit+more+CVEs+found+on+a+Bitcoin+ATM+and+use+them+to+empty+the+cassettes+or+add+unlimited+money+to+your+wallet.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 590,
+                    "url": "/cfp/speaker/590",
+                    "name": "Gabriel Gonzalez Garcia"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Mesa redonda: El auditor del futuro: C\u00f3mo la IA est\u00e1 transformando la profesi\u00f3n",
+        "start": "2025-03-06T12:00:00",
+        "end": "2025-03-06T13:00:00",
+        "url": "/cfp/schedule/talk/49",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T120000",
+            "end_google": "20250306T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1200",
+            "duration_yahoo": "1.00.0",
+            "description": "Con perfiles distintos, se buscar\u00e1 ver como va a afectar la IA en el proceso de las auditorias actuales.\r\n\r\n<b>Modera: Jos\u00e9 Miguel Cardona</b>",
+            "description_web": "Con+perfiles+distintos%2C+se+buscar%C3%A1+ver+como+va+a+afectar+la+IA+en+el+proceso+de+las+auditorias+actuales.%0D%0A%0D%0A%3Cb%3EModera%3A+Jos%C3%A9+Miguel+Cardona%3C%2Fb%3E",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 257,
+                    "url": "/cfp/speaker/257",
+                    "name": "Pablo Gonz\u00e1lez"
+                },
+                {
+                    "id": 77,
+                    "url": "/cfp/speaker/77",
+                    "name": "Speaker 2"
+                },
+                {
+                    "id": 845,
+                    "url": "/cfp/speaker/845",
+                    "name": "Pablo Rodr\u00edguez Mart\u00edn"
+                },
+                {
+                    "id": 778,
+                    "url": "/cfp/speaker/778",
+                    "name": "Jos\u00e9 Miguel  Cardona Pastor"
+                },
+                {
+                    "id": 858,
+                    "url": "/cfp/speaker/858",
+                    "name": "Karla Torres"
+                },
+                {
+                    "id": 859,
+                    "url": "/cfp/speaker/859",
+                    "name": "\u00c1gueda de Lara Valero"
+                }
+            ]
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T12:00:00",
+        "end": "2025-03-06T12:30:00",
+        "url": "/cfp/schedule/talk/215",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T120000",
+            "end_google": "20250306T123000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1200",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "protocolo286",
+        "className": "ebreak"
+    },
+    {
+        "title": "\u00bfEspecializarse en desarrollo de malware? H\u00e9roes y villanos",
+        "start": "2025-03-06T12:30:00",
+        "end": "2025-03-06T13:00:00",
+        "url": "/cfp/schedule/talk/31",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T123000",
+            "end_google": "20250306T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1230",
+            "duration_yahoo": "0.530.0",
+            "description": "\u00bfEspecializarse en desarrollo de malware? H\u00e9roes y villanos.",
+            "description_web": "%C2%BFEspecializarse+en+desarrollo+de+malware%3F+H%C3%A9roes+y+villanos.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 840,
+                    "url": "/cfp/speaker/840",
+                    "name": "Oscar Gallego Sendin"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Buenos con VPN malos con la cripto",
+        "start": "2025-03-06T12:30:00",
+        "end": "2025-03-06T13:00:00",
+        "url": "/cfp/schedule/talk/59",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T123000",
+            "end_google": "20250306T130000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1230",
+            "duration_yahoo": "0.530.0",
+            "description": "MdE - [Investigaci\u00f3n Fraudes & Criptomonedas]",
+            "description_web": "MdE+-+%5BInvestigaci%C3%B3n+Fraudes+%26+Criptomonedas%5D",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 684,
+                    "url": "/cfp/speaker/684",
+                    "name": "Manu  Fernandez"
+                }
+            ]
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "Los Cylons no roban datos, solo preguntan y tu IA responde",
+        "start": "2025-03-06T13:00:00",
+        "end": "2025-03-06T14:00:00",
+        "url": "/cfp/schedule/talk/8",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T130000",
+            "end_google": "20250306T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1300",
+            "duration_yahoo": "1.00.0",
+            "description": "Los Cylons fueron creados por el hombre. Evolucionaron. Se rebelaron. Hay muchas copias. Y tienen un plan.\"\r\n\r\nLos Cylons no llegaron con naves de guerra. No necesitaban l\u00e1seres ni explosiones. Se hicieron pasar por nuestros ayudantes, ganaron nuestra confianza\u2026 y cuando nos dimos cuenta, ya estaban usando nuestras propias IAs en nuestra contra.\r\n\r\nEn esta sesi\u00f3n en vivo, desentra\u00f1aremos c\u00f3mo las IAs generativas pueden ser atacadas en distintos niveles y utilizadas para filtrar datos sin que lo sospeches. Exploraremos su tal\u00f3n de Aquiles: an\u00e1lisis de accesos, protecci\u00f3n de datos, control de la navegaci\u00f3n y defensa del runtime y el modelo.\r\n\r\nPero no todo est\u00e1 perdido\u2026 Tambi\u00e9n veremos c\u00f3mo podemos detenerlas antes de que sea demasiado tarde. \u00bfSobreviviremos? Eso depende de lo que aprendas aqu\u00ed.",
+            "description_web": "Los+Cylons+fueron+creados+por+el+hombre.+Evolucionaron.+Se+rebelaron.+Hay+muchas+copias.+Y+tienen+un+plan.%22%0D%0A%0D%0ALos+Cylons+no+llegaron+con+naves+de+guerra.+No+necesitaban+l%C3%A1seres+ni+explosiones.+Se+hicieron+pasar+por+nuestros+ayudantes%2C+ganaron+nuestra+confianza%E2%80%A6+y+cuando+nos+dimos+cuenta%2C+ya+estaban+usando+nuestras+propias+IAs+en+nuestra+contra.%0D%0A%0D%0AEn+esta+sesi%C3%B3n+en+vivo%2C+desentra%C3%B1aremos+c%C3%B3mo+las+IAs+generativas+pueden+ser+atacadas+en+distintos+niveles+y+utilizadas+para+filtrar+datos+sin+que+lo+sospeches.+Exploraremos+su+tal%C3%B3n+de+Aquiles%3A+an%C3%A1lisis+de+accesos%2C+protecci%C3%B3n+de+datos%2C+control+de+la+navegaci%C3%B3n+y+defensa+del+runtime+y+el+modelo.%0D%0A%0D%0APero+no+todo+est%C3%A1+perdido%E2%80%A6+Tambi%C3%A9n+veremos+c%C3%B3mo+podemos+detenerlas+antes+de+que+sea+demasiado+tarde.+%C2%BFSobreviviremos%3F+Eso+depende+de+lo+que+aprendas+aqu%C3%AD.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 881,
+                    "url": "/cfp/speaker/881",
+                    "name": "Pablo Estevan"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Traffers: Donde roban dos, se infectan tres",
+        "start": "2025-03-06T13:00:00",
+        "end": "2025-03-06T14:00:00",
+        "url": "/cfp/schedule/talk/205",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T130000",
+            "end_google": "20250306T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1300",
+            "duration_yahoo": "1.00.0",
+            "description": "Esta charla se adentra en el intrigante mundo de los traffers, traficantes especializados en la recolecci\u00f3n y venta de credenciales robadas. Se explicar\u00e1 c\u00f3mo operan y c\u00f3mo utilizan grupos conocidos como \"clouds\", tanto p\u00fablicos como privados, para compartir y comercializar estas credenciales. Tambi\u00e9n se explorar\u00e1 su relaci\u00f3n con otros actores del cibercrimen, como los grupos de ransomware y los Initial Access Brokers (IAB). Adem\u00e1s, se analizar\u00e1n algunos de los vectores de infecci\u00f3n m\u00e1s comunes que emplean y se presentar\u00e1 un caso particular que ilustra las din\u00e1micas m\u00e1s inesperadas de este ecosistema criminal.",
+            "description_web": "Esta+charla+se+adentra+en+el+intrigante+mundo+de+los+traffers%2C+traficantes+especializados+en+la+recolecci%C3%B3n+y+venta+de+credenciales+robadas.+Se+explicar%C3%A1+c%C3%B3mo+operan+y+c%C3%B3mo+utilizan+grupos+conocidos+como+%22clouds%22%2C+tanto+p%C3%BAblicos+como+privados%2C+para+compartir+y+comercializar+estas+credenciales.+Tambi%C3%A9n+se+explorar%C3%A1+su+relaci%C3%B3n+con+otros+actores+del+cibercrimen%2C+como+los+grupos+de+ransomware+y+los+Initial+Access+Brokers+%28IAB%29.+Adem%C3%A1s%2C+se+analizar%C3%A1n+algunos+de+los+vectores+de+infecci%C3%B3n+m%C3%A1s+comunes+que+emplean+y+se+presentar%C3%A1+un+caso+particular+que+ilustra+las+din%C3%A1micas+m%C3%A1s+inesperadas+de+este+ecosistema+criminal.",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 830,
+                    "url": "/cfp/speaker/830",
+                    "name": "Borja Rodriguez"
+                }
+            ]
+        },
+        "resourceId": "dfir",
+        "className": "edfir"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-06T13:00:00",
+        "end": "2025-03-06T14:00:00",
+        "url": "/cfp/schedule/talk/18",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T130000",
+            "end_google": "20250306T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1300",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted19",
+        "className": "erooted"
+    },
+    {
+        "title": "Kickstarting Threat Modeling with Generative AI",
+        "start": "2025-03-06T13:00:00",
+        "end": "2025-03-06T14:00:00",
+        "url": "/cfp/schedule/talk/32",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T130000",
+            "end_google": "20250306T140000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1300",
+            "duration_yahoo": "1.00.0",
+            "description": "Kickstarting Threat Modeling with Generative AI.",
+            "description_web": "Kickstarting+Threat+Modeling+with+Generative+AI.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 841,
+                    "url": "/cfp/speaker/841",
+                    "name": "Shweta Shrestha Thapa"
+                },
+                {
+                    "id": 842,
+                    "url": "/cfp/speaker/842",
+                    "name": "Santiago Barrientos Marin"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Auditando Arquitecturas Software Empresariales",
+        "start": "2025-03-06T13:00:00",
+        "end": "2025-03-06T13:30:00",
+        "url": "/cfp/schedule/talk/51",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T130000",
+            "end_google": "20250306T133000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1300",
+            "duration_yahoo": "0.530.0",
+            "description": "Arquitectura para auditores.",
+            "description_web": "Arquitectura+para+auditores.",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 132,
+                    "url": "/cfp/speaker/132",
+                    "name": "El\u00edas Grande"
+                }
+            ]
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "CiberN\u00e9cora: A\u00f1o I",
+        "start": "2025-03-06T13:00:00",
+        "end": "2025-03-06T14:20:00",
+        "url": "/cfp/schedule/talk/60",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T130000",
+            "end_google": "20250306T142000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1300",
+            "duration_yahoo": "1.333333333333333320.0",
+            "description": "CiberN\u00e9cora: A\u00f1o I",
+            "description_web": "CiberN%C3%A9cora%3A+A%C3%B1o+I",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 808,
+                    "url": "/cfp/speaker/808",
+                    "name": "Jorge Bermudez Gonz\u00e1lez"
+                }
+            ]
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "Descanso - comida",
+        "start": "2025-03-06T13:30:00",
+        "end": "2025-03-06T15:30:00",
+        "url": "/cfp/schedule/talk/52",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T133000",
+            "end_google": "20250306T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1330",
+            "duration_yahoo": "2.00.0",
+            "description": "Descanso - comida",
+            "description_web": "Descanso+-+comida",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "isaca",
+        "className": "ebreak"
+    },
+    {
+        "title": "Problemas de seguridad en rob\u00f3tica",
+        "start": "2025-03-06T14:00:00",
+        "end": "2025-03-06T14:30:00",
+        "url": "/cfp/schedule/talk/2",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T140000",
+            "end_google": "20250306T143000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1400",
+            "duration_yahoo": "0.530.0",
+            "description": "La rob\u00f3tica est\u00e1 presente en m\u00e1s \u00e1mbitos cada d\u00eda. La variedad de robots que podemos encontrar en hogares, comercios, industria, etc., es cada vez m\u00e1s amplia.\r\n\r\nEn esta sesi\u00f3n, se tratar\u00e1 de mostrar en directo los problemas de seguridad de un robot cuadr\u00fapedo militar, concretamente del modelo Vision 60 de la empresa Ghost Robotics, as\u00ed como las posibles implicaciones de su despliegue en distintos \u00e1mbitos.",
+            "description_web": "La+rob%C3%B3tica+est%C3%A1+presente+en+m%C3%A1s+%C3%A1mbitos+cada+d%C3%ADa.+La+variedad+de+robots+que+podemos+encontrar+en+hogares%2C+comercios%2C+industria%2C+etc.%2C+es+cada+vez+m%C3%A1s+amplia.%0D%0A%0D%0AEn+esta+sesi%C3%B3n%2C+se+tratar%C3%A1+de+mostrar+en+directo+los+problemas+de+seguridad+de+un+robot+cuadr%C3%BApedo+militar%2C+concretamente+del+modelo+Vision+60+de+la+empresa+Ghost+Robotics%2C+as%C3%AD+como+las+posibles+implicaciones+de+su+despliegue+en+distintos+%C3%A1mbitos.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 676,
+                    "url": "/cfp/speaker/676",
+                    "name": "Claudia \u00c1lvarez Aparicio"
+                },
+                {
+                    "id": 677,
+                    "url": "/cfp/speaker/677",
+                    "name": "Adri\u00e1n Campazas Vega"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Hunting for Dark Pink: Uncovering APT Threats through Telegram C2 Message",
+        "start": "2025-03-06T14:00:00",
+        "end": "2025-03-06T15:00:00",
+        "url": "/cfp/schedule/talk/73",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T140000",
+            "end_google": "20250306T150000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1400",
+            "duration_yahoo": "1.00.0",
+            "description": "Abstract: Dark Pink is one of the most prolific threat actors to emerge in the APAC region over the past two years, targeting military, government, and religious institutions across Southeast Asia. This presentation unveils how Dark Pink was first discovered, walking through the investigative steps that exposed the group\u2019s operations and its unique kill chain. We\u2019ll follow the entire journey\u2014from detection through to full analysis\u2014revealing how Dark Pink employs a custom toolset and unconventional techniques to bypass traditional security defenses and remain undetected. We\u2019ll break down each stage of a Dark Pink attack, from initial access to exfiltration, and examine the distinctive artifacts associated with each phase. Using TeleScout, a tool for extracting and analyzing Telegram-based C2 messages, we\u2019ll demonstrate how investigators can trace attacker actions, identify victims, and gather attribution clues. We\u2019ll show how TeleScout enables step-by-step tracking of APT activity and explore its versatility in analyzing other threat actors, including eCrime and nation-state groups. This talk offers practical insights for public sector security professionals and threat investigators into detecting and analyzing sophisticated cyber threats. Presentation Outline: This presentation begins with an in-depth look at Dark Pink, explaining how the APT group was first discovered and the investigative steps that led to the identification of its operations, victimology, and possible motivations. We will then explore how Dark Pink conducts its attacks, starting with phishing emails and ISO images for initial infection, followed by sideloading a malicious DLL through winword.exe to extract the KamiKakaBot payload from a decoy document. The loader establishes persistence by creating registry keys and setting up a service that shuts down infected devices at specific times to evade detection. The payload, saved as an MSBuild XML project file, is compiled and executed in memory on each system restart, leading to the final execution of the KamiKakaBot. KamiKakaBot is a .NET executable that leverages Telegram for command-and-control (C2) communications. Using a custom Python script, we\u2019ll demonstrate how to extract the C2 configuration from the payload and analyze the attacker\u2019s activities on infected hosts. We will introduce TeleScout, our specialized tool that dumps and visualizes Telegram-based C2 communications, allowing analysts to observe post-exploitation actions such as LSASS credential collection, navigation of infected systems, and retrieval of additional tools hosted on platforms like GitHub and Telegram. Next, we\u2019ll examine the exfiltration methods used by Dark Pink, detailing the types of files targeted and attribution clues embedded within them. We will also discuss the Telegram Bot API and explain weaknesses that investigators can exploit to retrieve messages from compromised bots, assuming a bot token can be obtained from malware samples. Finally, we will demonstrate TeleScout\u2019s functionality on other cases, such as DuckTail, an infostealer, and YoroTrooper, a Kazakhstani APT, showing its versatility in analyzing both eCrime and nation-state actors. TeleScout will be released as an open-source tool after the talk, filling a critical gap in the current tooling available for investigating Telegram-based C2. What is new: While blog articles have previously covered Dark Pink\u2019s operations, this talk will reveal unique insights into how the APT group was first discovered, including step-by-step details of the investigative process that led to its identification. We will highlight key artifacts and evidence that supported attribution\u2014information not publicly disclosed before\u2014as well as specific details about Dark Pink's tactics, techniques, and procedures throughout its kill chain. Additionally, we will introduce TeleScout, a tool designed to extract and analyze Telegram-based C2 messages, filling a critical gap in the open-source toolset available to threat investigators. TeleScout will be made freely available after the presentation, as no similar open-source tools currently exist for this purpose.",
+            "description_web": "Abstract%3A+Dark+Pink+is+one+of+the+most+prolific+threat+actors+to+emerge+in+the+APAC+region+over+the+past+two+years%2C+targeting+military%2C+government%2C+and+religious+institutions+across+Southeast+Asia.+This+presentation+unveils+how+Dark+Pink+was+first+discovered%2C+walking+through+the+investigative+steps+that+exposed+the+group%E2%80%99s+operations+and+its+unique+kill+chain.+We%E2%80%99ll+follow+the+entire+journey%E2%80%94from+detection+through+to+full+analysis%E2%80%94revealing+how+Dark+Pink+employs+a+custom+toolset+and+unconventional+techniques+to+bypass+traditional+security+defenses+and+remain+undetected.+We%E2%80%99ll+break+down+each+stage+of+a+Dark+Pink+attack%2C+from+initial+access+to+exfiltration%2C+and+examine+the+distinctive+artifacts+associated+with+each+phase.+Using+TeleScout%2C+a+tool+for+extracting+and+analyzing+Telegram-based+C2+messages%2C+we%E2%80%99ll+demonstrate+how+investigators+can+trace+attacker+actions%2C+identify+victims%2C+and+gather+attribution+clues.+We%E2%80%99ll+show+how+TeleScout+enables+step-by-step+tracking+of+APT+activity+and+explore+its+versatility+in+analyzing+other+threat+actors%2C+including+eCrime+and+nation-state+groups.+This+talk+offers+practical+insights+for+public+sector+security+professionals+and+threat+investigators+into+detecting+and+analyzing+sophisticated+cyber+threats.+Presentation+Outline%3A+This+presentation+begins+with+an+in-depth+look+at+Dark+Pink%2C+explaining+how+the+APT+group+was+first+discovered+and+the+investigative+steps+that+led+to+the+identification+of+its+operations%2C+victimology%2C+and+possible+motivations.+We+will+then+explore+how+Dark+Pink+conducts+its+attacks%2C+starting+with+phishing+emails+and+ISO+images+for+initial+infection%2C+followed+by+sideloading+a+malicious+DLL+through+winword.exe+to+extract+the+KamiKakaBot+payload+from+a+decoy+document.+The+loader+establishes+persistence+by+creating+registry+keys+and+setting+up+a+service+that+shuts+down+infected+devices+at+specific+times+to+evade+detection.+The+payload%2C+saved+as+an+MSBuild+XML+project+file%2C+is+compiled+and+executed+in+memory+on+each+system+restart%2C+leading+to+the+final+execution+of+the+KamiKakaBot.+KamiKakaBot+is+a+.NET+executable+that+leverages+Telegram+for+command-and-control+%28C2%29+communications.+Using+a+custom+Python+script%2C+we%E2%80%99ll+demonstrate+how+to+extract+the+C2+configuration+from+the+payload+and+analyze+the+attacker%E2%80%99s+activities+on+infected+hosts.+We+will+introduce+TeleScout%2C+our+specialized+tool+that+dumps+and+visualizes+Telegram-based+C2+communications%2C+allowing+analysts+to+observe+post-exploitation+actions+such+as+LSASS+credential+collection%2C+navigation+of+infected+systems%2C+and+retrieval+of+additional+tools+hosted+on+platforms+like+GitHub+and+Telegram.+Next%2C+we%E2%80%99ll+examine+the+exfiltration+methods+used+by+Dark+Pink%2C+detailing+the+types+of+files+targeted+and+attribution+clues+embedded+within+them.+We+will+also+discuss+the+Telegram+Bot+API+and+explain+weaknesses+that+investigators+can+exploit+to+retrieve+messages+from+compromised+bots%2C+assuming+a+bot+token+can+be+obtained+from+malware+samples.+Finally%2C+we+will+demonstrate+TeleScout%E2%80%99s+functionality+on+other+cases%2C+such+as+DuckTail%2C+an+infostealer%2C+and+YoroTrooper%2C+a+Kazakhstani+APT%2C+showing+its+versatility+in+analyzing+both+eCrime+and+nation-state+actors.+TeleScout+will+be+released+as+an+open-source+tool+after+the+talk%2C+filling+a+critical+gap+in+the+current+tooling+available+for+investigating+Telegram-based+C2.+What+is+new%3A+While+blog+articles+have+previously+covered+Dark+Pink%E2%80%99s+operations%2C+this+talk+will+reveal+unique+insights+into+how+the+APT+group+was+first+discovered%2C+including+step-by-step+details+of+the+investigative+process+that+led+to+its+identification.+We+will+highlight+key+artifacts+and+evidence+that+supported+attribution%E2%80%94information+not+publicly+disclosed+before%E2%80%94as+well+as+specific+details+about+Dark+Pink%27s+tactics%2C+techniques%2C+and+procedures+throughout+its+kill+chain.+Additionally%2C+we+will+introduce+TeleScout%2C+a+tool+designed+to+extract+and+analyze+Telegram-based+C2+messages%2C+filling+a+critical+gap+in+the+open-source+toolset+available+to+threat+investigators.+TeleScout+will+be+made+freely+available+after+the+presentation%2C+as+no+similar+open-source+tools+currently+exist+for+this+purpose.",
+            "room": 21,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 494,
+                    "url": "/cfp/speaker/494",
+                    "name": "Pol Thill"
+                },
+                {
+                    "id": 742,
+                    "url": "/cfp/speaker/742",
+                    "name": "Albert Priego"
+                }
+            ]
+        },
+        "resourceId": "rooted21",
+        "className": "erooted"
+    },
+    {
+        "title": "Descanso - comida",
+        "start": "2025-03-06T14:00:00",
+        "end": "2025-03-06T15:30:00",
+        "url": "/cfp/schedule/talk/206",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T140000",
+            "end_google": "20250306T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1400",
+            "duration_yahoo": "1.530.0",
+            "description": "Descanso - comida",
+            "description_web": "Descanso+-+comida",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "dfir",
+        "className": "ebreak"
+    },
+    {
+        "title": "Halloween gafado: desinformaci\u00f3n en el falso desfile de Dubl\u00edn",
+        "start": "2025-03-06T14:00:00",
+        "end": "2025-03-06T14:30:00",
+        "url": "/cfp/schedule/talk/19",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T140000",
+            "end_google": "20250306T143000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1400",
+            "duration_yahoo": "0.530.0",
+            "description": "En esta ponencia exploraremos c\u00f3mo un evento inexistente, promovido a trav\u00e9s de desinformaci\u00f3n generada con inteligencia artificial, logr\u00f3 reunir a miles de personas en el centro de Dubl\u00edn.\r\n\r\nA trav\u00e9s de este caso de uso, analizaremos las din\u00e1micas de propagaci\u00f3n que se utilizan en redes sociales para viralizar campa\u00f1as de influencia, los riesgos asociados con campa\u00f1as de desinformaci\u00f3n y misinformaci\u00f3n, y c\u00f3mo \u00e9stas consiguen impactar en la confianza de la comunidad hacia las instituciones oficiales.\r\n\r\nAdem\u00e1s, en esta charla presentaremos un ejemplo sobre c\u00f3mo utilizar herramientas de escucha social y metodolog\u00edas como el COM-B y el DISARM Framework (el MITRE ATT&K de la desinformaci\u00f3n), que ofrecen estrategias para analizar, mitigar y prevenir este tipo de incidentes, destacando el papel crucial de la inteligencia artificial en la gesti\u00f3n de crisis comunicativas y en la construcci\u00f3n de resiliencia comunitaria.",
+            "description_web": "En+esta+ponencia+exploraremos+c%C3%B3mo+un+evento+inexistente%2C+promovido+a+trav%C3%A9s+de+desinformaci%C3%B3n+generada+con+inteligencia+artificial%2C+logr%C3%B3+reunir+a+miles+de+personas+en+el+centro+de+Dubl%C3%ADn.%0D%0A%0D%0AA+trav%C3%A9s+de+este+caso+de+uso%2C+analizaremos+las+din%C3%A1micas+de+propagaci%C3%B3n+que+se+utilizan+en+redes+sociales+para+viralizar+campa%C3%B1as+de+influencia%2C+los+riesgos+asociados+con+campa%C3%B1as+de+desinformaci%C3%B3n+y+misinformaci%C3%B3n%2C+y+c%C3%B3mo+%C3%A9stas+consiguen+impactar+en+la+confianza+de+la+comunidad+hacia+las+instituciones+oficiales.%0D%0A%0D%0AAdem%C3%A1s%2C+en+esta+charla+presentaremos+un+ejemplo+sobre+c%C3%B3mo+utilizar+herramientas+de+escucha+social+y+metodolog%C3%ADas+como+el+COM-B+y+el+DISARM+Framework+%28el+MITRE+ATT%26K+de+la+desinformaci%C3%B3n%29%2C+que+ofrecen+estrategias+para+analizar%2C+mitigar+y+prevenir+este+tipo+de+incidentes%2C+destacando+el+papel+crucial+de+la+inteligencia+artificial+en+la+gesti%C3%B3n+de+crisis+comunicativas+y+en+la+construcci%C3%B3n+de+resiliencia+comunitaria.",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 672,
+                    "url": "/cfp/speaker/672",
+                    "name": "Paula Gonz\u00e1lez Nagore"
+                },
+                {
+                    "id": 673,
+                    "url": "/cfp/speaker/673",
+                    "name": "Raquel Garcia"
+                }
+            ]
+        },
+        "resourceId": "rooted19",
+        "className": "erooted"
+    },
+    {
+        "title": "Bug Bounty - \u00bfY t\u00fa qu\u00e9 reportas?",
+        "start": "2025-03-06T14:00:00",
+        "end": "2025-03-06T14:30:00",
+        "url": "/cfp/schedule/talk/33",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T140000",
+            "end_google": "20250306T143000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1400",
+            "duration_yahoo": "0.530.0",
+            "description": "Bug Bounty - \u00bfY t\u00fa qu\u00e9 reportas?",
+            "description_web": "Bug+Bounty+-+%C2%BFY+t%C3%BA+qu%C3%A9+reportas%3F",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 488,
+                    "url": "/cfp/speaker/488",
+                    "name": "Juan Francisco Bolivar"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Phishing, ese nuevo \"viejo amigo\": Tecnicas, Tendencias y Trucos",
+        "start": "2025-03-06T14:20:00",
+        "end": "2025-03-06T15:20:00",
+        "url": "/cfp/schedule/talk/61",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T142000",
+            "end_google": "20250306T152000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1420",
+            "duration_yahoo": "1.00.0",
+            "description": "[Phishing, ese nuevo \"viejo amigo\": Tecnicas, Tendencias y Trucos]",
+            "description_web": "%5BPhishing%2C+ese+nuevo+%22viejo+amigo%22%3A+Tecnicas%2C+Tendencias+y+Trucos%5D",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 885,
+                    "url": "/cfp/speaker/885",
+                    "name": "Dani Martinez"
+                }
+            ]
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "Estafas S.A.: Telekopye y la caza de mamuts",
+        "start": "2025-03-06T14:30:00",
+        "end": "2025-03-06T15:00:00",
+        "url": "/cfp/schedule/talk/3",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T143000",
+            "end_google": "20250306T150000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1430",
+            "duration_yahoo": "0.530.0",
+            "description": "Estafas S.A.: Telekopye y la caza de mamuts\r\n\r\nCuando hablamos de Telekopye hablamos de una navaja suiza para los delincuentes que les permite realizar todo tipo de estafas de una forma sencilla y organizada.\r\n\r\nDecenas de grupos de Telegram, con hasta miles de miembros cada uno, son usados a diario d\u00eda para robar millones a los \u00abmamuts\u00bb, como llaman a sus v\u00edctimas.\r\n\r\nLos estafadores se autoproclaman \u00abneandertales\u00bb y apenas necesitan conocimientos t\u00e9cnicos ya que Telekopye se encarga de todo en cuesti\u00f3n de segundos. Gracias a la colaboraci\u00f3n con las Fuerzas y Cuerpos de Seguridadn y con varias de las tiendas y servicios online a los que Telekopye va dirigido se pudo obtener obtener una perspectiva \u00fanica de toda la operaci\u00f3n preparada por los ciberdelincuentes. Uno de los descubrimientos m\u00e1s impactantes fue que algunos grupos de Telekopye, en lugar de utilizar a aspirantes a ciberdelincuentes, amenazan a personas en situaciones dif\u00edciles y las obligan a realizar este tipo de estafas. Tambi\u00e9n pudimos comprender mejor las capacidades de defensa de los mercados online, algo que compartiremos brevemente con la audiencia. Adem\u00e1s, con esta investigaci\u00f3n se ayud\u00f3 a las empresas afectadas a reforzar a\u00fan m\u00e1s sus defensas, bas\u00e1ndonos en lo que aprendimos de la documentaci\u00f3n interna de los ciberdelincuentes, que se obtuvo tras infiltrarnos en sus filas.\r\n\r\nAcompa\u00f1adnos en un viaje que explora este tipo de estafas desde la perspectiva del atacante. Telekopye est\u00e1 dise\u00f1ado para atacar una gran variedad de servicios (OLX, Vinted, eBay, Wallapop) principalmente en Europa y Norteam\u00e9rica. Ofrece funciones avanzadas a sus usuarios como la generaci\u00f3n totalmente automatizada de p\u00e1ginas web de phishing, un chatbot interactivo con traducci\u00f3n sobre la marcha y protecci\u00f3n anti-DDoS de todo el dominio de phishing, por citar solo algunas. Por \u00faltimo, los grupos de Telekopye han ampliado recientemente sus objetivos, a\u00f1adiendo soporte para estafas dirigidas a usuarios de plataformas de reservas de alojamiento como Booking, estafas que, seg\u00fan nuestra telemetr\u00eda, parecen ser las m\u00e1s populares actualmente.\r\n\r\nDurante la ponencia, demostraremos c\u00f3mo funcionan estas estafas, c\u00f3mo detectarlas y prevenirlas, concienciado a la audiencia para que puedan aprender a reconocerlas y eviten caer en la trampa de los neandertales.",
+            "description_web": "Estafas+S.A.%3A+Telekopye+y+la+caza+de+mamuts%0D%0A%0D%0ACuando+hablamos+de+Telekopye+hablamos+de+una+navaja+suiza+para+los+delincuentes+que+les+permite+realizar+todo+tipo+de+estafas+de+una+forma+sencilla+y+organizada.%0D%0A%0D%0ADecenas+de+grupos+de+Telegram%2C+con+hasta+miles+de+miembros+cada+uno%2C+son+usados+a+diario+d%C3%ADa+para+robar+millones+a+los+%C2%ABmamuts%C2%BB%2C+como+llaman+a+sus+v%C3%ADctimas.%0D%0A%0D%0ALos+estafadores+se+autoproclaman+%C2%ABneandertales%C2%BB+y+apenas+necesitan+conocimientos+t%C3%A9cnicos+ya+que+Telekopye+se+encarga+de+todo+en+cuesti%C3%B3n+de+segundos.+Gracias+a+la+colaboraci%C3%B3n+con+las+Fuerzas+y+Cuerpos+de+Seguridadn+y+con+varias+de+las+tiendas+y+servicios+online+a+los+que+Telekopye+va+dirigido+se+pudo+obtener+obtener+una+perspectiva+%C3%BAnica+de+toda+la+operaci%C3%B3n+preparada+por+los+ciberdelincuentes.+Uno+de+los+descubrimientos+m%C3%A1s+impactantes+fue+que+algunos+grupos+de+Telekopye%2C+en+lugar+de+utilizar+a+aspirantes+a+ciberdelincuentes%2C+amenazan+a+personas+en+situaciones+dif%C3%ADciles+y+las+obligan+a+realizar+este+tipo+de+estafas.+Tambi%C3%A9n+pudimos+comprender+mejor+las+capacidades+de+defensa+de+los+mercados+online%2C+algo+que+compartiremos+brevemente+con+la+audiencia.+Adem%C3%A1s%2C+con+esta+investigaci%C3%B3n+se+ayud%C3%B3+a+las+empresas+afectadas+a+reforzar+a%C3%BAn+m%C3%A1s+sus+defensas%2C+bas%C3%A1ndonos+en+lo+que+aprendimos+de+la+documentaci%C3%B3n+interna+de+los+ciberdelincuentes%2C+que+se+obtuvo+tras+infiltrarnos+en+sus+filas.%0D%0A%0D%0AAcompa%C3%B1adnos+en+un+viaje+que+explora+este+tipo+de+estafas+desde+la+perspectiva+del+atacante.+Telekopye+est%C3%A1+dise%C3%B1ado+para+atacar+una+gran+variedad+de+servicios+%28OLX%2C+Vinted%2C+eBay%2C+Wallapop%29+principalmente+en+Europa+y+Norteam%C3%A9rica.+Ofrece+funciones+avanzadas+a+sus+usuarios+como+la+generaci%C3%B3n+totalmente+automatizada+de+p%C3%A1ginas+web+de+phishing%2C+un+chatbot+interactivo+con+traducci%C3%B3n+sobre+la+marcha+y+protecci%C3%B3n+anti-DDoS+de+todo+el+dominio+de+phishing%2C+por+citar+solo+algunas.+Por+%C3%BAltimo%2C+los+grupos+de+Telekopye+han+ampliado+recientemente+sus+objetivos%2C+a%C3%B1adiendo+soporte+para+estafas+dirigidas+a+usuarios+de+plataformas+de+reservas+de+alojamiento+como+Booking%2C+estafas+que%2C+seg%C3%BAn+nuestra+telemetr%C3%ADa%2C+parecen+ser+las+m%C3%A1s+populares+actualmente.%0D%0A%0D%0ADurante+la+ponencia%2C+demostraremos+c%C3%B3mo+funcionan+estas+estafas%2C+c%C3%B3mo+detectarlas+y+prevenirlas%2C+concienciado+a+la+audiencia+para+que+puedan+aprender+a+reconocerlas+y+eviten+caer+en+la+trampa+de+los+neandertales.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 766,
+                    "url": "/cfp/speaker/766",
+                    "name": "Josep Albors"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "CTFs y Criptograf\u00eda. Del juego al escenario real",
+        "start": "2025-03-06T14:30:00",
+        "end": "2025-03-06T15:00:00",
+        "url": "/cfp/schedule/talk/34",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T143000",
+            "end_google": "20250306T150000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1430",
+            "duration_yahoo": "0.530.0",
+            "description": "CTFs y Criptograf\u00eda. Del juego al escenario real",
+            "description_web": "CTFs+y+Criptograf%C3%ADa.+Del+juego+al+escenario+real",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 733,
+                    "url": "/cfp/speaker/733",
+                    "name": "David Ram\u00edrez"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T15:00:00",
+        "end": "2025-03-06T15:30:00",
+        "url": "/cfp/schedule/talk/9",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T150000",
+            "end_google": "20250306T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1500",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T15:00:00",
+        "end": "2025-03-06T15:30:00",
+        "url": "/cfp/schedule/talk/74",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T150000",
+            "end_google": "20250306T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1500",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 21,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted21",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T15:00:00",
+        "end": "2025-03-06T15:30:00",
+        "url": "/cfp/schedule/talk/20",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T150000",
+            "end_google": "20250306T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1500",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted19",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T15:00:00",
+        "end": "2025-03-06T15:30:00",
+        "url": "/cfp/schedule/talk/35",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T150000",
+            "end_google": "20250306T153000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1500",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "criptored",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso - comida",
+        "start": "2025-03-06T15:20:00",
+        "end": "2025-03-06T16:30:00",
+        "url": "/cfp/schedule/talk/62",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T152000",
+            "end_google": "20250306T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1520",
+            "duration_yahoo": "1.166666666666666710.0",
+            "description": "Descanso - comida",
+            "description_web": "Descanso+-+comida",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "protocolo286",
+        "className": "ebreak"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-06T15:30:00",
+        "end": "2025-03-06T16:30:00",
+        "url": "/cfp/schedule/talk/10",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T153000",
+            "end_google": "20250306T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1530",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "VAPASEC",
+        "start": "2025-03-06T15:30:00",
+        "end": "2025-03-06T16:00:00",
+        "url": "/cfp/schedule/talk/75",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T153000",
+            "end_google": "20250306T160000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1530",
+            "duration_yahoo": "0.530.0",
+            "description": "VAPASEC",
+            "description_web": "VAPASEC",
+            "room": 21,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 541,
+                    "url": "/cfp/speaker/541",
+                    "name": "Pablo San Emeterio"
+                }
+            ]
+        },
+        "resourceId": "rooted21",
+        "className": "erooted"
+    },
+    {
+        "title": "Ojo cl\u00ednico y mente fr\u00eda: experiencia, retos y lecciones aprendidas",
+        "start": "2025-03-06T15:30:00",
+        "end": "2025-03-06T16:30:00",
+        "url": "/cfp/schedule/talk/207",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T153000",
+            "end_google": "20250306T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1530",
+            "duration_yahoo": "1.00.0",
+            "description": "En esta charla, los expertos forenses de EyeSight comentar\u00e1n casos y experiencias reales desde el punto de vista de los peritos inform\u00e1ticos, a lo largo de todo el ciclo de vida de la pericial inform\u00e1tica, es decir, desde la identificaci\u00f3n y adquisici\u00f3n de evidencias hasta la ratificaci\u00f3n en tribunales.",
+            "description_web": "En+esta+charla%2C+los+expertos+forenses+de+EyeSight+comentar%C3%A1n+casos+y+experiencias+reales+desde+el+punto+de+vista+de+los+peritos+inform%C3%A1ticos%2C+a+lo+largo+de+todo+el+ciclo+de+vida+de+la+pericial+inform%C3%A1tica%2C+es+decir%2C+desde+la+identificaci%C3%B3n+y+adquisici%C3%B3n+de+evidencias+hasta+la+ratificaci%C3%B3n+en+tribunales.",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 832,
+                    "url": "/cfp/speaker/832",
+                    "name": "Jordi Linares"
+                },
+                {
+                    "id": 831,
+                    "url": "/cfp/speaker/831",
+                    "name": "Joan Tous Nadal"
+                }
+            ]
+        },
+        "resourceId": "dfir",
+        "className": "edfir"
+    },
+    {
+        "title": "La supuesta inmutabilidad del blockchain y el derecho al olvido",
+        "start": "2025-03-06T15:30:00",
+        "end": "2025-03-06T16:30:00",
+        "url": "/cfp/schedule/talk/21",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T153000",
+            "end_google": "20250306T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1530",
+            "duration_yahoo": "1.00.0",
+            "description": "En esta ponencia comenzaremos por explicar los principales malentendidos y medias verdades que suelen rodear a la tecnolog\u00eda blockchain. Uno de los problemas a los que se enfrentan los tratamientos de datos personales construidos con esta tecnolog\u00eda es que no se suelen tener en cuenta requisitos para garantizar y poder demostrar el cumplimiento del RGPD. En muchos casos no se incorpora protecci\u00f3n de datos desde el dise\u00f1o porque se piensa o se argumenta que no es posible hacerlo, dados los equ\u00edvocos ya mencionados. Un ejemplo muy claro es el del derecho al olvido, dada la supuesta inmutabilidad del blockchain. La imposibilidad t\u00e9cnica, incluso si fuera cierta, no justificar\u00eda no proteger adecuadamente los derechos y libertades de los ciudadanos. Pero en este caso dicha imposibilidad no existe. En esta ponencia explicaremos c\u00f3mo es posible dise\u00f1ar e implementar tratamientos de datos personales basados en blockchain que permitan a los responsables de los tratamientos cumplir con todas sus obligaciones y mostraremos una prueba de concepto desarrollada con Ethereum como ejemplo.",
+            "description_web": "En+esta+ponencia+comenzaremos+por+explicar+los+principales+malentendidos+y+medias+verdades+que+suelen+rodear+a+la+tecnolog%C3%ADa+blockchain.+Uno+de+los+problemas+a+los+que+se+enfrentan+los+tratamientos+de+datos+personales+construidos+con+esta+tecnolog%C3%ADa+es+que+no+se+suelen+tener+en+cuenta+requisitos+para+garantizar+y+poder+demostrar+el+cumplimiento+del+RGPD.+En+muchos+casos+no+se+incorpora+protecci%C3%B3n+de+datos+desde+el+dise%C3%B1o+porque+se+piensa+o+se+argumenta+que+no+es+posible+hacerlo%2C+dados+los+equ%C3%ADvocos+ya+mencionados.+Un+ejemplo+muy+claro+es+el+del+derecho+al+olvido%2C+dada+la+supuesta+inmutabilidad+del+blockchain.+La+imposibilidad+t%C3%A9cnica%2C+incluso+si+fuera+cierta%2C+no+justificar%C3%ADa+no+proteger+adecuadamente+los+derechos+y+libertades+de+los+ciudadanos.+Pero+en+este+caso+dicha+imposibilidad+no+existe.+En+esta+ponencia+explicaremos+c%C3%B3mo+es+posible+dise%C3%B1ar+e+implementar+tratamientos+de+datos+personales+basados+en+blockchain+que+permitan+a+los+responsables+de+los+tratamientos+cumplir+con+todas+sus+obligaciones+y+mostraremos+una+prueba+de+concepto+desarrollada+con+Ethereum+como+ejemplo.",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 774,
+                    "url": "/cfp/speaker/774",
+                    "name": "Marta Beltr\u00e1n"
+                },
+                {
+                    "id": 775,
+                    "url": "/cfp/speaker/775",
+                    "name": "Arturo Brazal Aragon"
+                }
+            ]
+        },
+        "resourceId": "rooted19",
+        "className": "erooted"
+    },
+    {
+        "title": "Pivoting and Privilege Escalation in the real world: from user to Domain Admin",
+        "start": "2025-03-06T15:30:00",
+        "end": "2025-03-06T16:00:00",
+        "url": "/cfp/schedule/talk/36",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T153000",
+            "end_google": "20250306T160000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1530",
+            "duration_yahoo": "0.530.0",
+            "description": "Pivoting and Privilege Escalation in the real world: from user to Domain Admin",
+            "description_web": "Pivoting+and+Privilege+Escalation+in+the+real+world%3A+from+user+to+Domain+Admin",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 843,
+                    "url": "/cfp/speaker/843",
+                    "name": "V\u00edctor Nieves"
+                },
+                {
+                    "id": 844,
+                    "url": "/cfp/speaker/844",
+                    "name": "Jonathan Nebot"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Active Directory: El eslab\u00f3n cr\u00edtico en la ciberseguridad corporativa",
+        "start": "2025-03-06T15:30:00",
+        "end": "2025-03-06T16:00:00",
+        "url": "/cfp/schedule/talk/50",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T153000",
+            "end_google": "20250306T160000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1530",
+            "duration_yahoo": "0.530.0",
+            "description": "Auditoria de AD pero orientada a C-Level.",
+            "description_web": "Auditoria+de+AD+pero+orientada+a+C-Level.",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 779,
+                    "url": "/cfp/speaker/779",
+                    "name": "Alex Amor\u00edn"
+                }
+            ]
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "Suscriptocracia: Benditas malditas suscripciones",
+        "start": "2025-03-06T16:00:00",
+        "end": "2025-03-06T16:30:00",
+        "url": "/cfp/schedule/talk/76",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T160000",
+            "end_google": "20250306T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1600",
+            "duration_yahoo": "0.530.0",
+            "description": "\u00bfRecuerdas la \u00faltima vez que compraste un CD? Millones de personas tampoco. En s\u00f3lo una generaci\u00f3n, hemos asistido a una profunda transformaci\u00f3n. Los consumidores ya no quieren tanto poseer cosas como poder acceder a ellas. Donde sea, como sea y cuando sea.\r\nLos gigantes tecnol\u00f3gicos han orquestado la gran revoluci\u00f3n de las suscripciones. Desde Netflix, que cambi\u00f3 nuestra forma de disfrutar de pel\u00edculas y series, hasta Microsoft, que transform\u00f3 Office en un servicio en la nube; desde Spotify, que dej\u00f3 obsoletas las bibliotecas musicales, hasta HP, que reinvent\u00f3 el negocio de las impresoras. Todas esas empresas (y muchas m\u00e1s) se han dado cuenta de que el modelo de suscripci\u00f3n es maravilloso para ellas. Para los consumidores, no tanto. \u00bfHemos cambiado la propiedad por algo mejor o, sin saberlo, hemos alquilado nuestro futuro?",
+            "description_web": "%C2%BFRecuerdas+la+%C3%BAltima+vez+que+compraste+un+CD%3F+Millones+de+personas+tampoco.+En+s%C3%B3lo+una+generaci%C3%B3n%2C+hemos+asistido+a+una+profunda+transformaci%C3%B3n.+Los+consumidores+ya+no+quieren+tanto+poseer+cosas+como+poder+acceder+a+ellas.+Donde+sea%2C+como+sea+y+cuando+sea.%0D%0ALos+gigantes+tecnol%C3%B3gicos+han+orquestado+la+gran+revoluci%C3%B3n+de+las+suscripciones.+Desde+Netflix%2C+que+cambi%C3%B3+nuestra+forma+de+disfrutar+de+pel%C3%ADculas+y+series%2C+hasta+Microsoft%2C+que+transform%C3%B3+Office+en+un+servicio+en+la+nube%3B+desde+Spotify%2C+que+dej%C3%B3+obsoletas+las+bibliotecas+musicales%2C+hasta+HP%2C+que+reinvent%C3%B3+el+negocio+de+las+impresoras.+Todas+esas+empresas+%28y+muchas+m%C3%A1s%29+se+han+dado+cuenta+de+que+el+modelo+de+suscripci%C3%B3n+es+maravilloso+para+ellas.+Para+los+consumidores%2C+no+tanto.+%C2%BFHemos+cambiado+la+propiedad+por+algo+mejor+o%2C+sin+saberlo%2C+hemos+alquilado+nuestro+futuro%3F",
+            "room": 21,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 866,
+                    "url": "/cfp/speaker/866",
+                    "name": "Javier Pastor"
+                }
+            ]
+        },
+        "resourceId": "rooted21",
+        "className": "erooted"
+    },
+    {
+        "title": "Socarrat en mi Raspberry Pi: aunque rasques, no podr\u00e1s borrar estos ficheros",
+        "start": "2025-03-06T16:00:00",
+        "end": "2025-03-06T16:30:00",
+        "url": "/cfp/schedule/talk/37",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T160000",
+            "end_google": "20250306T163000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1600",
+            "duration_yahoo": "0.530.0",
+            "description": "Socarrat en mi Raspberry Pi: aunque rasques, no podr\u00e1s borrar estos ficheros",
+            "description_web": "Socarrat+en+mi+Raspberry+Pi%3A+aunque+rasques%2C+no+podr%C3%A1s+borrar+estos+ficheros",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 682,
+                    "url": "/cfp/speaker/682",
+                    "name": "Enrique Soriano-Salvador"
+                },
+                {
+                    "id": 139,
+                    "url": "/cfp/speaker/139",
+                    "name": "Speaker 2"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Orchestrated Insecurity: Breaking Down Common Container Vulnerabilities",
+        "start": "2025-03-06T16:00:00",
+        "end": "2025-03-06T16:45:00",
+        "url": "/cfp/schedule/talk/54",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T160000",
+            "end_google": "20250306T164500",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1600",
+            "duration_yahoo": "0.7545.0",
+            "description": "Auditoria de Contenedores, vulnerabilidades m\u00e1s comunes y remediaciones",
+            "description_web": "Auditoria+de+Contenedores%2C+vulnerabilidades+m%C3%A1s+comunes+y+remediaciones",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 635,
+                    "url": "/cfp/speaker/635",
+                    "name": "Jose Mar\u00eda  Pulgar Guti\u00e9rrez"
+                },
+                {
+                    "id": 697,
+                    "url": "/cfp/speaker/697",
+                    "name": "Carlos Polop"
+                }
+            ]
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "En proceso",
+        "start": "2025-03-06T16:30:00",
+        "end": "2025-03-06T17:30:00",
+        "url": "/cfp/schedule/talk/11",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T163000",
+            "end_google": "20250306T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1630",
+            "duration_yahoo": "1.00.0",
+            "description": "En proceso",
+            "description_web": "En+proceso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "EXTRACTING THE SPICE: ATACANDO EL N\u00daCLEO DE UNA RED 5G",
+        "start": "2025-03-06T16:30:00",
+        "end": "2025-03-06T17:30:00",
+        "url": "/cfp/schedule/talk/77",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T163000",
+            "end_google": "20250306T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1630",
+            "duration_yahoo": "1.00.0",
+            "description": "La charla pretende exponer, desde la experiencia de Ethon Shield, una visi\u00f3n de la seguridad en el n\u00facleo de las redes 5G, una pieza clave para el funcionamiento y la seguridad de las comunicaciones m\u00f3viles de \u00faltima generaci\u00f3n. En primer lugar, se presenta la arquitectura del n\u00facleo 5G como su definici\u00f3n te\u00f3rica, para posteriormente abordar c\u00f3mo se estructura y opera el n\u00facleo en el contexto de una operadora, poniendo de manifiesto su complejidad y detallando las tecnolog\u00edas de las que hace uso (virtualizaci\u00f3n, orquestaci\u00f3n de contenedores, etc) Seguidamente se exponen consideraciones de seguridad que tener en cuenta al proteger en n\u00facleo de una red 5G, las cuales no se abordaron en generaciones anteriores. Junto con los retos de seguridad asociados a la arquitectura 5G, se exponen diferentes escenarios por los que un atacante podr\u00eda ganar acceso al n\u00facleo de la red. La \u00faltima parte de la charla consiste en presentar una metodolog\u00eda que podr\u00eda ser utilizada por un atacante con acceso al n\u00facleo de la red para intentar comprometer su seguridad en todas las dimensiones de esta. Para ilustrar esta metodolog\u00eda, se utilizar\u00e1n breves demostraciones haciendo uso de una herramienta propia sobre una implementaci\u00f3n de un n\u00facleo de red 5G de c\u00f3digo abierto (OpenAirInterface), aunque dichas demostraciones ser\u00edan extrapolables a una implementaci\u00f3n comercial de la red. La charla concluye ofreciendo una visi\u00f3n actual de la seguridad en redes 5G y presentando diferentes v\u00edas para reforzar la seguridad de estos entornos cr\u00edticos en el futuro.",
+            "description_web": "La+charla+pretende+exponer%2C+desde+la+experiencia+de+Ethon+Shield%2C+una+visi%C3%B3n+de+la+seguridad+en+el+n%C3%BAcleo+de+las+redes+5G%2C+una+pieza+clave+para+el+funcionamiento+y+la+seguridad+de+las+comunicaciones+m%C3%B3viles+de+%C3%BAltima+generaci%C3%B3n.+En+primer+lugar%2C+se+presenta+la+arquitectura+del+n%C3%BAcleo+5G+como+su+definici%C3%B3n+te%C3%B3rica%2C+para+posteriormente+abordar+c%C3%B3mo+se+estructura+y+opera+el+n%C3%BAcleo+en+el+contexto+de+una+operadora%2C+poniendo+de+manifiesto+su+complejidad+y+detallando+las+tecnolog%C3%ADas+de+las+que+hace+uso+%28virtualizaci%C3%B3n%2C+orquestaci%C3%B3n+de+contenedores%2C+etc%29+Seguidamente+se+exponen+consideraciones+de+seguridad+que+tener+en+cuenta+al+proteger+en+n%C3%BAcleo+de+una+red+5G%2C+las+cuales+no+se+abordaron+en+generaciones+anteriores.+Junto+con+los+retos+de+seguridad+asociados+a+la+arquitectura+5G%2C+se+exponen+diferentes+escenarios+por+los+que+un+atacante+podr%C3%ADa+ganar+acceso+al+n%C3%BAcleo+de+la+red.+La+%C3%BAltima+parte+de+la+charla+consiste+en+presentar+una+metodolog%C3%ADa+que+podr%C3%ADa+ser+utilizada+por+un+atacante+con+acceso+al+n%C3%BAcleo+de+la+red+para+intentar+comprometer+su+seguridad+en+todas+las+dimensiones+de+esta.+Para+ilustrar+esta+metodolog%C3%ADa%2C+se+utilizar%C3%A1n+breves+demostraciones+haciendo+uso+de+una+herramienta+propia+sobre+una+implementaci%C3%B3n+de+un+n%C3%BAcleo+de+red+5G+de+c%C3%B3digo+abierto+%28OpenAirInterface%29%2C+aunque+dichas+demostraciones+ser%C3%ADan+extrapolables+a+una+implementaci%C3%B3n+comercial+de+la+red.+La+charla+concluye+ofreciendo+una+visi%C3%B3n+actual+de+la+seguridad+en+redes+5G+y+presentando+diferentes+v%C3%ADas+para+reforzar+la+seguridad+de+estos+entornos+cr%C3%ADticos+en+el+futuro.",
+            "room": 21,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 760,
+                    "url": "/cfp/speaker/760",
+                    "name": "Javier Valero"
+                }
+            ]
+        },
+        "resourceId": "rooted21",
+        "className": "erooted"
+    },
+    {
+        "title": "Project Melissa: From Taking Down Blogs to Developing Decryptors",
+        "start": "2025-03-06T16:30:00",
+        "end": "2025-03-06T17:30:00",
+        "url": "/cfp/schedule/talk/208",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T163000",
+            "end_google": "20250306T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1630",
+            "duration_yahoo": "1.00.0",
+            "description": "Expertos del grupo de investigaci\u00f3n Sector 7 (Pa\u00edses Bajos) presentar\u00e1n casos de \u00e9xito del Proyecto Melissa, una colaboraci\u00f3n entre empresas y fuerzas de seguridad neerlandesas. Destacar\u00e1n operaciones clave, como el cierre del foro Genesis y el desarrollo de un descifrador para el ransomware DoNex/DarkRace\r\n\r\n(INGL\u00c9S) (ENGLISH)",
+            "description_web": "Expertos+del+grupo+de+investigaci%C3%B3n+Sector+7+%28Pa%C3%ADses+Bajos%29+presentar%C3%A1n+casos+de+%C3%A9xito+del+Proyecto+Melissa%2C+una+colaboraci%C3%B3n+entre+empresas+y+fuerzas+de+seguridad+neerlandesas.+Destacar%C3%A1n+operaciones+clave%2C+como+el+cierre+del+foro+Genesis+y+el+desarrollo+de+un+descifrador+para+el+ransomware+DoNex%2FDarkRace%0D%0A%0D%0A%28INGL%C3%89S%29+%28ENGLISH%29",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 884,
+                    "url": "/cfp/speaker/884",
+                    "name": "Thijs Alkemade"
+                }
+            ]
+        },
+        "resourceId": "dfir",
+        "className": "edfir"
+    },
+    {
+        "title": "Modern linux backd00ring",
+        "start": "2025-03-06T16:30:00",
+        "end": "2025-03-06T17:30:00",
+        "url": "/cfp/schedule/talk/22",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T163000",
+            "end_google": "20250306T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1630",
+            "duration_yahoo": "1.00.0",
+            "description": "La ponencia versa sobre m\u00e9todos y t\u00e9cnicas avanzadas para ocultar backdoors en sistemas operativos Linux, obviando las partes obvias y ya previamente documentadas, para avanzar en t\u00e9cnicas poco conocidas o de uso restringido. Tambi\u00e9n se tocar\u00e1 eBFP como herramienta ofensiva. Se presentar\u00e1n las siguientes herramientas no antes publicadas: 1- Herramienta para realizar inyecci\u00f3n de librer\u00edas sin usar ptrace y otras t\u00e9cnicas de uso com\u00fan 2- Herramienta de tipo backdoor denominada 'Asenino' que usa t\u00e9cnicas de ocultaci\u00f3n forense avanzadas, payloads 'fileless', m\u00faltiples formas de uso (standalone, lib)",
+            "description_web": "La+ponencia+versa+sobre+m%C3%A9todos+y+t%C3%A9cnicas+avanzadas+para+ocultar+backdoors+en+sistemas+operativos+Linux%2C+obviando+las+partes+obvias+y+ya+previamente+documentadas%2C+para+avanzar+en+t%C3%A9cnicas+poco+conocidas+o+de+uso+restringido.+Tambi%C3%A9n+se+tocar%C3%A1+eBFP+como+herramienta+ofensiva.+Se+presentar%C3%A1n+las+siguientes+herramientas+no+antes+publicadas%3A+1-+Herramienta+para+realizar+inyecci%C3%B3n+de+librer%C3%ADas+sin+usar+ptrace+y+otras+t%C3%A9cnicas+de+uso+com%C3%BAn+2-+Herramienta+de+tipo+backdoor+denominada+%27Asenino%27+que+usa+t%C3%A9cnicas+de+ocultaci%C3%B3n+forense+avanzadas%2C+payloads+%27fileless%27%2C+m%C3%BAltiples+formas+de+uso+%28standalone%2C+lib%29",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 763,
+                    "url": "/cfp/speaker/763",
+                    "name": "Yago Jesus"
+                }
+            ]
+        },
+        "resourceId": "rooted19",
+        "className": "erooted"
+    },
+    {
+        "title": "Losing Your Keys Is Fine\u2026 If Your Wallet Has a Brain",
+        "start": "2025-03-06T16:30:00",
+        "end": "2025-03-06T17:00:00",
+        "url": "/cfp/schedule/talk/38",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T163000",
+            "end_google": "20250306T170000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1630",
+            "duration_yahoo": "0.530.0",
+            "description": "Overview This talk will dive into the fascinating world of account abstraction and smart contract wallets, exploring how these innovations are reshaping the way we interact with cryptocurrencies. We'll challenge the traditional dependency on private keys\u2014because honestly, who hasn\u2019t panicked about losing one?\u2014and highlight how smart wallets equipped with programmable logic can handle security, recovery, and user experience in ways that were previously unimaginable. Think of it as your wallet finally getting the brains it always needed. Key Topics What Is Account Abstraction? A quick primer on EIP-4337 and how it enables the creation of smart wallets without the limitations of traditional EOAs (Externally Owned Accounts). Why account abstraction is the secret ingredient for making Web3 adoption as simple as buying coffee\u2014well, almost. Smart Contract Wallets: The Wallets That Think Key features like social recovery, spending limits, multi-sig operations, and customizable access control. How these wallets reduce the risks of losing funds due to lost keys or, let\u2019s face it, human error. Solving Real-World Problems How account abstraction and smart contract wallets tackle common pain points: Forgetting private keys. Managing high-value transactions securely. Improving accessibility for your non-tech-savvy friend who just learned about Bitcoin yesterday. Practical use cases: wallets for law enforcement, corporate accounts, and subscription-based payments. (Yes, even Netflix could get smarter with this tech.) The Technical Magic Behind It How EntryPoint contracts and userOp objects work in account abstraction. Gas efficiency and operational challenges\u2014who pays, how, and why. A sneak peek at future advancements in this field, because we all like to dream a little. Why It Matters Smart contract wallets aren\u2019t just a technical improvement; they are a paradigm shift in how we view cryptocurrency ownership, security, and usability. This talk will demonstrate how these wallets can become a bridge between crypto enthusiasts and mainstream users, eliminating the fear of losing private keys and enhancing user control. In other words, we\u2019re talking about wallets that finally have your back. Takeaways for the Audience By the end of the session, attendees will: Understand the mechanics and benefits of account abstraction. See how smart contract wallets improve the crypto ecosystem. Gain insight into the technical challenges and opportunities of implementing these solutions. And as always, walk away with something useful, something funny, and (hopefully) the realization that maybe your wallet should be smarter than you.",
+            "description_web": "Overview+This+talk+will+dive+into+the+fascinating+world+of+account+abstraction+and+smart+contract+wallets%2C+exploring+how+these+innovations+are+reshaping+the+way+we+interact+with+cryptocurrencies.+We%27ll+challenge+the+traditional+dependency+on+private+keys%E2%80%94because+honestly%2C+who+hasn%E2%80%99t+panicked+about+losing+one%3F%E2%80%94and+highlight+how+smart+wallets+equipped+with+programmable+logic+can+handle+security%2C+recovery%2C+and+user+experience+in+ways+that+were+previously+unimaginable.+Think+of+it+as+your+wallet+finally+getting+the+brains+it+always+needed.+Key+Topics+What+Is+Account+Abstraction%3F+A+quick+primer+on+EIP-4337+and+how+it+enables+the+creation+of+smart+wallets+without+the+limitations+of+traditional+EOAs+%28Externally+Owned+Accounts%29.+Why+account+abstraction+is+the+secret+ingredient+for+making+Web3+adoption+as+simple+as+buying+coffee%E2%80%94well%2C+almost.+Smart+Contract+Wallets%3A+The+Wallets+That+Think+Key+features+like+social+recovery%2C+spending+limits%2C+multi-sig+operations%2C+and+customizable+access+control.+How+these+wallets+reduce+the+risks+of+losing+funds+due+to+lost+keys+or%2C+let%E2%80%99s+face+it%2C+human+error.+Solving+Real-World+Problems+How+account+abstraction+and+smart+contract+wallets+tackle+common+pain+points%3A+Forgetting+private+keys.+Managing+high-value+transactions+securely.+Improving+accessibility+for+your+non-tech-savvy+friend+who+just+learned+about+Bitcoin+yesterday.+Practical+use+cases%3A+wallets+for+law+enforcement%2C+corporate+accounts%2C+and+subscription-based+payments.+%28Yes%2C+even+Netflix+could+get+smarter+with+this+tech.%29+The+Technical+Magic+Behind+It+How+EntryPoint+contracts+and+userOp+objects+work+in+account+abstraction.+Gas+efficiency+and+operational+challenges%E2%80%94who+pays%2C+how%2C+and+why.+A+sneak+peek+at+future+advancements+in+this+field%2C+because+we+all+like+to+dream+a+little.+Why+It+Matters+Smart+contract+wallets+aren%E2%80%99t+just+a+technical+improvement%3B+they+are+a+paradigm+shift+in+how+we+view+cryptocurrency+ownership%2C+security%2C+and+usability.+This+talk+will+demonstrate+how+these+wallets+can+become+a+bridge+between+crypto+enthusiasts+and+mainstream+users%2C+eliminating+the+fear+of+losing+private+keys+and+enhancing+user+control.+In+other+words%2C+we%E2%80%99re+talking+about+wallets+that+finally+have+your+back.+Takeaways+for+the+Audience+By+the+end+of+the+session%2C+attendees+will%3A+Understand+the+mechanics+and+benefits+of+account+abstraction.+See+how+smart+contract+wallets+improve+the+crypto+ecosystem.+Gain+insight+into+the+technical+challenges+and+opportunities+of+implementing+these+solutions.+And+as+always%2C+walk+away+with+something+useful%2C+something+funny%2C+and+%28hopefully%29+the+realization+that+maybe+your+wallet+should+be+smarter+than+you.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 684,
+                    "url": "/cfp/speaker/684",
+                    "name": "Manu  Fernandez"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "[LEA RESTRICTED] - Colaboraci\u00f3n privado-privada e intercambio de Intel",
+        "start": "2025-03-06T16:30:00",
+        "end": "2025-03-06T17:00:00",
+        "url": "/cfp/schedule/talk/63",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T163000",
+            "end_google": "20250306T170000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1630",
+            "duration_yahoo": "0.530.0",
+            "description": "[LEA RESTRICTED] - Colaboraci\u00f3n privado-privada e intercambio de Intel",
+            "description_web": "%5BLEA+RESTRICTED%5D+-+Colaboraci%C3%B3n+privado-privada+e+intercambio+de+Intel",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 692,
+                    "url": "/cfp/speaker/692",
+                    "name": "Marc Rivero L\u00f3pez"
+                }
+            ]
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "LLM Security Audits 101: The Good, the Bad, and\u00a0the\u00a0Broken",
+        "start": "2025-03-06T16:45:00",
+        "end": "2025-03-06T17:30:00",
+        "url": "/cfp/schedule/talk/53",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T164500",
+            "end_google": "20250306T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1645",
+            "duration_yahoo": "0.7545.0",
+            "description": "Pautas para auditar LLM.",
+            "description_web": "Pautas+para+auditar+LLM.",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 782,
+                    "url": "/cfp/speaker/782",
+                    "name": "Javier del Pino"
+                }
+            ]
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "Practical Threat Detection and Remediation in the Cloud",
+        "start": "2025-03-06T17:00:00",
+        "end": "2025-03-06T17:30:00",
+        "url": "/cfp/schedule/talk/39",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T170000",
+            "end_google": "20250306T173000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1700",
+            "duration_yahoo": "0.530.0",
+            "description": "Practical Threat Detection and Remediation in the Cloud",
+            "description_web": "Practical+Threat+Detection+and+Remediation+in+the+Cloud",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 389,
+                    "url": "/cfp/speaker/389",
+                    "name": "Toni de la Fuente"
+                },
+                {
+                    "id": 864,
+                    "url": "/cfp/speaker/864",
+                    "name": "Rub\u00e9n De la Torre Vico"
+                },
+                {
+                    "id": 865,
+                    "url": "/cfp/speaker/865",
+                    "name": "Sergio Garcia"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "[LEA RESTRICTED] - Ransomware Hunting: Grupos activos, TTP's y tendencias",
+        "start": "2025-03-06T17:00:00",
+        "end": "2025-03-06T18:00:00",
+        "url": "/cfp/schedule/talk/64",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T170000",
+            "end_google": "20250306T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1700",
+            "duration_yahoo": "1.00.0",
+            "description": "[LEA RESTRICTED] - Ransomware Hunting: Grupos activos, TTP's y tendencias",
+            "description_web": "%5BLEA+RESTRICTED%5D+-+Ransomware+Hunting%3A+Grupos+activos%2C+TTP%27s+y+tendencias",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 887,
+                    "url": "/cfp/speaker/887",
+                    "name": "Daniel Creus"
+                }
+            ]
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T17:30:00",
+        "end": "2025-03-06T18:00:00",
+        "url": "/cfp/schedule/talk/12",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T173000",
+            "end_google": "20250306T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T17:30:00",
+        "end": "2025-03-06T18:00:00",
+        "url": "/cfp/schedule/talk/78",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T173000",
+            "end_google": "20250306T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 21,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted21",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T17:30:00",
+        "end": "2025-03-06T18:00:00",
+        "url": "/cfp/schedule/talk/209",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T173000",
+            "end_google": "20250306T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "dfir",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T17:30:00",
+        "end": "2025-03-06T18:00:00",
+        "url": "/cfp/schedule/talk/23",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T173000",
+            "end_google": "20250306T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "rooted19",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T17:30:00",
+        "end": "2025-03-06T18:00:00",
+        "url": "/cfp/schedule/talk/40",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T173000",
+            "end_google": "20250306T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "criptored",
+        "className": "ebreak"
+    },
+    {
+        "title": "Descanso",
+        "start": "2025-03-06T17:30:00",
+        "end": "2025-03-06T18:00:00",
+        "url": "/cfp/schedule/talk/55",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T173000",
+            "end_google": "20250306T180000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1730",
+            "duration_yahoo": "0.530.0",
+            "description": "Descanso",
+            "description_web": "Descanso",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "BREAK",
+            "speakers": []
+        },
+        "resourceId": "isaca",
+        "className": "ebreak"
+    },
+    {
+        "title": "From RCE to Owned: An AWS Tale",
+        "start": "2025-03-06T18:00:00",
+        "end": "2025-03-06T19:00:00",
+        "url": "/cfp/schedule/talk/13",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T180000",
+            "end_google": "20250306T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1800",
+            "duration_yahoo": "1.00.0",
+            "description": "Se abre el tel\u00f3n y aparece un RCE en una aplicaci\u00f3n desplegada en AWS. \u00bfC\u00f3mo se llama la pel\u00edcula?\r\n\r\nAcompa\u00f1adnos en una intrusi\u00f3n en caja negra de una organizaci\u00f3n con una fuerte dependencia de Amazon Web Services, donde detallaremos el proceso que nos llevar\u00e1 a revelar sus secretos (literalmente).\r\n\r\nDesde un simple hallazgo en una aplicaci\u00f3n web hasta tomar el control de la cuenta, os ofrecemos una demostraci\u00f3n pr\u00e1ctica de nuestras t\u00e9cnicas favoritas en AWS, abusando de errores de configuraci\u00f3n observados en una organizaci\u00f3n real.\r\n\r\nCoged unas palomitas, adoptad una posici\u00f3n claramente no ergon\u00f3mica, y disfrutad del espect\u00e1culo.",
+            "description_web": "Se+abre+el+tel%C3%B3n+y+aparece+un+RCE+en+una+aplicaci%C3%B3n+desplegada+en+AWS.+%C2%BFC%C3%B3mo+se+llama+la+pel%C3%ADcula%3F%0D%0A%0D%0AAcompa%C3%B1adnos+en+una+intrusi%C3%B3n+en+caja+negra+de+una+organizaci%C3%B3n+con+una+fuerte+dependencia+de+Amazon+Web+Services%2C+donde+detallaremos+el+proceso+que+nos+llevar%C3%A1+a+revelar+sus+secretos+%28literalmente%29.%0D%0A%0D%0ADesde+un+simple+hallazgo+en+una+aplicaci%C3%B3n+web+hasta+tomar+el+control+de+la+cuenta%2C+os+ofrecemos+una+demostraci%C3%B3n+pr%C3%A1ctica+de+nuestras+t%C3%A9cnicas+favoritas+en+AWS%2C+abusando+de+errores+de+configuraci%C3%B3n+observados+en+una+organizaci%C3%B3n+real.%0D%0A%0D%0ACoged+unas+palomitas%2C+adoptad+una+posici%C3%B3n+claramente+no+ergon%C3%B3mica%2C+y+disfrutad+del+espect%C3%A1culo.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 882,
+                    "url": "/cfp/speaker/882",
+                    "name": "\u00c1lvaro Villaverde Prado"
+                },
+                {
+                    "id": 883,
+                    "url": "/cfp/speaker/883",
+                    "name": "Andr\u00e9s Botica Manzano"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "From hardware to kernel: T\u00e9cnicas avanzadas en entornos Windows",
+        "start": "2025-03-06T18:00:00",
+        "end": "2025-03-06T19:00:00",
+        "url": "/cfp/schedule/talk/79",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T180000",
+            "end_google": "20250306T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1800",
+            "duration_yahoo": "1.00.0",
+            "description": "En el transcurso de nuestras operaciones de Red Team hemos enfocado nuestra investigaci\u00f3n en mejorar y desarrollar t\u00e9cnicas que permitan acceso directo a la memoria f\u00edsica de los dispositivos, as\u00ed como mecanismos que habiliten la ejecuci\u00f3n con los m\u00e1ximos privilegios (Kernel-mode). Esta charla se centra en presentar el estado del arte de estas t\u00e9cnicas, explorando enfoques innovadores y metodolog\u00edas que hemos perfeccionado en los \u00faltimos a\u00f1os. Entre los temas que abordaremos se encuentran: Evasi\u00f3n de sistemas de detecci\u00f3n y respuesta (EDR) mediante primitivas de acceso f\u00edsico a memoria. Extracci\u00f3n de credenciales en entornos Windows con mitigaciones activas. An\u00e1lisis y explotaci\u00f3n de dispositivos mediante acceso directo a memoria (DMA). T\u00e9cnicas de post-explotaci\u00f3n en sistemas Windows. Esta presentaci\u00f3n est\u00e1 orientada a profesionales de ciberseguridad interesados en las \u00faltimas t\u00e9cnicas de Red Teaming y las amenazas emergentes a nivel de hardware y software. Ofreceremos demostraciones pr\u00e1cticas y se compartir\u00e1 con la audiencia herramientas y m\u00e9todos que pueden ser aplicados en multiples \u00e1mbitos. Se trata de una charla eminentemente t\u00e9cnica.",
+            "description_web": "En+el+transcurso+de+nuestras+operaciones+de+Red+Team+hemos+enfocado+nuestra+investigaci%C3%B3n+en+mejorar+y+desarrollar+t%C3%A9cnicas+que+permitan+acceso+directo+a+la+memoria+f%C3%ADsica+de+los+dispositivos%2C+as%C3%AD+como+mecanismos+que+habiliten+la+ejecuci%C3%B3n+con+los+m%C3%A1ximos+privilegios+%28Kernel-mode%29.+Esta+charla+se+centra+en+presentar+el+estado+del+arte+de+estas+t%C3%A9cnicas%2C+explorando+enfoques+innovadores+y+metodolog%C3%ADas+que+hemos+perfeccionado+en+los+%C3%BAltimos+a%C3%B1os.+Entre+los+temas+que+abordaremos+se+encuentran%3A+Evasi%C3%B3n+de+sistemas+de+detecci%C3%B3n+y+respuesta+%28EDR%29+mediante+primitivas+de+acceso+f%C3%ADsico+a+memoria.+Extracci%C3%B3n+de+credenciales+en+entornos+Windows+con+mitigaciones+activas.+An%C3%A1lisis+y+explotaci%C3%B3n+de+dispositivos+mediante+acceso+directo+a+memoria+%28DMA%29.+T%C3%A9cnicas+de+post-explotaci%C3%B3n+en+sistemas+Windows.+Esta+presentaci%C3%B3n+est%C3%A1+orientada+a+profesionales+de+ciberseguridad+interesados+en+las+%C3%BAltimas+t%C3%A9cnicas+de+Red+Teaming+y+las+amenazas+emergentes+a+nivel+de+hardware+y+software.+Ofreceremos+demostraciones+pr%C3%A1cticas+y+se+compartir%C3%A1+con+la+audiencia+herramientas+y+m%C3%A9todos+que+pueden+ser+aplicados+en+multiples+%C3%A1mbitos.+Se+trata+de+una+charla+eminentemente+t%C3%A9cnica.",
+            "room": 21,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 669,
+                    "url": "/cfp/speaker/669",
+                    "name": "Borja Martinez"
+                },
+                {
+                    "id": 670,
+                    "url": "/cfp/speaker/670",
+                    "name": "Alejandro Hernando"
+                }
+            ]
+        },
+        "resourceId": "rooted21",
+        "className": "erooted"
+    },
+    {
+        "title": "Workshop T\u00e9cnico Hands-On - SOC Survivor Game",
+        "start": "2025-03-06T18:00:00",
+        "end": "2025-03-06T19:30:00",
+        "url": "/cfp/schedule/talk/210",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T180000",
+            "end_google": "20250306T193000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1800",
+            "duration_yahoo": "1.530.0",
+            "description": "\u00a1Despierta tu instinto competitivo y demuestra tu talento en los SOC Survivor Games!\r\n\r\nSum\u00e9rgete en una experiencia inmersiva dise\u00f1ada para entusiastas de operaciones de seguridad, donde pondr\u00e1s a prueba tus habilidades en respuesta a incidentes e investigaci\u00f3n de amenazas avanzadas. Enfr\u00e9ntate a adversarios simulados en un entorno controlado y desaf\u00eda tu capacidad anal\u00edtica con compromisos basados en TTPs reales de atacantes.\r\n\r\nLo \u00fanico que necesitas es tu ordenador y una mentalidad de investigador. \u00bfEst\u00e1s listo para el reto?",
+            "description_web": "%C2%A1Despierta+tu+instinto+competitivo+y+demuestra+tu+talento+en+los+SOC+Survivor+Games%21%0D%0A%0D%0ASum%C3%A9rgete+en+una+experiencia+inmersiva+dise%C3%B1ada+para+entusiastas+de+operaciones+de+seguridad%2C+donde+pondr%C3%A1s+a+prueba+tus+habilidades+en+respuesta+a+incidentes+e+investigaci%C3%B3n+de+amenazas+avanzadas.+Enfr%C3%A9ntate+a+adversarios+simulados+en+un+entorno+controlado+y+desaf%C3%ADa+tu+capacidad+anal%C3%ADtica+con+compromisos+basados+en+TTPs+reales+de+atacantes.%0D%0A%0D%0ALo+%C3%BAnico+que+necesitas+es+tu+ordenador+y+una+mentalidad+de+investigador.+%C2%BFEst%C3%A1s+listo+para+el+reto%3F",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 833,
+                    "url": "/cfp/speaker/833",
+                    "name": "Rub\u00e9n Franco"
+                }
+            ]
+        },
+        "resourceId": "dfir",
+        "className": "edfir"
+    },
+    {
+        "title": "Ataque a la cadena de subministro de Hezbollah, los buscas explosivos",
+        "start": "2025-03-06T18:00:00",
+        "end": "2025-03-06T19:00:00",
+        "url": "/cfp/schedule/talk/24",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T180000",
+            "end_google": "20250306T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1800",
+            "duration_yahoo": "1.00.0",
+            "description": "Esta charla analizar\u00e1 las t\u00e1cticas, t\u00e9cnicas y procedimientos que habr\u00edan sido empleados por Israel para infiltrarse y sabotear una de las principales v\u00edas de comunicaci\u00f3n de Hezbollah en L\u00edbano: los buscas (pagers). Se profundiza en c\u00f3mo se llev\u00f3 a cabo un ataque a la cadena de suministro para sustituir o manipular componentes de hardware, as\u00ed como en las modificaciones de firmware que permitieron integrar cargas explosivas en las bater\u00edas de estos dispositivos. A lo largo de la presentaci\u00f3n, se detallar\u00e1 la secuencia t\u00e9cnica que posibilit\u00f3 la infiltraci\u00f3n: desde la adquisici\u00f3n y adulteraci\u00f3n de componentes en puntos cr\u00edticos de la log\u00edstica, hasta el hardware hacking requerido para camuflar explosivos en un elemento tan cotidiano como la bater\u00eda. Tambi\u00e9n se abordar\u00e1n las t\u00e9cnicas de ingenier\u00eda inversa y ajuste de firmware que se utilizaron para activar la detonaci\u00f3n de forma remota y sincronizada, evitando la detecci\u00f3n por parte de los sistemas de seguridad de Hezbollah.",
+            "description_web": "Esta+charla+analizar%C3%A1+las+t%C3%A1cticas%2C+t%C3%A9cnicas+y+procedimientos+que+habr%C3%ADan+sido+empleados+por+Israel+para+infiltrarse+y+sabotear+una+de+las+principales+v%C3%ADas+de+comunicaci%C3%B3n+de+Hezbollah+en+L%C3%ADbano%3A+los+buscas+%28pagers%29.+Se+profundiza+en+c%C3%B3mo+se+llev%C3%B3+a+cabo+un+ataque+a+la+cadena+de+suministro+para+sustituir+o+manipular+componentes+de+hardware%2C+as%C3%AD+como+en+las+modificaciones+de+firmware+que+permitieron+integrar+cargas+explosivas+en+las+bater%C3%ADas+de+estos+dispositivos.+A+lo+largo+de+la+presentaci%C3%B3n%2C+se+detallar%C3%A1+la+secuencia+t%C3%A9cnica+que+posibilit%C3%B3+la+infiltraci%C3%B3n%3A+desde+la+adquisici%C3%B3n+y+adulteraci%C3%B3n+de+componentes+en+puntos+cr%C3%ADticos+de+la+log%C3%ADstica%2C+hasta+el+hardware+hacking+requerido+para+camuflar+explosivos+en+un+elemento+tan+cotidiano+como+la+bater%C3%ADa.+Tambi%C3%A9n+se+abordar%C3%A1n+las+t%C3%A9cnicas+de+ingenier%C3%ADa+inversa+y+ajuste+de+firmware+que+se+utilizaron+para+activar+la+detonaci%C3%B3n+de+forma+remota+y+sincronizada%2C+evitando+la+detecci%C3%B3n+por+parte+de+los+sistemas+de+seguridad+de+Hezbollah.",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 678,
+                    "url": "/cfp/speaker/678",
+                    "name": "andres soriano"
+                },
+                {
+                    "id": 679,
+                    "url": "/cfp/speaker/679",
+                    "name": "Javier Rodr\u00edguez"
+                }
+            ]
+        },
+        "resourceId": "rooted19",
+        "className": "erooted"
+    },
+    {
+        "title": "\u00bfCreen en Dios los LLMS? Reflexiones sobre moral y obediencia en la IA",
+        "start": "2025-03-06T18:00:00",
+        "end": "2025-03-06T18:30:00",
+        "url": "/cfp/schedule/talk/41",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T180000",
+            "end_google": "20250306T183000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1800",
+            "duration_yahoo": "0.530.0",
+            "description": "\u00bfCreen en Dios los LLMS? Reflexiones sobre moral y obediencia en la IA",
+            "description_web": "%C2%BFCreen+en+Dios+los+LLMS%3F+Reflexiones+sobre+moral+y+obediencia+en+la+IA",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 837,
+                    "url": "/cfp/speaker/837",
+                    "name": "Jordi Murg\u00f3"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Mesa redonda: Ciberseguridad industrial: El reto de auditar sin interrumpir",
+        "start": "2025-03-06T18:00:00",
+        "end": "2025-03-06T19:00:00",
+        "url": "/cfp/schedule/talk/56",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T180000",
+            "end_google": "20250306T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1800",
+            "duration_yahoo": "1.00.0",
+            "description": "Mesa redonda. El objetivo es hablar de la realidad en las auditorias de OT desde un enfoque pr\u00e1ctico.",
+            "description_web": "Mesa+redonda.+El+objetivo+es+hablar+de+la+realidad+en+las+auditorias+de+OT+desde+un+enfoque+pr%C3%A1ctico.",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 874,
+                    "url": "/cfp/speaker/874",
+                    "name": "Erik de Pablo"
+                },
+                {
+                    "id": 876,
+                    "url": "/cfp/speaker/876",
+                    "name": "Manuel Baallesteros"
+                },
+                {
+                    "id": 877,
+                    "url": "/cfp/speaker/877",
+                    "name": "Enrique Miranda"
+                },
+                {
+                    "id": 878,
+                    "url": "/cfp/speaker/878",
+                    "name": "Nacho Garc\u00eda Egea"
+                },
+                {
+                    "id": 783,
+                    "url": "/cfp/speaker/783",
+                    "name": "Juan Jos\u00e9  Nombela"
+                },
+                {
+                    "id": 781,
+                    "url": "/cfp/speaker/781",
+                    "name": "Ander Galisteo"
+                }
+            ]
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "[LEA RESTRICTED] - Hay vida mas all\u00e1 del uniforme......... modelos de carrera/trayectoria profesional",
+        "start": "2025-03-06T18:00:00",
+        "end": "2025-03-06T19:00:00",
+        "url": "/cfp/schedule/talk/65",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T180000",
+            "end_google": "20250306T190000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1800",
+            "duration_yahoo": "1.00.0",
+            "description": "[LEA RESTRICTED] - Hay vida mas all\u00e1 del uniforme......... modelos de carrera/trayectoria profesional",
+            "description_web": "%5BLEA+RESTRICTED%5D+-+Hay+vida+mas+all%C3%A1+del+uniforme.........+modelos+de+carrera%2Ftrayectoria+profesional",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 807,
+                    "url": "/cfp/speaker/807",
+                    "name": "RUBEN MORA FERNANDEZ"
+                }
+            ]
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "Pagers Body-Trapped: RF y vulnerabilidades en la cadena de suministro en los conflictos modernos",
+        "start": "2025-03-06T18:30:00",
+        "end": "2025-03-06T19:30:00",
+        "url": "/cfp/schedule/talk/42",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T183000",
+            "end_google": "20250306T193000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1830",
+            "duration_yahoo": "1.00.0",
+            "description": "Esta charla analiza c\u00f3mo las vulnerabilidades en la cadena de suministro y c\u00f3mo el uso de se\u00f1ales RF (con el protocolo POCSAG) pueden convertir dispositivos comunes, como pagers, en amenazas letales. Revisaremos el ataque a Hezbol\u00e1 donde miles de pagers explotaron en un mismo momento, atribuido a una posible alteraci\u00f3n de estos dispositivos en su proceso de fabricaci\u00f3n o distribuci\u00f3n, permitiendo su activaci\u00f3n remota, probablemente mediante se\u00f1ales RF. La sesi\u00f3n incluir\u00e1 una demostraci\u00f3n en vivo sobre c\u00f3mo un pager modificado podr\u00eda activarse remotamente para ilustrar posibles m\u00e9todos de sabotaje en dispositivos de comunicaci\u00f3n RF. La charla permitir\u00e1 comprender los riesgos de seguridad que persisten en dispositivos aparentemente obsoletos, al igual que las medidas necesarias para proteger la integridad en la cadena de suministro, evitando que estos dispositivos sean utilizados en ataques en entornos donde se requiera un alto nivel de seguridad. Por \u00faltimo, a modo de prueba de concepto, se mostrar\u00e1 el desarrollo de un pager casero utilizando hardware de bajo coste, con la capacidad de ser activado de forma remota y de generar una detonaci\u00f3n controlada.",
+            "description_web": "Esta+charla+analiza+c%C3%B3mo+las+vulnerabilidades+en+la+cadena+de+suministro+y+c%C3%B3mo+el+uso+de+se%C3%B1ales+RF+%28con+el+protocolo+POCSAG%29+pueden+convertir+dispositivos+comunes%2C+como+pagers%2C+en+amenazas+letales.+Revisaremos+el+ataque+a+Hezbol%C3%A1+donde+miles+de+pagers+explotaron+en+un+mismo+momento%2C+atribuido+a+una+posible+alteraci%C3%B3n+de+estos+dispositivos+en+su+proceso+de+fabricaci%C3%B3n+o+distribuci%C3%B3n%2C+permitiendo+su+activaci%C3%B3n+remota%2C+probablemente+mediante+se%C3%B1ales+RF.+La+sesi%C3%B3n+incluir%C3%A1+una+demostraci%C3%B3n+en+vivo+sobre+c%C3%B3mo+un+pager+modificado+podr%C3%ADa+activarse+remotamente+para+ilustrar+posibles+m%C3%A9todos+de+sabotaje+en+dispositivos+de+comunicaci%C3%B3n+RF.+La+charla+permitir%C3%A1+comprender+los+riesgos+de+seguridad+que+persisten+en+dispositivos+aparentemente+obsoletos%2C+al+igual+que+las+medidas+necesarias+para+proteger+la+integridad+en+la+cadena+de+suministro%2C+evitando+que+estos+dispositivos+sean+utilizados+en+ataques+en+entornos+donde+se+requiera+un+alto+nivel+de+seguridad.+Por+%C3%BAltimo%2C+a+modo+de+prueba+de+concepto%2C+se+mostrar%C3%A1+el+desarrollo+de+un+pager+casero+utilizando+hardware+de+bajo+coste%2C+con+la+capacidad+de+ser+activado+de+forma+remota+y+de+generar+una+detonaci%C3%B3n+controlada.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 680,
+                    "url": "/cfp/speaker/680",
+                    "name": "Joel Serna"
+                },
+                {
+                    "id": 681,
+                    "url": "/cfp/speaker/681",
+                    "name": "David Marug\u00e1n"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Dark Territory II: paralizando la red ferroviaria de alta velocidad",
+        "start": "2025-03-06T19:00:00",
+        "end": "2025-03-06T20:00:00",
+        "url": "/cfp/schedule/talk/4",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T190000",
+            "end_google": "20250306T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1900",
+            "duration_yahoo": "1.00.0",
+            "description": "Tras la investigaci\u00f3n sobre c\u00f3mo explotar el sistema ASFA de una red ferroviaria, abusando de sus balizas, se presentar\u00e1 la \u00faltima fase de este proyecto exponiendo c\u00f3mo se pueden fabricar balizas falsas, y probarlas con los dispositivos presentados el a\u00f1o pasado.\r\n\r\nAs\u00ed mismo, esta vez se abordar\u00e1 la posibilidad de repetir el proceso para el sistema ETCS/ERMTS europeo, que sirve como est\u00e1ndar interoperable para toda Europa, actualmente implantado, principalmente en las l\u00edneas de alta velocidad, y en unas pocas de velocidad convencional.\r\n\r\nCon estas dos aproximaciones, tendremos cubiertos pr\u00e1cticamente la totalidad de casos de uso actuales utilizados en la red europea.",
+            "description_web": "Tras+la+investigaci%C3%B3n+sobre+c%C3%B3mo+explotar+el+sistema+ASFA+de+una+red+ferroviaria%2C+abusando+de+sus+balizas%2C+se+presentar%C3%A1+la+%C3%BAltima+fase+de+este+proyecto+exponiendo+c%C3%B3mo+se+pueden+fabricar+balizas+falsas%2C+y+probarlas+con+los+dispositivos+presentados+el+a%C3%B1o+pasado.%0D%0A%0D%0AAs%C3%AD+mismo%2C+esta+vez+se+abordar%C3%A1+la+posibilidad+de+repetir+el+proceso+para+el+sistema+ETCS%2FERMTS+europeo%2C+que+sirve+como+est%C3%A1ndar+interoperable+para+toda+Europa%2C+actualmente+implantado%2C+principalmente+en+las+l%C3%ADneas+de+alta+velocidad%2C+y+en+unas+pocas+de+velocidad+convencional.%0D%0A%0D%0ACon+estas+dos+aproximaciones%2C+tendremos+cubiertos+pr%C3%A1cticamente+la+totalidad+de+casos+de+uso+actuales+utilizados+en+la+red+europea.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 730,
+                    "url": "/cfp/speaker/730",
+                    "name": "David Mel\u00e9ndez Cano"
+                },
+                {
+                    "id": 755,
+                    "url": "/cfp/speaker/755",
+                    "name": "Gabs Garc\u00eda"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
+    },
+    {
+        "title": "Lintriage: La herramienta para el DFIRer en Linux",
+        "start": "2025-03-06T19:00:00",
+        "end": "2025-03-06T20:00:00",
+        "url": "/cfp/schedule/talk/80",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T190000",
+            "end_google": "20250306T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1900",
+            "duration_yahoo": "1.00.0",
+            "description": "En 2019 present\u00e9 en RootedCON un mecanismo desarrollado en Secur\u00edzame que permit\u00eda llevar a cabo la extracci\u00f3n de evidencias desde un sistema Linux teniendo en cuenta los conceptos de good binaries y good libraries. Ten\u00eda una complejidad bastante elevada de ejecuci\u00f3n, por lo que me promet\u00ed mejorarlo. En 2020 present\u00e9 Wintriage, herramienta para DFIR en Windows que desde el minuto 1 hice libre para que la comunidad pueda usarla en sus investigaciones. En 2024 quiero presentar Lintriage, por fin una herramienta de uso libre, que automatiza de forma SENCILLA y ESCALABLE la adquisici\u00f3n de evidencias forenses desde sistemas Linux, ya sea en local o en la nube. Mi intenci\u00f3n es publicar y liberar la descarga de la herramienta tras la ponencia en RootedCON, si esta es aceptada.",
+            "description_web": "En+2019+present%C3%A9+en+RootedCON+un+mecanismo+desarrollado+en+Secur%C3%ADzame+que+permit%C3%ADa+llevar+a+cabo+la+extracci%C3%B3n+de+evidencias+desde+un+sistema+Linux+teniendo+en+cuenta+los+conceptos+de+good+binaries+y+good+libraries.+Ten%C3%ADa+una+complejidad+bastante+elevada+de+ejecuci%C3%B3n%2C+por+lo+que+me+promet%C3%AD+mejorarlo.+En+2020+present%C3%A9+Wintriage%2C+herramienta+para+DFIR+en+Windows+que+desde+el+minuto+1+hice+libre+para+que+la+comunidad+pueda+usarla+en+sus+investigaciones.+En+2024+quiero+presentar+Lintriage%2C+por+fin+una+herramienta+de+uso+libre%2C+que+automatiza+de+forma+SENCILLA+y+ESCALABLE+la+adquisici%C3%B3n+de+evidencias+forenses+desde+sistemas+Linux%2C+ya+sea+en+local+o+en+la+nube.+Mi+intenci%C3%B3n+es+publicar+y+liberar+la+descarga+de+la+herramienta+tras+la+ponencia+en+RootedCON%2C+si+esta+es+aceptada.",
+            "room": 21,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 762,
+                    "url": "/cfp/speaker/762",
+                    "name": "Lorenzo Mart\u00ednez Rodr\u00edguez"
+                }
+            ]
+        },
+        "resourceId": "rooted21",
+        "className": "erooted"
+    },
+    {
+        "title": "DAST como nunca te lo hab\u00edan contado. Integrando ZAProxy en pruebas web",
+        "start": "2025-03-06T19:00:00",
+        "end": "2025-03-06T20:00:00",
+        "url": "/cfp/schedule/talk/25",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T190000",
+            "end_google": "20250306T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1900",
+            "duration_yahoo": "1.00.0",
+            "description": "Una de las etapas m\u00e1s desafiantes dentro del Ciclo de Desarrollo Seguro de Software (SSDLC) es la implementaci\u00f3n de pruebas din\u00e1micas de seguridad de aplicaciones (DAST). En esta charla, proponemos una nueva visi\u00f3n para abordar esta fase cr\u00edtica, transform\u00e1ndola en un proceso m\u00e1s eficiente y accesible al integrarlo directamente con las pruebas web desarrolladas por los equipos de Calidad Software. La necesidad de contar con un proceso robusto de pruebas din\u00e1micas de seguridad y que, adem\u00e1s, sea f\u00e1cilmente adoptado por los equipos de calidad de software, ha sido el motor de esta investigaci\u00f3n. Para ello, se fusionar\u00e1n dos conceptos clave: las pruebas web automatizadas con Selenium y la herramienta de pruebas din\u00e1micas de seguridad ZAProxy. Habitualmente, el proceso de configuraci\u00f3n de herramientas de an\u00e1lisis din\u00e1mico requiere un an\u00e1lisis previo de URLs a atacar y la configuraci\u00f3n de los procesos de autenticaci\u00f3n, entre otros. Incluso ZAProxy recomienda el uso de su \"Spider\" para detectar las URLs a analizar. Sin embargo, en esta charla, proponemos un enfoque diferente: - \u00bfTenemos pruebas web que cubren la funcionalidad de la aplicaci\u00f3n? S\u00ed. - \u00bfContamos con un entorno de ejecuci\u00f3n adecuado? S\u00ed. - Entonces, \u00bfser\u00eda necesario realizar toda la configuraci\u00f3n inicial tradicional? No. La clave de esta propuesta es permitir que el ZAProxy se conecte directamente con el navegador donde se ejecutan las pruebas. Este enfoque ofrece m\u00faltiples ventajas: - An\u00e1lisis por funcionalidad: Cada prueba web se asocia a una funcionalidad espec\u00edfica, lo que nos permite aislar vulnerabilidades de distinta criticidad relacionadas con una funcionalidad particular y obtener adem\u00e1s una visi\u00f3n m\u00e1s precisa de la superficie de ataque. - Simplicidad: Lo \u00fanico que necesitamos es indicar el proxy sobre el que vamos a levantar ZAProxy en la configuraci\u00f3n de las capabilities del navegador - Prevenci\u00f3n: Integrar las pruebas din\u00e1micas dentro de un flujo consolidado de pruebas nos proporciona retroalimentaci\u00f3n temprana sobre vulnerabilidades, permitiendo identificar posibles problemas de seguridad desde las primeras fases del ciclo de desarrollo. Finalmente, en la \u00faltima parte de la charla, se comparar\u00e1n los resultados obtenidos utilizando el enfoque tradicional (escaneo spider de URLs con la herramienta) frente a los resultados derivados de ejecutar las pruebas web con Selenium y ZAProxy, tanto en un an\u00e1lisis pasivo como activo. El objetivo es consolidar todos los conceptos propuestos y demostrar que un planteamiento alternativo en las pruebas din\u00e1micas de seguridad no solo es viable, sino tambi\u00e9n m\u00e1s eficiente y pr\u00e1ctico.",
+            "description_web": "Una+de+las+etapas+m%C3%A1s+desafiantes+dentro+del+Ciclo+de+Desarrollo+Seguro+de+Software+%28SSDLC%29+es+la+implementaci%C3%B3n+de+pruebas+din%C3%A1micas+de+seguridad+de+aplicaciones+%28DAST%29.+En+esta+charla%2C+proponemos+una+nueva+visi%C3%B3n+para+abordar+esta+fase+cr%C3%ADtica%2C+transform%C3%A1ndola+en+un+proceso+m%C3%A1s+eficiente+y+accesible+al+integrarlo+directamente+con+las+pruebas+web+desarrolladas+por+los+equipos+de+Calidad+Software.+La+necesidad+de+contar+con+un+proceso+robusto+de+pruebas+din%C3%A1micas+de+seguridad+y+que%2C+adem%C3%A1s%2C+sea+f%C3%A1cilmente+adoptado+por+los+equipos+de+calidad+de+software%2C+ha+sido+el+motor+de+esta+investigaci%C3%B3n.+Para+ello%2C+se+fusionar%C3%A1n+dos+conceptos+clave%3A+las+pruebas+web+automatizadas+con+Selenium+y+la+herramienta+de+pruebas+din%C3%A1micas+de+seguridad+ZAProxy.+Habitualmente%2C+el+proceso+de+configuraci%C3%B3n+de+herramientas+de+an%C3%A1lisis+din%C3%A1mico+requiere+un+an%C3%A1lisis+previo+de+URLs+a+atacar+y+la+configuraci%C3%B3n+de+los+procesos+de+autenticaci%C3%B3n%2C+entre+otros.+Incluso+ZAProxy+recomienda+el+uso+de+su+%22Spider%22+para+detectar+las+URLs+a+analizar.+Sin+embargo%2C+en+esta+charla%2C+proponemos+un+enfoque+diferente%3A+-+%C2%BFTenemos+pruebas+web+que+cubren+la+funcionalidad+de+la+aplicaci%C3%B3n%3F+S%C3%AD.+-+%C2%BFContamos+con+un+entorno+de+ejecuci%C3%B3n+adecuado%3F+S%C3%AD.+-+Entonces%2C+%C2%BFser%C3%ADa+necesario+realizar+toda+la+configuraci%C3%B3n+inicial+tradicional%3F+No.+La+clave+de+esta+propuesta+es+permitir+que+el+ZAProxy+se+conecte+directamente+con+el+navegador+donde+se+ejecutan+las+pruebas.+Este+enfoque+ofrece+m%C3%BAltiples+ventajas%3A+-+An%C3%A1lisis+por+funcionalidad%3A+Cada+prueba+web+se+asocia+a+una+funcionalidad+espec%C3%ADfica%2C+lo+que+nos+permite+aislar+vulnerabilidades+de+distinta+criticidad+relacionadas+con+una+funcionalidad+particular+y+obtener+adem%C3%A1s+una+visi%C3%B3n+m%C3%A1s+precisa+de+la+superficie+de+ataque.+-+Simplicidad%3A+Lo+%C3%BAnico+que+necesitamos+es+indicar+el+proxy+sobre+el+que+vamos+a+levantar+ZAProxy+en+la+configuraci%C3%B3n+de+las+capabilities+del+navegador+-+Prevenci%C3%B3n%3A+Integrar+las+pruebas+din%C3%A1micas+dentro+de+un+flujo+consolidado+de+pruebas+nos+proporciona+retroalimentaci%C3%B3n+temprana+sobre+vulnerabilidades%2C+permitiendo+identificar+posibles+problemas+de+seguridad+desde+las+primeras+fases+del+ciclo+de+desarrollo.+Finalmente%2C+en+la+%C3%BAltima+parte+de+la+charla%2C+se+comparar%C3%A1n+los+resultados+obtenidos+utilizando+el+enfoque+tradicional+%28escaneo+spider+de+URLs+con+la+herramienta%29+frente+a+los+resultados+derivados+de+ejecutar+las+pruebas+web+con+Selenium+y+ZAProxy%2C+tanto+en+un+an%C3%A1lisis+pasivo+como+activo.+El+objetivo+es+consolidar+todos+los+conceptos+propuestos+y+demostrar+que+un+planteamiento+alternativo+en+las+pruebas+din%C3%A1micas+de+seguridad+no+solo+es+viable%2C+sino+tambi%C3%A9n+m%C3%A1s+eficiente+y+pr%C3%A1ctico.",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 671,
+                    "url": "/cfp/speaker/671",
+                    "name": "Sara Mart\u00ednez Giner"
+                }
+            ]
+        },
+        "resourceId": "rooted19",
+        "className": "erooted"
+    },
+    {
+        "title": "Mesa redonda: M\u00e1s all\u00e1 del checkbox: Auditor\u00eda real de cumplimiento en la nueva era regulatoria",
+        "start": "2025-03-06T19:00:00",
+        "end": "2025-03-06T20:00:00",
+        "url": "/cfp/schedule/talk/161",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T190000",
+            "end_google": "20250306T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1900",
+            "duration_yahoo": "1.00.0",
+            "description": "Mesa redonda sobre las nuevas regulaciones y como tienen que adaptarse las empresas y los departamentos de auditoria a ellas.\r\n\r\n<b>Modera: Juan Gald\u00f3n</b>",
+            "description_web": "Mesa+redonda+sobre+las+nuevas+regulaciones+y+como+tienen+que+adaptarse+las+empresas+y+los+departamentos+de+auditoria+a+ellas.%0D%0A%0D%0A%3Cb%3EModera%3A+Juan+Gald%C3%B3n%3C%2Fb%3E",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 780,
+                    "url": "/cfp/speaker/780",
+                    "name": "Juan Gald\u00f3n"
+                },
+                {
+                    "id": 853,
+                    "url": "/cfp/speaker/853",
+                    "name": "Cristina Bausa"
+                },
+                {
+                    "id": 854,
+                    "url": "/cfp/speaker/854",
+                    "name": "Andr\u00e9s Porras Garc\u00eda"
+                },
+                {
+                    "id": 856,
+                    "url": "/cfp/speaker/856",
+                    "name": "Xavier Sanz i Vives"
+                },
+                {
+                    "id": 857,
+                    "url": "/cfp/speaker/857",
+                    "name": "Guillermo Mart\u00edn"
+                },
+                {
+                    "id": 886,
+                    "url": "/cfp/speaker/886",
+                    "name": "Josune Charola"
+                }
+            ]
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "[LEA RESTRICTED] Coloquio libre",
+        "start": "2025-03-06T19:00:00",
+        "end": "2025-03-06T19:30:00",
+        "url": "/cfp/schedule/talk/67",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T190000",
+            "end_google": "20250306T193000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1900",
+            "duration_yahoo": "0.530.0",
+            "description": "[LEA RESTRICTED] Coloquio libre",
+            "description_web": "%5BLEA+RESTRICTED%5D+Coloquio+libre",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "Filtraciones, extorsi\u00f3n y descargas: Gu\u00eda de supervivencia en los Data Leak Sites",
+        "start": "2025-03-06T19:30:00",
+        "end": "2025-03-06T20:30:00",
+        "url": "/cfp/schedule/talk/211",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T193000",
+            "end_google": "20250306T203000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1930",
+            "duration_yahoo": "1.00.0",
+            "description": "En esta charla nos adentraremos en el mundo de los Data Leak Sites (DLS), los portales donde los Threat Actors publican informaci\u00f3n exfiltrada para extorsionar a sus v\u00edctimas. Analizaremos los diferentes tipos de DLS que existen, c\u00f3mo operan estos actores en la Dark Web, los plazos que manejan para la filtraci\u00f3n de datos y los mecanismos que podemos emplear para acceder a informaci\u00f3n relevante de forma r\u00e1pida. Adem\u00e1s, exploraremos qu\u00e9 detalles clave pueden ayudarnos a dirigir una investigaci\u00f3n de ciberinteligencia de manera efectiva.",
+            "description_web": "En+esta+charla+nos+adentraremos+en+el+mundo+de+los+Data+Leak+Sites+%28DLS%29%2C+los+portales+donde+los+Threat+Actors+publican+informaci%C3%B3n+exfiltrada+para+extorsionar+a+sus+v%C3%ADctimas.+Analizaremos+los+diferentes+tipos+de+DLS+que+existen%2C+c%C3%B3mo+operan+estos+actores+en+la+Dark+Web%2C+los+plazos+que+manejan+para+la+filtraci%C3%B3n+de+datos+y+los+mecanismos+que+podemos+emplear+para+acceder+a+informaci%C3%B3n+relevante+de+forma+r%C3%A1pida.+Adem%C3%A1s%2C+exploraremos+qu%C3%A9+detalles+clave+pueden+ayudarnos+a+dirigir+una+investigaci%C3%B3n+de+ciberinteligencia+de+manera+efectiva.",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 828,
+                    "url": "/cfp/speaker/828",
+                    "name": "Sebas Kanj Bongard"
+                }
+            ]
+        },
+        "resourceId": "dfir",
+        "className": "edfir"
+    },
+    {
+        "title": "Caos y orden II: generaci\u00f3n de n\u00fameros aleatorios",
+        "start": "2025-03-06T19:30:00",
+        "end": "2025-03-06T20:00:00",
+        "url": "/cfp/schedule/talk/43",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T193000",
+            "end_google": "20250306T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1930",
+            "duration_yahoo": "0.530.0",
+            "description": "El objetivo de esta charla es presentar algunos de los elementos fundamentales en el dise\u00f1o de los generadores de n\u00fameros aleatorios, haciendo especial hincapi\u00e9 en las fuentes de entrop\u00eda. A trav\u00e9s de diversos ejemplos se ilustrar\u00e1n temas como la diferencia entre fuentes f\u00edsicas y no f\u00edsicas, el concepto de entrop\u00eda, la importancia de medirla o las garant\u00edas de seguridad que ofrece cada uno de los distintos modelos, proporcionando una comparativa entre ellos. De entre los ejemplos propuestos se har\u00e1 especial \u00e9nfasis en la fuente de entrop\u00eda implementada en el n\u00facleo Linux, probablemente familiar para el espectador. Adem\u00e1s, se podr\u00e1n incluir ejemplos de fuentes de entrop\u00eda f\u00edsicas, como las que se encuentran t\u00edpicamente en los distintos procesadores del mercado, o fuentes m\u00e1s sofisticadas, como las basadas en fen\u00f3menos cu\u00e1nticos.",
+            "description_web": "El+objetivo+de+esta+charla+es+presentar+algunos+de+los+elementos+fundamentales+en+el+dise%C3%B1o+de+los+generadores+de+n%C3%BAmeros+aleatorios%2C+haciendo+especial+hincapi%C3%A9+en+las+fuentes+de+entrop%C3%ADa.+A+trav%C3%A9s+de+diversos+ejemplos+se+ilustrar%C3%A1n+temas+como+la+diferencia+entre+fuentes+f%C3%ADsicas+y+no+f%C3%ADsicas%2C+el+concepto+de+entrop%C3%ADa%2C+la+importancia+de+medirla+o+las+garant%C3%ADas+de+seguridad+que+ofrece+cada+uno+de+los+distintos+modelos%2C+proporcionando+una+comparativa+entre+ellos.+De+entre+los+ejemplos+propuestos+se+har%C3%A1+especial+%C3%A9nfasis+en+la+fuente+de+entrop%C3%ADa+implementada+en+el+n%C3%BAcleo+Linux%2C+probablemente+familiar+para+el+espectador.+Adem%C3%A1s%2C+se+podr%C3%A1n+incluir+ejemplos+de+fuentes+de+entrop%C3%ADa+f%C3%ADsicas%2C+como+las+que+se+encuentran+t%C3%ADpicamente+en+los+distintos+procesadores+del+mercado%2C+o+fuentes+m%C3%A1s+sofisticadas%2C+como+las+basadas+en+fen%C3%B3menos+cu%C3%A1nticos.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 693,
+                    "url": "/cfp/speaker/693",
+                    "name": "Julio Negueruela"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "Despedida y cierre",
+        "start": "2025-03-06T19:30:00",
+        "end": "2025-03-06T20:00:00",
+        "url": "/cfp/schedule/talk/68",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T193000",
+            "end_google": "20250306T200000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1930",
+            "duration_yahoo": "0.530.0",
+            "description": "Despedida y cierre",
+            "description_web": "Despedida+y+cierre",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 846,
+                    "url": "/cfp/speaker/846",
+                    "name": "Cesar Lorenzana"
+                }
+            ]
+        },
+        "resourceId": "protocolo286",
+        "className": "eprotocolo286"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-06T20:00:00",
+        "end": "2025-03-06T23:00:00",
+        "url": "/cfp/schedule/talk/14",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T200000",
+            "end_google": "20250306T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "rooted25",
+        "className": "ebreak"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-06T20:00:00",
+        "end": "2025-03-06T23:00:00",
+        "url": "/cfp/schedule/talk/81",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T200000",
+            "end_google": "20250306T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 21,
+            "track": "ROOTED",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "rooted21",
+        "className": "ebreak"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-06T20:00:00",
+        "end": "2025-03-06T23:00:00",
+        "url": "/cfp/schedule/talk/26",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T200000",
+            "end_google": "20250306T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 19,
+            "track": "ROOTED",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "rooted19",
+        "className": "ebreak"
+    },
+    {
+        "title": "Mercenarios del Malware: Lumma Stealer y el Ascenso del MaaS en el Cibercrimen",
+        "start": "2025-03-06T20:00:00",
+        "end": "2025-03-06T20:30:00",
+        "url": "/cfp/schedule/talk/44",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T200000",
+            "end_google": "20250306T203000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2000",
+            "duration_yahoo": "0.530.0",
+            "description": "Lumma Stealer, tambi\u00e9n conocido como LummaC2, es un malware de tipo infostealer dise\u00f1ado para extraer una amplia gama de datos sensibles de dispositivos comprometidos. Este trabajo analiza su origen, evoluci\u00f3n, funcionalidades y las estrategias de distribuci\u00f3n, as\u00ed como el impacto de su modelo de malware-as-a-service (MaaS), que lo convierte en una herramienta accesible y altamente efectiva en el mercado clandestino. ## Origen y Desarrollo Lumma Stealer apareci\u00f3 en foros de habla rusa alrededor de agosto de 2022, creado por un actor de amenazas bajo el alias \"Shamel\" o \"Lumma\". Se distribuye en plataformas de Telegram y sitios web dedicados, donde su constante evoluci\u00f3n y actualizaciones lo han posicionado como un malware robusto y adaptable en el mercado MaaS. ## Funcionalidad Lumma Stealer destaca por su capacidad para robar informaci\u00f3n diversa y cr\u00edtica, incluyendo: - **Billeteras de criptomonedas** (configuraciones y logs de extensiones de navegador y aplicaciones independientes). - **Datos de navegadores web**, como contrase\u00f1as, cookies, historial de navegaci\u00f3n e informaci\u00f3n de formularios. - **Credenciales de correo electr\u00f3nico** y clientes FTP. - **Informaci\u00f3n financiera** y archivos del sistema. - **Datos de sistema**: nombre del PC, HWID, idioma, capturas de pantalla y software instalado. Estas caracter\u00edsticas lo hacen especialmente atractivo para actores maliciosos interesados en el robo financiero y el espionaje. ## Caracter\u00edsticas T\u00e9cnicas Desarrollado en C/C++, Lumma Stealer emplea t\u00e9cnicas avanzadas de evasi\u00f3n y anti-an\u00e1lisis para minimizar la detecci\u00f3n: - **Ofuscaci\u00f3n y cifrado AES-256** para ocultar sus cargas \u00fatiles y los datos exfiltrados. - **Inyecci\u00f3n en procesos leg\u00edtimos de Windows**, como *svchost.exe*, para ocultar su actividad y dificultar la detecci\u00f3n. - **Soporte continuo para nuevas billeteras de criptomonedas** y navegadores, gracias a actualizaciones regulares que permiten adaptarse a los cambios del entorno digital. Desde junio de 2023, LummaC2 ha incorporado un archivo de configuraci\u00f3n din\u00e1mico descargado del servidor de comando y control (C2), complicando a\u00fan m\u00e1s su an\u00e1lisis y permiti\u00e9ndole ajustar sus capacidades en tiempo real. ## Distribuci\u00f3n y Alcance Lumma Stealer se distribuye principalmente mediante correos electr\u00f3nicos de phishing y sitios web falsos que imitan servicios leg\u00edtimos, como plataformas de conversi\u00f3n de archivos. En su modalidad de infecci\u00f3n, el malware se presenta en archivos con extensiones enga\u00f1osas (*pdf.exe*) que se descargan al abrir el sitio web falso. Afecta a sistemas Windows desde Windows 7 hasta Windows 11 y es compatible con al menos 10 navegadores diferentes, como Chrome, Edge y Firefox. La naturaleza no dirigida de su vector de infecci\u00f3n le ha permitido propagarse globalmente, con especial incidencia en pa\u00edses como Brasil, India, Turqu\u00eda, Italia, Estados Unidos, Espa\u00f1a y Francia. ## Impacto Lumma Stealer representa un desaf\u00edo significativo para la seguridad de los sistemas Windows, destac\u00e1ndose por: - **Amplitud en la exfiltraci\u00f3n de datos**: robando informaci\u00f3n cr\u00edtica que incluye datos financieros, credenciales y archivos del sistema. - **T\u00e9cnicas avanzadas de evasi\u00f3n** que reducen su detecci\u00f3n y permiten la infecci\u00f3n prolongada de dispositivos. - **Modelo de negocio MaaS**, que facilita su adquisici\u00f3n y uso por m\u00faltiples actores maliciosos. - **Actualizaciones continuas**, lo que mantiene su relevancia en un ecosistema de amenazas en constante evoluci\u00f3n. El desarrollo de LummaC2, que parece estar dirigido por un solo individuo, subraya el alto grado de sofisticaci\u00f3n y dedicaci\u00f3n en el malware actual, destacando que incluso amenazas operadas por un \u00fanico desarrollador pueden tener un impacto significativo en la seguridad global. Este trabajo explora en profundidad las t\u00e9cnicas, el impacto y el potencial de crecimiento de Lumma Stealer, proporcionando a la comunidad de ciberseguridad informaci\u00f3n clave para comprender y mitigar sus amenazas. Este an\u00e1lisis ofrece un marco para que la comunidad de ciberseguridad identifique indicadores de compromiso (IoCs), entienda las t\u00e9cnicas de evasi\u00f3n empleadas por LummaC2 y desarrolle estrategias de prevenci\u00f3n efectivas frente a esta amenaza en constante evoluci\u00f3n.",
+            "description_web": "Lumma+Stealer%2C+tambi%C3%A9n+conocido+como+LummaC2%2C+es+un+malware+de+tipo+infostealer+dise%C3%B1ado+para+extraer+una+amplia+gama+de+datos+sensibles+de+dispositivos+comprometidos.+Este+trabajo+analiza+su+origen%2C+evoluci%C3%B3n%2C+funcionalidades+y+las+estrategias+de+distribuci%C3%B3n%2C+as%C3%AD+como+el+impacto+de+su+modelo+de+malware-as-a-service+%28MaaS%29%2C+que+lo+convierte+en+una+herramienta+accesible+y+altamente+efectiva+en+el+mercado+clandestino.+%23%23+Origen+y+Desarrollo+Lumma+Stealer+apareci%C3%B3+en+foros+de+habla+rusa+alrededor+de+agosto+de+2022%2C+creado+por+un+actor+de+amenazas+bajo+el+alias+%22Shamel%22+o+%22Lumma%22.+Se+distribuye+en+plataformas+de+Telegram+y+sitios+web+dedicados%2C+donde+su+constante+evoluci%C3%B3n+y+actualizaciones+lo+han+posicionado+como+un+malware+robusto+y+adaptable+en+el+mercado+MaaS.+%23%23+Funcionalidad+Lumma+Stealer+destaca+por+su+capacidad+para+robar+informaci%C3%B3n+diversa+y+cr%C3%ADtica%2C+incluyendo%3A+-+%2A%2ABilleteras+de+criptomonedas%2A%2A+%28configuraciones+y+logs+de+extensiones+de+navegador+y+aplicaciones+independientes%29.+-+%2A%2ADatos+de+navegadores+web%2A%2A%2C+como+contrase%C3%B1as%2C+cookies%2C+historial+de+navegaci%C3%B3n+e+informaci%C3%B3n+de+formularios.+-+%2A%2ACredenciales+de+correo+electr%C3%B3nico%2A%2A+y+clientes+FTP.+-+%2A%2AInformaci%C3%B3n+financiera%2A%2A+y+archivos+del+sistema.+-+%2A%2ADatos+de+sistema%2A%2A%3A+nombre+del+PC%2C+HWID%2C+idioma%2C+capturas+de+pantalla+y+software+instalado.+Estas+caracter%C3%ADsticas+lo+hacen+especialmente+atractivo+para+actores+maliciosos+interesados+en+el+robo+financiero+y+el+espionaje.+%23%23+Caracter%C3%ADsticas+T%C3%A9cnicas+Desarrollado+en+C%2FC%2B%2B%2C+Lumma+Stealer+emplea+t%C3%A9cnicas+avanzadas+de+evasi%C3%B3n+y+anti-an%C3%A1lisis+para+minimizar+la+detecci%C3%B3n%3A+-+%2A%2AOfuscaci%C3%B3n+y+cifrado+AES-256%2A%2A+para+ocultar+sus+cargas+%C3%BAtiles+y+los+datos+exfiltrados.+-+%2A%2AInyecci%C3%B3n+en+procesos+leg%C3%ADtimos+de+Windows%2A%2A%2C+como+%2Asvchost.exe%2A%2C+para+ocultar+su+actividad+y+dificultar+la+detecci%C3%B3n.+-+%2A%2ASoporte+continuo+para+nuevas+billeteras+de+criptomonedas%2A%2A+y+navegadores%2C+gracias+a+actualizaciones+regulares+que+permiten+adaptarse+a+los+cambios+del+entorno+digital.+Desde+junio+de+2023%2C+LummaC2+ha+incorporado+un+archivo+de+configuraci%C3%B3n+din%C3%A1mico+descargado+del+servidor+de+comando+y+control+%28C2%29%2C+complicando+a%C3%BAn+m%C3%A1s+su+an%C3%A1lisis+y+permiti%C3%A9ndole+ajustar+sus+capacidades+en+tiempo+real.+%23%23+Distribuci%C3%B3n+y+Alcance+Lumma+Stealer+se+distribuye+principalmente+mediante+correos+electr%C3%B3nicos+de+phishing+y+sitios+web+falsos+que+imitan+servicios+leg%C3%ADtimos%2C+como+plataformas+de+conversi%C3%B3n+de+archivos.+En+su+modalidad+de+infecci%C3%B3n%2C+el+malware+se+presenta+en+archivos+con+extensiones+enga%C3%B1osas+%28%2Apdf.exe%2A%29+que+se+descargan+al+abrir+el+sitio+web+falso.+Afecta+a+sistemas+Windows+desde+Windows+7+hasta+Windows+11+y+es+compatible+con+al+menos+10+navegadores+diferentes%2C+como+Chrome%2C+Edge+y+Firefox.+La+naturaleza+no+dirigida+de+su+vector+de+infecci%C3%B3n+le+ha+permitido+propagarse+globalmente%2C+con+especial+incidencia+en+pa%C3%ADses+como+Brasil%2C+India%2C+Turqu%C3%ADa%2C+Italia%2C+Estados+Unidos%2C+Espa%C3%B1a+y+Francia.+%23%23+Impacto+Lumma+Stealer+representa+un+desaf%C3%ADo+significativo+para+la+seguridad+de+los+sistemas+Windows%2C+destac%C3%A1ndose+por%3A+-+%2A%2AAmplitud+en+la+exfiltraci%C3%B3n+de+datos%2A%2A%3A+robando+informaci%C3%B3n+cr%C3%ADtica+que+incluye+datos+financieros%2C+credenciales+y+archivos+del+sistema.+-+%2A%2AT%C3%A9cnicas+avanzadas+de+evasi%C3%B3n%2A%2A+que+reducen+su+detecci%C3%B3n+y+permiten+la+infecci%C3%B3n+prolongada+de+dispositivos.+-+%2A%2AModelo+de+negocio+MaaS%2A%2A%2C+que+facilita+su+adquisici%C3%B3n+y+uso+por+m%C3%BAltiples+actores+maliciosos.+-+%2A%2AActualizaciones+continuas%2A%2A%2C+lo+que+mantiene+su+relevancia+en+un+ecosistema+de+amenazas+en+constante+evoluci%C3%B3n.+El+desarrollo+de+LummaC2%2C+que+parece+estar+dirigido+por+un+solo+individuo%2C+subraya+el+alto+grado+de+sofisticaci%C3%B3n+y+dedicaci%C3%B3n+en+el+malware+actual%2C+destacando+que+incluso+amenazas+operadas+por+un+%C3%BAnico+desarrollador+pueden+tener+un+impacto+significativo+en+la+seguridad+global.+Este+trabajo+explora+en+profundidad+las+t%C3%A9cnicas%2C+el+impacto+y+el+potencial+de+crecimiento+de+Lumma+Stealer%2C+proporcionando+a+la+comunidad+de+ciberseguridad+informaci%C3%B3n+clave+para+comprender+y+mitigar+sus+amenazas.+Este+an%C3%A1lisis+ofrece+un+marco+para+que+la+comunidad+de+ciberseguridad+identifique+indicadores+de+compromiso+%28IoCs%29%2C+entienda+las+t%C3%A9cnicas+de+evasi%C3%B3n+empleadas+por+LummaC2+y+desarrolle+estrategias+de+prevenci%C3%B3n+efectivas+frente+a+esta+amenaza+en+constante+evoluci%C3%B3n.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 692,
+                    "url": "/cfp/speaker/692",
+                    "name": "Marc Rivero L\u00f3pez"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-06T20:00:00",
+        "end": "2025-03-06T23:00:00",
+        "url": "/cfp/schedule/talk/70",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T200000",
+            "end_google": "20250306T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 17,
+            "track": "ISACA",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "isaca",
+        "className": "eisaca"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-06T20:00:00",
+        "end": "2025-03-06T23:00:00",
+        "url": "/cfp/schedule/talk/71",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T200000",
+            "end_google": "20250306T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2000",
+            "duration_yahoo": "3.00.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 16,
+            "track": "PROTOCOLO286",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "protocolo286",
+        "className": "ebreak"
+    },
+    {
+        "title": "Clausura y despedida",
+        "start": "2025-03-06T20:30:00",
+        "end": "2025-03-06T20:35:00",
+        "url": "/cfp/schedule/talk/212",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T203000",
+            "end_google": "20250306T203500",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2030",
+            "duration_yahoo": "0.083333333333333335.0",
+            "description": "Clausura y despedida por el equipo de INCIDE",
+            "description_web": "Clausura+y+despedida+por+el+equipo+de+INCIDE",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "TALK",
+            "speakers": []
+        },
+        "resourceId": "dfir",
+        "className": "edfir"
+    },
+    {
+        "title": "Despedida y Cierre",
+        "start": "2025-03-06T20:30:00",
+        "end": "2025-03-06T20:35:00",
+        "url": "/cfp/schedule/talk/45",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T203000",
+            "end_google": "20250306T203500",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2030",
+            "duration_yahoo": "0.083333333333333335.0",
+            "description": "Despedida y Cierre del track de Criptored.",
+            "description_web": "Despedida+y+Cierre+del+track+de+Criptored.",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 478,
+                    "url": "/cfp/speaker/478",
+                    "name": "Alfonso Mu\u00f1oz Mu\u00f1oz"
+                }
+            ]
+        },
+        "resourceId": "criptored",
+        "className": "ecriptored"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-06T20:35:00",
+        "end": "2025-03-06T23:00:00",
+        "url": "/cfp/schedule/talk/213",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T203500",
+            "end_google": "20250306T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2035",
+            "duration_yahoo": "2.416666666666666525.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 20,
+            "track": "DFIR",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "dfir",
+        "className": "ebreak"
+    },
+    {
+        "title": "FIESTA",
+        "start": "2025-03-06T20:35:00",
+        "end": "2025-03-06T23:00:00",
+        "url": "/cfp/schedule/talk/69",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T203500",
+            "end_google": "20250306T230000",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T2035",
+            "duration_yahoo": "2.416666666666666525.0",
+            "description": "FIESTA",
+            "description_web": "FIESTA",
+            "room": 18,
+            "track": "CRIPTORED",
+            "slot_type": "PARTY",
+            "speakers": []
+        },
+        "resourceId": "criptored",
+        "className": "ebreak"
+    }
+]

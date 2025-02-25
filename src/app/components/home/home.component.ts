@@ -22,9 +22,14 @@ export class HomeComponent {
   async ngOnInit() {
     try {
       [this.day1, this.day2, this.day3] = await Promise.all([
-        this.apiService.getEvents(new Date("2025-03-06"), new Date("2025-03-07")),
-        this.apiService.getEvents(new Date("2025-03-07"), new Date("2025-03-08")),
-        this.apiService.getEvents(new Date("2025-03-08"), new Date("2025-03-09")),
+        //this.apiService.getEvents(new Date("2025-03-06"), new Date("2025-03-07")),
+        //this.apiService.getEvents(new Date("2025-03-07"), new Date("2025-03-08")),
+        //this.apiService.getEvents(new Date("2025-03-08"), new Date("2025-03-09")),
+
+        this.getEvents('2025-03-06'),
+        this.getEvents('2025-03-07'),
+        this.getEvents('2025-03-08'),
+
       ]);
 
       // Extraer los objetos en diferentes arrays según su atributo rooms
@@ -40,5 +45,15 @@ export class HomeComponent {
     } catch (error) {
       console.error(error);
     }
+  }
+
+  async getEvents(date: string): Promise<any[]> {
+    const url = `${date}.json`; // Ajusta la URL para apuntar a la carpeta 'assets'
+    console.log('Fetching URL:', url); // Añade este log para verificar la URL
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
+    }
+    return response.json();
   }
 }
