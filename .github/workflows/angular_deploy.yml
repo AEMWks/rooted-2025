@@ -31,12 +31,14 @@ jobs:
       - name: CopyFile
         run: npm run copy-not-found
 
+      - name: List files
+        run: ls -R ./dist/angular_deploy/browser
+        
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-artifact@v4
         with:
           name: build-artifact
           path: ./dist/angular_deploy/browser
-          retention-days: 0
 
   deploy:
     needs: build
@@ -52,6 +54,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: build-artifact
+          path: ./dist/angular_deploy/browser
+
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v2.0.4
