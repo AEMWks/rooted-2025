@@ -28,7 +28,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
-          path: ./dist/${{ github.event.repository.name }}
+          path: './dist/${{ github.event.repository.name }}/browser/.'
 
   deploy:
     needs: build
