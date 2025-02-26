@@ -16,13 +16,13 @@ import { Route, Router } from '@angular/router';
 
 @Component({
   selector: 'app-home',
-  imports: [TimelineModule, 
-    CommonModule, 
-    CardModule, 
-    AccordionModule, 
+  imports: [TimelineModule,
+    CommonModule,
+    CardModule,
+    AccordionModule,
     FontAwesomeModule,
-     ButtonModule, 
-     ToastModule],
+    ButtonModule,
+    ToastModule],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss',
   providers: [MessageService]
@@ -60,7 +60,7 @@ export class HomeComponent {
 
       ]);
 
-      
+
     } catch (error) {
       console.error(error);
     }
@@ -71,8 +71,8 @@ export class HomeComponent {
 
     const exists = await this.indexedDBService.eventExists(event.title, this.tableEventsName);
     if (!exists) {
-      this.indexedDBService.addEvent(event, this.tableEventsName);
-      this.messageService.add({ severity: 'success', summary: 'Success', detail: 'Event added to favorites' });
+        this.indexedDBService.addEvent(event, this.tableEventsName);
+        this.messageService.add({ severity: 'success', summary: 'Success', detail: 'Event added to favorites' });
     } else {
       this.messageService.add({ severity: 'info', summary: 'Evento existente', detail: `El evento "${event.title}" ya existe en la base de datos.` });
     }

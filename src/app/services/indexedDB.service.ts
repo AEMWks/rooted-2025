@@ -2,10 +2,6 @@ import { Injectable } from '@angular/core';
 import { openDB, DBSchema, IDBPDatabase } from 'idb';
 
 interface MyDBService extends DBSchema {
-  'clicked-events': {
-    key: string;
-    value: any;
-  };
   'day1': {
     key: string;
     value: any;
@@ -27,20 +23,25 @@ export class IndexedDBService {
   private dbPromise: Promise<IDBPDatabase<MyDBService>>;
 
   constructor() {
+    const schema = ['day1', 'day2', 'day3'];
+
     this.dbPromise = openDB<MyDBService>('my-database', 1, {
       upgrade(db) {
-      if (db.objectStoreNames.contains('clicked-events')) {
-        db.deleteObjectStore('clicked-events');
-      }
-      if (!db.objectStoreNames.contains('day1')) {
-        db.createObjectStore('day1', { keyPath: 'id', autoIncrement: true });
-      }
-      if (!db.objectStoreNames.contains('day2')) {
-        db.createObjectStore('day2', { keyPath: 'id', autoIncrement: true });
-      }
-      if (!db.objectStoreNames.contains('day3')) {
-        db.createObjectStore('day3', { keyPath: 'id', autoIncrement: true });
-      }
+        const existingStores = Array.from(db.objectStoreNames);
+
+        // Eliminar tablas que no están en el esquema
+        existingStores.forEach(store => {
+          if (!schema.includes(store)) {
+            db.deleteObjectStore(store);
+          }
+        });
+
+         // Crear tablas que están en el esquema y no existen
+         schema.forEach(store => {
+          if (!existingStores.includes(store as "day1" | "day2" | "day3")) {
+            db.createObjectStore(store  as "day1" | "day2" | "day3", { keyPath: 'id', autoIncrement: true });
+          }
+        });
       }
     });
   }
@@ -61,8 +62,8 @@ export class IndexedDBService {
     return events.some(event => event.title === title);
   }
 
-    async removeEvent(event: any, table: any) {
-        const db = await this.dbPromise;
-        await db.delete(table, event.id);
-    }
+  async removeEvent(event: any, table: any) {
+    const db = await this.dbPromise;
+    await db.delete(table, event.id);
+  }
 }
