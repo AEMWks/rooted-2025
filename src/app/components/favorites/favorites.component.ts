@@ -28,6 +28,11 @@ export class FavoritesComponent {
     this.day1 = await this.indexedDBService.getEvents('day1')
     this.day2 = await this.indexedDBService.getEvents('day2')
     this.day3 = await this.indexedDBService.getEvents('day3')
+    console.log("antes", this.day1)
+    this.day1.sort((a, b) => a.start - b.start);
+    console.log("despues", this.day1)
+    this.day2.sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime());
+    this.day3.sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime());
   }
 
   async removeEvent(event: any, table: string) {

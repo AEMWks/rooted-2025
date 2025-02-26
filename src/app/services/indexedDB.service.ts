@@ -53,7 +53,10 @@ export class IndexedDBService {
 
   async getEvents(table: any) {
     const db = await this.dbPromise;
-    return await db.getAll(table);
+    const events = await db.getAll(table);
+    // Ordenar los eventos por la fecha 'start'
+    events.sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime());
+    return await events;
   }
 
   async eventExists(title: string, table: any): Promise<boolean> {
