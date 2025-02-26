@@ -219,6 +219,26 @@
                     "id": 829,
                     "url": "/cfp/speaker/829",
                     "name": "Patricia P\u00e9rez Soto"
+                },
+                {
+                    "id": 916,
+                    "url": "/cfp/speaker/916",
+                    "name": "\u00c1lvaro Marcos Escalona"
+                },
+                {
+                    "id": 827,
+                    "url": "/cfp/speaker/827",
+                    "name": "Abraham Pasamar"
+                },
+                {
+                    "id": 915,
+                    "url": "/cfp/speaker/915",
+                    "name": "Clara Bermejo"
+                },
+                {
+                    "id": 917,
+                    "url": "/cfp/speaker/917",
+                    "name": "Edoardo Zorzin"
                 }
             ]
         },
@@ -574,6 +594,26 @@
                     "id": 829,
                     "url": "/cfp/speaker/829",
                     "name": "Patricia P\u00e9rez Soto"
+                },
+                {
+                    "id": 916,
+                    "url": "/cfp/speaker/916",
+                    "name": "\u00c1lvaro Marcos Escalona"
+                },
+                {
+                    "id": 827,
+                    "url": "/cfp/speaker/827",
+                    "name": "Abraham Pasamar"
+                },
+                {
+                    "id": 915,
+                    "url": "/cfp/speaker/915",
+                    "name": "Clara Bermejo"
+                },
+                {
+                    "id": 917,
+                    "url": "/cfp/speaker/917",
+                    "name": "Edoardo Zorzin"
                 }
             ]
         },
@@ -656,7 +696,7 @@
                 {
                     "id": 77,
                     "url": "/cfp/speaker/77",
-                    "name": "Speaker 2"
+                    "name": "Ponente 2"
                 },
                 {
                     "id": 845,
@@ -1524,7 +1564,7 @@
                 {
                     "id": 139,
                     "url": "/cfp/speaker/139",
-                    "name": "Speaker 2"
+                    "name": "Ponente 2"
                 }
             ]
         },
@@ -2133,7 +2173,7 @@
                 {
                     "id": 876,
                     "url": "/cfp/speaker/876",
-                    "name": "Manuel Baallesteros"
+                    "name": "Manuel Ballesteros"
                 },
                 {
                     "id": 877,
@@ -2153,7 +2193,7 @@
                 {
                     "id": 781,
                     "url": "/cfp/speaker/781",
-                    "name": "Ander Galisteo"
+                    "name": "Ander Gaslisteo"
                 }
             ]
         },
@@ -2220,6 +2260,34 @@
         },
         "resourceId": "criptored",
         "className": "ecriptored"
+    },
+    {
+        "title": "Presentaci\u00f3n del nuevo M\u00e1ster en Ciberseguridad de la UCM",
+        "start": "2025-03-06T18:50:00",
+        "end": "2025-03-06T19:15:00",
+        "url": "/cfp/schedule/talk/217",
+        "extendedProps": {
+            "date": "2025-03-06",
+            "start_google": "20250306T185000",
+            "end_google": "20250306T191500",
+            "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
+            "start_time_yahoo": "20250306T1850",
+            "duration_yahoo": "0.416666666666666725.0",
+            "description": "Este a\u00f1o 2025 comienza la primera edici\u00f3n del M\u00e1ster en Ciberseguridad de la Universidad Complutense de Madrid. Se presentar\u00e1 brevemente el programa, convocatorias, modalidades y el claustro de profesores que impartir\u00e1n las clases magistrales, as\u00ed como la importancia y relevancia que tiene esta formaci\u00f3n Universitaria.",
+            "description_web": "Este+a%C3%B1o+2025+comienza+la+primera+edici%C3%B3n+del+M%C3%A1ster+en+Ciberseguridad+de+la+Universidad+Complutense+de+Madrid.+Se+presentar%C3%A1+brevemente+el+programa%2C+convocatorias%2C+modalidades+y+el+claustro+de+profesores+que+impartir%C3%A1n+las+clases+magistrales%2C+as%C3%AD+como+la+importancia+y+relevancia+que+tiene+esta+formaci%C3%B3n+Universitaria.",
+            "room": 25,
+            "track": "ROOTED",
+            "slot_type": "TALK",
+            "speakers": [
+                {
+                    "id": 873,
+                    "url": "/cfp/speaker/873",
+                    "name": "Javier Dom\u00ednguez G\u00f3mez"
+                }
+            ]
+        },
+        "resourceId": "rooted25",
+        "className": "erooted"
     },
     {
         "title": "Dark Territory II: paralizando la red ferroviaria de alta velocidad",

@@ -232,7 +232,7 @@
                 {
                     "id": 549,
                     "url": "/cfp/speaker/549",
-                    "name": "Speaker 1"
+                    "name": "Ponente 1"
                 },
                 {
                     "id": 734,
@@ -1345,7 +1345,7 @@
         "className": "eia"
     },
     {
-        "title": "En proceso",
+        "title": "Mesa redonda: Tebas a quedar sin f\u00fatbol",
         "start": "2025-03-07T15:30:00",
         "end": "2025-03-07T16:30:00",
         "url": "/cfp/schedule/talk/89",
@@ -1356,12 +1356,38 @@
             "location_google": "Kin%C3%A9polis+Madrid%3A+C.+Edgar+Neville%2C+s%2Fn+28223+Madrid",
             "start_time_yahoo": "20250307T1530",
             "duration_yahoo": "1.00.0",
-            "description": "En proceso",
-            "description_web": "En+proceso",
+            "description": "En esta charla-debate relevante para el sector tecnol\u00f3gico, de la Ciberseguridad y, sobre todo, de los Derechos Fundamentales, debatiremos extensivamente sobre las consecuencias de anteponer los intereses comerciales de una serie de empresas a las derechos que el Contrato Social garantiza a los ciudadanos.\r\n\r\n<p>Moderada por: <b>un grupo de frikis</b></p>\r\n<p>Con la colaboraci\u00f3n de medios de prensa: <b>de ninguno</b></p>\r\n<p>\u00a1Con la aparici\u00f3n estelar de Tebas!</p>",
+            "description_web": "En+esta+charla-debate+relevante+para+el+sector+tecnol%C3%B3gico%2C+de+la+Ciberseguridad+y%2C+sobre+todo%2C+de+los+Derechos+Fundamentales%2C+debatiremos+extensivamente+sobre+las+consecuencias+de+anteponer+los+intereses+comerciales+de+una+serie+de+empresas+a+las+derechos+que+el+Contrato+Social+garantiza+a+los+ciudadanos.%0D%0A%0D%0A%3Cp%3EModerada+por%3A+%3Cb%3Eun+grupo+de+frikis%3C%2Fb%3E%3C%2Fp%3E%0D%0A%3Cp%3ECon+la+colaboraci%C3%B3n+de+medios+de+prensa%3A+%3Cb%3Ede+ninguno%3C%2Fb%3E%3C%2Fp%3E%0D%0A%3Cp%3E%C2%A1Con+la+aparici%C3%B3n+estelar+de+Tebas%21%3C%2Fp%3E",
             "room": 25,
             "track": "ROOTED",
             "slot_type": "TALK",
-            "speakers": []
+            "speakers": [
+                {
+                    "id": 767,
+                    "url": "/cfp/speaker/767",
+                    "name": "Rom\u00e1n Ram\u00edrez"
+                },
+                {
+                    "id": 863,
+                    "url": "/cfp/speaker/863",
+                    "name": "Omar Benbouazza"
+                },
+                {
+                    "id": 835,
+                    "url": "/cfp/speaker/835",
+                    "name": "Ofelia Tejerina"
+                },
+                {
+                    "id": 913,
+                    "url": "/cfp/speaker/913",
+                    "name": "Tomas Ledo Guerrero"
+                },
+                {
+                    "id": 914,
+                    "url": "/cfp/speaker/914",
+                    "name": "Javier Maestre Rodr\u00edguez"
+                }
+            ]
         },
         "resourceId": "rooted25",
         "className": "erooted"
@@ -1747,7 +1773,7 @@
                 {
                     "id": 577,
                     "url": "/cfp/speaker/577",
-                    "name": "Speaker 1"
+                    "name": "Ponente 1"
                 },
                 {
                     "id": 868,
