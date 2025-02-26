@@ -2,6 +2,10 @@ import { Injectable } from '@angular/core';
 import { openDB, DBSchema, IDBPDatabase } from 'idb';
 
 interface MyDBService extends DBSchema {
+  'clicked-events': {
+    key: string;
+    value: any;
+  };
   'day1': {
     key: string;
     value: any;
@@ -25,6 +29,9 @@ export class IndexedDBService {
   constructor() {
     this.dbPromise = openDB<MyDBService>('my-database', 1, {
       upgrade(db) {
+      if (db.objectStoreNames.contains('clicked-events')) {
+        db.deleteObjectStore('clicked-events');
+      }
       if (!db.objectStoreNames.contains('day1')) {
         db.createObjectStore('day1', { keyPath: 'id', autoIncrement: true });
       }
