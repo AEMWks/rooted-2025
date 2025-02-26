@@ -21,25 +21,25 @@ interface MyDBService extends DBSchema {
 })
 export class IndexedDBService {
   private dbPromise: Promise<IDBPDatabase<MyDBService>>;
+  private schema = ['day1', 'day2', 'day3'];
 
   constructor() {
-    const schema = ['day1', 'day2', 'day3'];
-
-    this.dbPromise = openDB<MyDBService>('my-database', 1, {
-      upgrade(db) {
+    this.dbPromise = openDB<MyDBService>('my-database', 2, {
+      upgrade: (db, oldVersion, newVersion, transaction) => {
+        // Obtener todas las tablas existentes
         const existingStores = Array.from(db.objectStoreNames);
 
         // Eliminar tablas que no están en el esquema
         existingStores.forEach(store => {
-          if (!schema.includes(store)) {
+          if (!this.schema.includes(store)) {
             db.deleteObjectStore(store);
           }
         });
 
-         // Crear tablas que están en el esquema y no existen
-         schema.forEach(store => {
-          if (!existingStores.includes(store as "day1" | "day2" | "day3")) {
-            db.createObjectStore(store  as "day1" | "day2" | "day3", { keyPath: 'id', autoIncrement: true });
+        // Crear tablas que están en el esquema y no existen
+        this.schema.forEach(store => {
+          if (!existingStores.includes(store as 'day1' | 'day2' | 'day3')) {
+            db.createObjectStore(store as 'day1' | 'day2' | 'day3', { keyPath: 'id', autoIncrement: true });
           }
         });
       }
