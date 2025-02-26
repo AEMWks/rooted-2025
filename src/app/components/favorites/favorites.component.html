@@ -4,33 +4,98 @@
 </button>
 
 <!-- TODO - Order by date-->
-<div class="container mx-auto p-4">
-    <p-timeline [value]="savedEvents" align="alternate">
-        <ng-template #marker let-event>
-            <button (click)="removeEvent(event)" class="p-link">
-                <div
-                    class="flex w-8 h-8 items-center justify-center text-white rounded-full z-10 shadow-sm border-2 border-white">
-                    <fa-icon [icon]="faTrash"></fa-icon>
-                </div>
-            </button>
-        </ng-template>
-        <ng-template #opposite let-event>
-            <div> <small class="text-surface-500 dark:text-yellow-400">{{ event.start | date: 'HH:mm:ss'
-                    }}</small>
-            </div>
-            <div>
-                <small class="text-surface-500 dark:text-gray-400">Room {{ event.extendedProps.room }} -
-                    <div *ngFor="let speaker of event.extendedProps.speakers ">
-                        {{speaker.name }}
+<p-accordion class="grid grid-cols-1">
+    <p-accordion-panel value="day1">
+        <p-accordion-header class="text-2xl text-center m-6">Day 1</p-accordion-header>
+        <p-timeline [value]="day1" align="alternate">
+            <ng-template #marker let-event>
+                <button (click)="removeEvent(event, 'day1')" class="p-link">
+                    <div
+                        class="flex w-8 h-8 items-center justify-center text-white rounded-full z-10 shadow-sm border-2 border-white">
+                        <fa-icon [icon]="faTrash"></fa-icon>
                     </div>
-                </small>
-            </div>
-        </ng-template>
-        <ng-template #content let-event>
-            <p-card [header]="event.status" [subheader]="event.date">
-                <h3 class="text-blue-300">{{ event.title }}</h3>
-                <p class="text-xs">{{event.extendedProps.description}}</p>
-            </p-card>
-        </ng-template>
-    </p-timeline>
-</div>
+                </button>
+            </ng-template>
+            <ng-template #opposite let-event>
+                <div> <small class="text-surface-500 dark:text-yellow-400">{{ event.start | date: 'HH:mm:ss'
+                        }}</small>
+                </div>
+                <div>
+                    <small class="text-surface-500 dark:text-gray-400">Room {{ event.extendedProps.room }} -
+                        <div *ngFor="let speaker of event.extendedProps.speakers ">
+                            {{speaker.name }}
+                        </div>
+                    </small>
+                </div>
+            </ng-template>
+            <ng-template #content let-event>
+                <p-card [header]="event.status" [subheader]="event.date">
+                    <h3 class="text-blue-300">{{ event.title }}</h3>
+                    <p class="text-xs">{{event.extendedProps.description}}</p>
+                </p-card>
+            </ng-template>
+        </p-timeline>
+    </p-accordion-panel>
+    <p-accordion-panel  value="day2">
+        <p-accordion-header class="text-2xl text-center m-6">Day 2</p-accordion-header>
+        <p-timeline [value]="day2" align="alternate">
+            <ng-template #marker let-event>
+                <button (click)="removeEvent(event, 'day2')" class="p-link">
+                    <div
+                        class="flex w-8 h-8 items-center justify-center text-white rounded-full z-10 shadow-sm border-2 border-white">
+                        <fa-icon [icon]="faTrash"></fa-icon>
+                    </div>
+                </button>
+            </ng-template>
+            <ng-template #opposite let-event>
+                <div> <small class="text-surface-500 dark:text-yellow-400">{{ event.start | date: 'HH:mm:ss'
+                        }}</small>
+                </div>
+                <div>
+                    <small class="text-surface-500 dark:text-gray-400">Room {{ event.extendedProps.room }} -
+                        <div *ngFor="let speaker of event.extendedProps.speakers ">
+                            {{speaker.name }}
+                        </div>
+                    </small>
+                </div>
+            </ng-template>
+            <ng-template #content let-event>
+                <p-card [header]="event.status" [subheader]="event.date">
+                    <h3 class="text-blue-300">{{ event.title }}</h3>
+                    <p class="text-xs">{{event.extendedProps.description}}</p>
+                </p-card>
+            </ng-template>
+        </p-timeline>
+    </p-accordion-panel>
+    <p-accordion-panel  value="day3">
+        <p-accordion-header class="text-2xl text-center m-6">Day 3</p-accordion-header>
+        <p-timeline [value]="day3" align="alternate">
+            <ng-template #marker let-event>
+                <button (click)="removeEvent(event, 'day3')" class="p-link">
+                    <div
+                        class="flex w-8 h-8 items-center justify-center text-white rounded-full z-10 shadow-sm border-2 border-white">
+                        <fa-icon [icon]="faTrash"></fa-icon>
+                    </div>
+                </button>
+            </ng-template>
+            <ng-template #opposite let-event>
+                <div> <small class="text-surface-500 dark:text-yellow-400">{{ event.start | date: 'HH:mm:ss'
+                        }}</small>
+                </div>
+                <div>
+                    <small class="text-surface-500 dark:text-gray-400">Room {{ event.extendedProps.room }} -
+                        <div *ngFor="let speaker of event.extendedProps.speakers ">
+                            {{speaker.name }}
+                        </div>
+                    </small>
+                </div>
+            </ng-template>
+            <ng-template #content let-event>
+                <p-card [header]="event.status" [subheader]="event.date">
+                    <h3 class="text-blue-300">{{ event.title }}</h3>
+                    <p class="text-xs">{{event.extendedProps.description}}</p>
+                </p-card>
+            </ng-template>
+        </p-timeline>
+    </p-accordion-panel>
+</p-accordion>

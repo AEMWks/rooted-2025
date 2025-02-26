@@ -2,7 +2,15 @@ import { Injectable } from '@angular/core';
 import { openDB, DBSchema, IDBPDatabase } from 'idb';
 
 interface MyDBService extends DBSchema {
-  'clicked-events': {
+  'day1': {
+    key: string;
+    value: any;
+  };
+  'day2': {
+    key: string;
+    value: any;
+  };
+  'day3': {
     key: string;
     value: any;
   };
@@ -17,29 +25,37 @@ export class IndexedDBService {
   constructor() {
     this.dbPromise = openDB<MyDBService>('my-database', 1, {
       upgrade(db) {
-        db.createObjectStore('clicked-events', { keyPath: 'id', autoIncrement: true });
+      if (!db.objectStoreNames.contains('day1')) {
+        db.createObjectStore('day1', { keyPath: 'id', autoIncrement: true });
+      }
+      if (!db.objectStoreNames.contains('day2')) {
+        db.createObjectStore('day2', { keyPath: 'id', autoIncrement: true });
+      }
+      if (!db.objectStoreNames.contains('day3')) {
+        db.createObjectStore('day3', { keyPath: 'id', autoIncrement: true });
+      }
       }
     });
   }
 
-  async addEvent(event: any) {
+  async addEvent(event: any, table: any) {
     const db = await this.dbPromise;
-    await db.add('clicked-events', event);
+    await db.add(table, event);
   }
 
-  async getEvents() {
+  async getEvents(table: any) {
     const db = await this.dbPromise;
-    return await db.getAll('clicked-events');
+    return await db.getAll(table);
   }
 
-  async eventExists(title: string): Promise<boolean> {
+  async eventExists(title: string, table: any): Promise<boolean> {
     const db = await this.dbPromise;
-    const events = await db.getAll('clicked-events');
+    const events = await db.getAll(table);
     return events.some(event => event.title === title);
   }
 
-    async removeEvent(event: any) {
+    async removeEvent(event: any, table: any) {
         const db = await this.dbPromise;
-        await db.delete('clicked-events', event.id);
+        await db.delete(table, event.id);
     }
 }

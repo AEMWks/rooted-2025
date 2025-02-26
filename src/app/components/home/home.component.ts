@@ -37,6 +37,8 @@ export class HomeComponent {
   day2: any[] = [];
   day3: any[] = [];
 
+  tableEventsName: string = '';
+
   resourceIds: { [key: number]: any[] } = {}; // Objeto para almacenar eventos por room
 
   constructor(
@@ -67,9 +69,9 @@ export class HomeComponent {
   async onEventClick(event: any) {
     console.log('Add event:', event);
 
-    const exists = await this.indexedDBService.eventExists(event.title);
+    const exists = await this.indexedDBService.eventExists(event.title, this.tableEventsName);
     if (!exists) {
-      this.indexedDBService.addEvent(event);
+      this.indexedDBService.addEvent(event, this.tableEventsName);
       this.messageService.add({ severity: 'success', summary: 'Success', detail: 'Event added to favorites' });
     } else {
       this.messageService.add({ severity: 'info', summary: 'Evento existente', detail: `El evento "${event.title}" ya existe en la base de datos.` });
@@ -92,7 +94,8 @@ export class HomeComponent {
     });
   }
 
-  getDayData(day: any[]) {
+  getDayData(table: string, day: any[]) {
     this.extractRooms(day);
+    this.tableEventsName = table;
   }
 }
