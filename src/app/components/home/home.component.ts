@@ -36,6 +36,7 @@ export class HomeComponent {
   day1: any[] = [];
   day2: any[] = [];
   day3: any[] = [];
+
   resourceIds: { [key: number]: any[] } = {}; // Objeto para almacenar eventos por room
 
   constructor(
@@ -57,14 +58,7 @@ export class HomeComponent {
 
       ]);
 
-      // Extraer los objetos en diferentes arrays según su atributo rooms
-      this.day1.forEach(event => {
-        const resourceId = event.resourceId;
-        if (!this.resourceIds[resourceId]) {
-          this.resourceIds[resourceId] = [];
-        }
-        this.resourceIds[resourceId].push(event);
-      });
+      
     } catch (error) {
       console.error(error);
     }
@@ -84,5 +78,21 @@ export class HomeComponent {
 
   goToFavorites() {
     this.router.navigate(['/favorites']);
+  }
+
+  extractRooms(day: any[]) {
+    this.resourceIds = {}
+    // Extraer los objetos en diferentes arrays según su atributo rooms
+    day.forEach(event => {
+      const resourceId = event.resourceId;
+      if (!this.resourceIds[resourceId]) {
+        this.resourceIds[resourceId] = [];
+      }
+      this.resourceIds[resourceId].push(event);
+    });
+  }
+
+  getDayData(day: any[]) {
+    this.extractRooms(day);
   }
 }
